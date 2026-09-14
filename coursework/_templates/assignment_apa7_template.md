@@ -1,4 +1,4 @@
-<!-- Copy this file into coursework/<COURSE>/assignments/ and rename e.g. week1_reflection.md -->
+<!-- Copy this file into coursework/<COURSE>/weekNN/assignments/ and rename e.g. reflection.md -->
 
 # [Assignment Title]
 
