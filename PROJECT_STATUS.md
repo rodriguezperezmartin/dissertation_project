@@ -51,6 +51,7 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - **2026-09-14:** Added Week 3 study aid — `walliman_research_methodology_study_aid.md` (converted from uploaded docx) covering levels of measurement, statements vs. arguments, deductive/inductive reasoning, and logical fallacies. Linked from `week03/learning_objectives.md` and noted in `course_overview.md`'s weekly map.
 - **2026-09-14:** Corrected placement — the Walliman study aid is actually quiz findings/analysis, so it belongs in `week03/assignments/`, not the week root. Moved it there and fixed links. Rule going forward: each week has exactly one `learning_objectives.md` (the week's overview/study guide); anything derived from a quiz, discussion, or other graded/completed activity goes in that week's `assignments/`.
 - **2026-09-14:** Added `original_src_files/` as a standard per-week subfolder — all original uploaded files (docx, etc.) are archived there, keeping `assignments/` and `feedback/` as clean, markdown-only, git-friendly conversions. Moved the two existing Week 3 docx files there and updated references.
+- **2026-09-14:** Applied the full week structure (`assignments/`, `feedback/`, `original_src_files/`) to `week01` and `week02` for consistency. Created [coursework/_templates/COURSEWORK_STRUCTURE.md](coursework/_templates/COURSEWORK_STRUCTURE.md) as the canonical, documented standard for every course/week going forward — apply automatically to new courses/weeks without being asked.
 
 ## 6. Next Actions
 - [ ] Continue PLCY 700 Week 3 replies grading / Week 4 materials once released
@@ -59,6 +60,8 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - [ ] Keep feeding professor feedback into `feedback_log/feedback_tracker.md` as it arrives
 
 ## 7. Standing Maintenance Rule (Do This Automatically — Don't Wait to Be Asked)
+Folder/file structure for all coursework follows [coursework/_templates/COURSEWORK_STRUCTURE.md](coursework/_templates/COURSEWORK_STRUCTURE.md) — the canonical spec. Apply it to every new course and week without being asked.
+
 Whenever an assignment, reply, or feedback item is added/completed for a given week, update **without being explicitly told**:
 1. `coursework/<COURSE>/weekNN/learning_objectives.md` — mark the week's status/content current, confirm Quick Links point to the new file(s).
 2. `coursework/<COURSE>/course_overview.md` — update that week's row in the Weekly Map table (status, topic) and the aggregate objectives list if new ones were introduced.

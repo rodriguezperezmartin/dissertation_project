@@ -60,11 +60,12 @@ This topic exists to serve a set of personal, professional, and faith-driven goa
 - [program_info/phd_program_notes.md](program_info/phd_program_notes.md) — Liberty PLCY program summary & requirements
 
 ### Coursework
+- [coursework/_templates/COURSEWORK_STRUCTURE.md](coursework/_templates/COURSEWORK_STRUCTURE.md) — **canonical structure standard** for every course/week going forward
 - [coursework/_templates/assignment_apa7_template.md](coursework/_templates/assignment_apa7_template.md) — copy for every new assignment (APA 7 structure)
 - **PLCY 700 — Foundations of Public Policy**
   - [coursework/PLCY700/course_overview.md](coursework/PLCY700/course_overview.md) — **start here for this course**: quick-scan study guide, aggregate objectives, weekly map, dissertation tie-ins
-  - [coursework/PLCY700/week01/](coursework/PLCY700/week01/) — materials, `assignments/`, `feedback/` (empty, not yet started)
-  - [coursework/PLCY700/week02/](coursework/PLCY700/week02/) — materials, `assignments/`, `feedback/` (empty, not yet started)
+  - [coursework/PLCY700/week01/](coursework/PLCY700/week01/) — materials, `assignments/`, `feedback/`, `original_src_files/` (empty, not yet started)
+  - [coursework/PLCY700/week02/](coursework/PLCY700/week02/) — materials, `assignments/`, `feedback/`, `original_src_files/` (empty, not yet started)
   - [coursework/PLCY700/week03/](coursework/PLCY700/week03/) — [learning_objectives.md](coursework/PLCY700/week03/learning_objectives.md), [assignments/walliman_research_methodology_study_aid.md](coursework/PLCY700/week03/assignments/walliman_research_methodology_study_aid.md), [assignments/book_review_discussion.md](coursework/PLCY700/week03/assignments/book_review_discussion.md), [assignments/discussion_reply1.md](coursework/PLCY700/week03/assignments/discussion_reply1.md), [assignments/discussion_reply2.md](coursework/PLCY700/week03/assignments/discussion_reply2.md), [feedback/feedback.md](coursework/PLCY700/week03/feedback/feedback.md), [original_src_files/](coursework/PLCY700/week03/original_src_files/) (original uploaded docx files, archived)
 
 ### Dissertation Workspace
