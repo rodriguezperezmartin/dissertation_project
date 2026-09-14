@@ -52,12 +52,15 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - **2026-09-14:** Corrected placement — the Walliman study aid is actually quiz findings/analysis, so it belongs in `week03/assignments/`, not the week root. Moved it there and fixed links. Rule going forward: each week has exactly one `learning_objectives.md` (the week's overview/study guide); anything derived from a quiz, discussion, or other graded/completed activity goes in that week's `assignments/`.
 - **2026-09-14:** Added `original_src_files/` as a standard per-week subfolder — all original uploaded files (docx, etc.) are archived there, keeping `assignments/` and `feedback/` as clean, markdown-only, git-friendly conversions. Moved the two existing Week 3 docx files there and updated references.
 - **2026-09-14:** Applied the full week structure (`assignments/`, `feedback/`, `original_src_files/`) to `week01` and `week02` for consistency. Created [coursework/_templates/COURSEWORK_STRUCTURE.md](coursework/_templates/COURSEWORK_STRUCTURE.md) as the canonical, documented standard for every course/week going forward — apply automatically to new courses/weeks without being asked.
+- **2026-09-14:** Created `week04` folder structure and `learning_objectives.md` from Dr. Boykin's Module 4 announcement: literature review assignment (10 academic sources, organized topically, APA citations), learning outcomes (evaluate literature, develop research questions, policy agendas, distributive/regulatory/redistributive policy). Flagged as a strong opportunity to align the Week 4 literature review directly with the dissertation topic. Updated `course_overview.md` weekly map + aggregate objectives.
 
 ## 6. Next Actions
 - [ ] Continue PLCY 700 Week 3 replies grading / Week 4 materials once released
 - [ ] Acquire Weiss (1991) PDF/copy for `direct_sources/files/`
 - [ ] Begin drafting Module 6 book review (Weiss) once course reaches that point
 - [ ] Keep feeding professor feedback into `feedback_log/feedback_tracker.md` as it arrives
+- [ ] Choose a Week 4 literature review topic aligned with the dissertation focus (healthcare digital infrastructure / DPI / M&E) and source 10 peer-reviewed articles
+- [ ] Log each Week 4 literature review source into `dissertation/literature_review/direct_sources/annotated_bibliography.md` as it's read
 
 ## 7. Standing Maintenance Rule (Do This Automatically — Don't Wait to Be Asked)
 Folder/file structure for all coursework follows [coursework/_templates/COURSEWORK_STRUCTURE.md](coursework/_templates/COURSEWORK_STRUCTURE.md) — the canonical spec. Apply it to every new course and week without being asked.

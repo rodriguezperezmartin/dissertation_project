@@ -67,6 +67,7 @@ This topic exists to serve a set of personal, professional, and faith-driven goa
   - [coursework/PLCY700/week01/](coursework/PLCY700/week01/) — materials, `assignments/`, `feedback/`, `original_src_files/` (empty, not yet started)
   - [coursework/PLCY700/week02/](coursework/PLCY700/week02/) — materials, `assignments/`, `feedback/`, `original_src_files/` (empty, not yet started)
   - [coursework/PLCY700/week03/](coursework/PLCY700/week03/) — [learning_objectives.md](coursework/PLCY700/week03/learning_objectives.md), [assignments/walliman_research_methodology_study_aid.md](coursework/PLCY700/week03/assignments/walliman_research_methodology_study_aid.md), [assignments/book_review_discussion.md](coursework/PLCY700/week03/assignments/book_review_discussion.md), [assignments/discussion_reply1.md](coursework/PLCY700/week03/assignments/discussion_reply1.md), [assignments/discussion_reply2.md](coursework/PLCY700/week03/assignments/discussion_reply2.md), [feedback/feedback.md](coursework/PLCY700/week03/feedback/feedback.md), [original_src_files/](coursework/PLCY700/week03/original_src_files/) (original uploaded docx files, archived)
+  - [coursework/PLCY700/week04/](coursework/PLCY700/week04/) — [learning_objectives.md](coursework/PLCY700/week04/learning_objectives.md) (literature review assignment instructions, 10 sources); `assignments/`, `feedback/`, `original_src_files/` (empty, in progress)
 
 ### Dissertation Workspace
 - [dissertation/preliminary_thoughts.md](dissertation/preliminary_thoughts.md) — original topic brainstorm

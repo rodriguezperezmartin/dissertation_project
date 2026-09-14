@@ -13,6 +13,10 @@ _Add the official syllabus course description here once available._
 - Identify logical fallacies in research.
 - Apply levels of measurement to concepts and operational definitions.
 - Differentiate between inductive and deductive reasoning.
+- Evaluate a body of academic literature in a chosen public policy area of interest.
+- Develop a scientific research question from a chosen body of academic literature.
+- Identify sources of political power and their influence on policy agendas.
+- Compare and contrast distributive, regulatory, and redistributive policies.
 
 ## Weekly Map
 Quick-scan table of every week. Click through to a week's `learning_objectives.md` for the detailed study guide, and from there to that week's assignments/feedback.
@@ -22,12 +26,14 @@ Quick-scan table of every week. Click through to a week's `learning_objectives.m
 | 1 | _TBD_ | Not yet started | [week01/learning_objectives.md](week01/learning_objectives.md) |
 | 2 | _TBD_ | Not yet started | [week02/learning_objectives.md](week02/learning_objectives.md) |
 | 3 | Academic critique, book reviews, logical fallacies, levels of measurement, inductive/deductive reasoning (incl. Walliman research methodology study aid) | Completed | [week03/learning_objectives.md](week03/learning_objectives.md) |
+| 4 | Literature review writing (10 academic sources, organized topically), scientific research questions, political power & policy agendas, distributive/regulatory/redistributive policy | In Progress | [week04/learning_objectives.md](week04/learning_objectives.md) |
 
 > Add a row per week as the syllabus/module content becomes available.
 
 ## Dissertation Tie-Ins
 - Module 6 book review will use Weiss (1991) — logged in [dissertation/literature_review/direct_sources/annotated_bibliography.md](../../dissertation/literature_review/direct_sources/annotated_bibliography.md)
 - Week 3 discussion source (Marotta, 2021) — logged in [dissertation/literature_review/indirect_sources/annotated_bibliography.md](../../dissertation/literature_review/indirect_sources/annotated_bibliography.md)
+- Week 4 literature review assignment (10 academic sources) is a strong candidate to align directly with the dissertation topic — once a topic is chosen, log all 10 sources into [dissertation/literature_review/direct_sources/annotated_bibliography.md](../../dissertation/literature_review/direct_sources/annotated_bibliography.md) as they're read
 
 ## Related Tracking
 - Course-wide feedback patterns: [feedback_log/feedback_tracker.md](../../feedback_log/feedback_tracker.md)
