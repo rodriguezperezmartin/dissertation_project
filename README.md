@@ -35,8 +35,9 @@ This topic exists to serve a set of personal, professional, and faith-driven goa
 │       ├── course_overview.md     # quick-scan course study guide, links to each week
 │       └── week03/                # each week is self-contained (lowercase, zero-padded)
 │           ├── learning_objectives.md
-│           ├── assignments/       # submitted assignments for that week
-│           └── feedback/          # professor feedback for that week
+│           ├── assignments/       # markdown conversions of submitted assignments for that week
+│           ├── feedback/          # professor feedback for that week
+│           └── original_src_files/ # archived original uploads (docx, etc.) for that week
 ├── dissertation/                  # deep-dive dissertation workspace
 │   ├── preliminary_thoughts.md    # original brainstorm
 │   ├── topic_overview.md          # current working topic summary
@@ -48,7 +49,7 @@ This topic exists to serve a set of personal, professional, and faith-driven goa
 
 ## Workflow
 1. Each course gets a folder under `coursework/` named by course code (e.g., `PLCY700`); each week gets its own folder (e.g., `week03/`).
-2. Within a week's folder: materials go at the top level, assignments go in `assignments/`, feedback goes in `feedback/`.
+2. Within a week's folder: materials go at the top level (`learning_objectives.md`), assignments go in `assignments/` (as markdown), feedback goes in `feedback/`, and any original uploaded files (docx, etc.) are archived in `original_src_files/`.
 3. Any insight relevant to the dissertation topic gets pulled into `dissertation/` (topic overview, research question log, or literature review — sorted into `direct_sources/` or `indirect_sources/`).
 4. Any insight into how Liberty evaluates work gets logged in `feedback_log/feedback_tracker.md`.
 
@@ -64,7 +65,7 @@ This topic exists to serve a set of personal, professional, and faith-driven goa
   - [coursework/PLCY700/course_overview.md](coursework/PLCY700/course_overview.md) — **start here for this course**: quick-scan study guide, aggregate objectives, weekly map, dissertation tie-ins
   - [coursework/PLCY700/week01/](coursework/PLCY700/week01/) — materials, `assignments/`, `feedback/` (empty, not yet started)
   - [coursework/PLCY700/week02/](coursework/PLCY700/week02/) — materials, `assignments/`, `feedback/` (empty, not yet started)
-  - [coursework/PLCY700/week03/](coursework/PLCY700/week03/) — [learning_objectives.md](coursework/PLCY700/week03/learning_objectives.md), [assignments/walliman_research_methodology_study_aid.md](coursework/PLCY700/week03/assignments/walliman_research_methodology_study_aid.md), [assignments/book_review_discussion.md](coursework/PLCY700/week03/assignments/book_review_discussion.md), [assignments/discussion_reply1.md](coursework/PLCY700/week03/assignments/discussion_reply1.md), [assignments/discussion_reply2.md](coursework/PLCY700/week03/assignments/discussion_reply2.md), [feedback/feedback.md](coursework/PLCY700/week03/feedback/feedback.md)
+  - [coursework/PLCY700/week03/](coursework/PLCY700/week03/) — [learning_objectives.md](coursework/PLCY700/week03/learning_objectives.md), [assignments/walliman_research_methodology_study_aid.md](coursework/PLCY700/week03/assignments/walliman_research_methodology_study_aid.md), [assignments/book_review_discussion.md](coursework/PLCY700/week03/assignments/book_review_discussion.md), [assignments/discussion_reply1.md](coursework/PLCY700/week03/assignments/discussion_reply1.md), [assignments/discussion_reply2.md](coursework/PLCY700/week03/assignments/discussion_reply2.md), [feedback/feedback.md](coursework/PLCY700/week03/feedback/feedback.md), [original_src_files/](coursework/PLCY700/week03/original_src_files/) (original uploaded docx files, archived)
 
 ### Dissertation Workspace
 - [dissertation/preliminary_thoughts.md](dissertation/preliminary_thoughts.md) — original topic brainstorm
