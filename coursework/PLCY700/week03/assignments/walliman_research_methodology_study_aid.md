@@ -1,6 +1,7 @@
 # Week 3 Study Aid — Research Methodology: Walliman Principles
 
 **Course:** PLCY 700 — Foundations of Public Policy
+**Type:** Quiz findings/analysis (self-prepared study aid based on quiz results)
 **Source:** `walliman_research_methodology_study_aid.docx` (original file, this page)
 
 Structured overview of the core research methodology principles from Walliman, covering measurement, logical argumentation, and fallacy identification — directly supports this week's learning outcomes on levels of measurement and inductive/deductive reasoning.

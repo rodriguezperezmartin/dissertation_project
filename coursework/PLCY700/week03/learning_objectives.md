@@ -11,7 +11,7 @@ Upon successful completion of this module, you will be able to:
 - Differentiate between inductive and deductive reasoning.
 
 ## Quick Links
-- Study aids: [walliman_research_methodology_study_aid.md](walliman_research_methodology_study_aid.md) — measurement levels, arguments, logical fallacies
+- Study aids: [assignments/walliman_research_methodology_study_aid.md](assignments/walliman_research_methodology_study_aid.md) — measurement levels, arguments, logical fallacies
 - Assignments: [assignments/book_review_discussion.md](assignments/book_review_discussion.md), [assignments/discussion_reply1.md](assignments/discussion_reply1.md), [assignments/discussion_reply2.md](assignments/discussion_reply2.md)
 - Feedback: [feedback/feedback.md](feedback/feedback.md)
 - Course overview: [../course_overview.md](../course_overview.md)
