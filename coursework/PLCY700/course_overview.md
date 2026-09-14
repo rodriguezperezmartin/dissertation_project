@@ -21,7 +21,7 @@ Quick-scan table of every week. Click through to a week's `learning_objectives.m
 |---|---|---|---|
 | 1 | _TBD_ | Not yet started | [week01/learning_objectives.md](week01/learning_objectives.md) |
 | 2 | _TBD_ | Not yet started | [week02/learning_objectives.md](week02/learning_objectives.md) |
-| 3 | Academic critique, book reviews, logical fallacies, levels of measurement, inductive/deductive reasoning | Completed | [week03/learning_objectives.md](week03/learning_objectives.md) |
+| 3 | Academic critique, book reviews, logical fallacies, levels of measurement, inductive/deductive reasoning (incl. Walliman research methodology study aid) | Completed | [week03/learning_objectives.md](week03/learning_objectives.md) |
 
 > Add a row per week as the syllabus/module content becomes available.
 
