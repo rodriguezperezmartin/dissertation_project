@@ -54,6 +54,7 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - **2026-09-14:** Applied the full week structure (`assignments/`, `feedback/`, `original_src_files/`) to `week01` and `week02` for consistency. Created [coursework/_templates/COURSEWORK_STRUCTURE.md](coursework/_templates/COURSEWORK_STRUCTURE.md) as the canonical, documented standard for every course/week going forward — apply automatically to new courses/weeks without being asked.
 - **2026-09-14:** Created `week04` folder structure and `learning_objectives.md` from Dr. Boykin's Module 4 announcement: literature review assignment (10 academic sources, organized topically, APA citations), learning outcomes (evaluate literature, develop research questions, policy agendas, distributive/regulatory/redistributive policy). Flagged as a strong opportunity to align the Week 4 literature review directly with the dissertation topic. Updated `course_overview.md` weekly map + aggregate objectives.
 - **2026-09-14:** Created `week05` (placeholder) and `week06` folder structures. Logged the Module 6 book review book selection in `week06/learning_objectives.md`: Weiss (1991), *Organizations for Policy Analysis: Helping Government Think*, chosen for its alignment with the dissertation's digital healthcare infrastructure/data-driven policy focus.
+- **2026-09-14:** Replaced Week 4's preliminary assignment note with the official "Literature Assessment and Research Question" instructions and full grading rubric (100+ pts across 7 criteria) in `week04/learning_objectives.md`. Logged the rubric's evaluation criteria — notably the "3+ items = advanced" pattern on content criteria — into `feedback_log/feedback_tracker.md`.
 
 ## 6. Next Actions
 - [ ] Continue PLCY 700 Week 3 replies grading / Week 4 materials once released
@@ -62,6 +63,7 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - [ ] Keep feeding professor feedback into `feedback_log/feedback_tracker.md` as it arrives
 - [ ] Choose a Week 4 literature review topic aligned with the dissertation focus (healthcare digital infrastructure / DPI / M&E) and source 10 peer-reviewed articles
 - [ ] Log each Week 4 literature review source into `dissertation/literature_review/direct_sources/annotated_bibliography.md` as it's read
+- [ ] Draft Week 4 Literature Assessment (2,000-2,500 words, APA) covering 3+ common themes, 3+ gaps/weaknesses, 3+ research implications, ending in a testable/falsifiable research question
 
 ## 7. Standing Maintenance Rule (Do This Automatically — Don't Wait to Be Asked)
 Folder/file structure for all coursework follows [coursework/_templates/COURSEWORK_STRUCTURE.md](coursework/_templates/COURSEWORK_STRUCTURE.md) — the canonical spec. Apply it to every new course and week without being asked.

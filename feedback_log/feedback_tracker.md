@@ -16,4 +16,4 @@ _(Update as patterns emerge across multiple assignments — e.g., "faculty consi
 ## Evaluation Criteria Observed
 _(Document explicit or implicit rubrics/criteria faculty use to grade assignments and, eventually, the dissertation proposal/defense)_
 
--
+- **PLCY 700, Week 4 — Literature Assessment and Research Question rubric (Dr. Boykin):** graded on 7 criteria — (1) identification of 3+ common elements/themes across literature, with evaluation of significance; (2) identification of 3+ gaps/weaknesses, with evaluation of significance; (3) 3+ implications for future research (key texts, theories, methodologies, trends); (4) a scientific research question that is testable, falsifiable, phrased as a question, and follows naturally from the literature; (5) accurate/consistent APA formatting; (6) clear writing mechanics within a strict word count (2,000–2,500 words); (7) logical organization. Pattern: faculty consistently reward the number **3** as the threshold for "advanced" on content criteria (3+ themes, 3+ gaps, 3+ implications) — a useful heuristic for future assignments and for the dissertation literature review chapter.
