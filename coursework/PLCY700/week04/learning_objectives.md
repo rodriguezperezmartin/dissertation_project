@@ -46,6 +46,23 @@ Use APA style consistently; reference guide: [Liberty University APA Writing Gui
 ### Writing Tip (from Dr. Boykin's announcement email)
 Avoid organizing the assessment paper-by-paper (one source after another). Instead, **organize topically** — group sources by theme so the reader understands what the research says about a particular area, where sources agree/disagree, and how they differ in methodology and conclusions.
 
+## Chosen Topic — The "Leapfrog" Advantage & AI Integration
+
+This is a **strong candidate for the refined dissertation thesis** — testing a specific, near-term financial outcome (reduced reactive crisis spending) rather than waiting on lagging macroeconomic indicators, which sidesteps the "missing historical data" problem in emerging economies.
+
+**Final Research Question:**
+> To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending in public health interventions within emerging economies?
+
+**Core angle:** Emerging economies have a structural advantage — no legacy IT systems to work around — allowing them to jump straight into interoperable, AI-assisted health architectures. This tests whether applying modern technical stacks (agentic AI architectures, RAG frameworks, cloud-native ML pipelines, predictive models trained on first-world data but fine-tuned for third-world contexts) shifts government/NGO spending from reactive crisis management to proactive, targeted aid. Can be tested via pilot programs, synthetic data, or smaller localized NGO datasets rather than a decade-long macroeconomic study — **the technology itself becomes the policy intervention.**
+
+**Strategic alignment:** Bridges technical data engineering (MLOps/AI) with international economic policy; appeals directly to foreign aid allocation strategy — ties into the "Government Service and Diplomacy" and "Modernizing Healthcare Infrastructure" goals in [dissertation/topic_overview.md](../../../dissertation/topic_overview.md).
+
+### Search Strategy (Jerry Falwell Library — target 10 peer-reviewed sources)
+- **Search keywords:** "predictive AI public health," "interoperable health systems," "technology leapfrogging emerging markets," "healthcare resource allocation," "crisis spending"
+- **Area 1 — The "Leapfrog" Concept:** papers on developing nations bypassing legacy IT systems (analogous to landlines → mobile phones, applied to healthcare data)
+- **Area 2 — Resource Allocation:** economic papers on how AI/data-driven platforms change government/NGO allocation of targeted aid vs. emergency relief
+- **Area 3 — Cross-Context AI Application:** technical policy papers evaluating models trained on developed-world data deployed in low-resource environments
+
 ## Faculty Note
 Dr. Boykin shared a devotional reflection on John 20:19–31 (Thomas and the risen Jesus) — a reminder that we don't get to dictate what God chooses to reveal to us; our role is to believe and follow.
 

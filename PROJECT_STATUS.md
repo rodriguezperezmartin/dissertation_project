@@ -25,6 +25,8 @@ This is the single "load this first" file for the dissertation project. Read thi
 
 **Working research question:** Does investing in systematic processes that enable nations to capture patient health data lead to better public health policy, and does that policy in turn improve citizens' quality of life and economic resilience?
 
+**Refined candidate (2026-09-14, via PLCY 700 Week 4):** To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending in public health interventions within emerging economies? ("Leapfrog Advantage & AI Integration" angle — see [dissertation/research_questions.md](dissertation/research_questions.md) for full evolution log.)
+
 **Core thesis:** Health should be framed as a driver of human capital and economic growth, not just a medical/humanitarian issue. Emerging economies can leapfrog legacy health IT constraints to build agile digital health infrastructure. The core gap: monitoring & evaluation (M&E) is almost always an afterthought in health policy interventions rather than designed in from the start.
 
 Full detail: [dissertation/topic_overview.md](dissertation/topic_overview.md)
@@ -55,6 +57,7 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - **2026-09-14:** Created `week04` folder structure and `learning_objectives.md` from Dr. Boykin's Module 4 announcement: literature review assignment (10 academic sources, organized topically, APA citations), learning outcomes (evaluate literature, develop research questions, policy agendas, distributive/regulatory/redistributive policy). Flagged as a strong opportunity to align the Week 4 literature review directly with the dissertation topic. Updated `course_overview.md` weekly map + aggregate objectives.
 - **2026-09-14:** Created `week05` (placeholder) and `week06` folder structures. Logged the Module 6 book review book selection in `week06/learning_objectives.md`: Weiss (1991), *Organizations for Policy Analysis: Helping Government Think*, chosen for its alignment with the dissertation's digital healthcare infrastructure/data-driven policy focus.
 - **2026-09-14:** Replaced Week 4's preliminary assignment note with the official "Literature Assessment and Research Question" instructions and full grading rubric (100+ pts across 7 criteria) in `week04/learning_objectives.md`. Logged the rubric's evaluation criteria — notably the "3+ items = advanced" pattern on content criteria — into `feedback_log/feedback_tracker.md`.
+- **2026-09-14:** Selected Week 4 Literature Assessment topic: "Leapfrog Advantage & AI Integration" — predictive AI + interoperable digital health architectures reducing reactive crisis spending in emerging economies. Logged as a refined research question candidate in `dissertation/research_questions.md`, updated `week04/learning_objectives.md` with the full rationale and search strategy (keywords, 3 focus areas for the 10-source search via Jerry Falwell Library), and updated `course_overview.md` dissertation tie-ins.
 
 ## 6. Next Actions
 - [ ] Continue PLCY 700 Week 3 replies grading / Week 4 materials once released
@@ -62,6 +65,7 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - [ ] Begin drafting Module 6 book review (Weiss) once course reaches that point
 - [ ] Keep feeding professor feedback into `feedback_log/feedback_tracker.md` as it arrives
 - [ ] Choose a Week 4 literature review topic aligned with the dissertation focus (healthcare digital infrastructure / DPI / M&E) and source 10 peer-reviewed articles
+- [ ] Search for and source 10 peer-reviewed articles for the Week 4 "Leapfrog Advantage & AI Integration" topic (keywords: predictive AI public health, interoperable health systems, technology leapfrogging emerging markets, healthcare resource allocation, crisis spending)
 - [ ] Log each Week 4 literature review source into `dissertation/literature_review/direct_sources/annotated_bibliography.md` as it's read
 - [ ] Draft Week 4 Literature Assessment (2,000-2,500 words, APA) covering 3+ common themes, 3+ gaps/weaknesses, 3+ research implications, ending in a testable/falsifiable research question
 
