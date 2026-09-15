@@ -12,8 +12,8 @@ The dissertation topic, research question, and methodology all exist to serve a 
 ## Working Title (Draft)
 Healthcare Digital Infrastructure as a Driver of Public Policy Outcomes in Emerging Economies
 
-## Research Question (Draft)
-Does investing in systematic processes that enable nations to capture patient health data lead to better public health policy, and does that policy in turn improve citizens' quality of life and economic resilience?
+## Research Question (Current Leading Question — as of 2026-09-14)
+To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending in public health interventions within emerging economies? ("Leapfrog Advantage & AI Integration" angle — see [research_questions.md](research_questions.md) for the full evolution log and original broader framing.)
 
 ## Core Thesis
 Health should be framed not merely as a medical/humanitarian issue but as a driver of human capital and economic growth. Emerging economies have a structural advantage over developed nations: the absence of legacy health IT systems allows them to build agile, interoperable digital health infrastructure from the ground up. The central gap this dissertation targets is the near-total absence of built-in monitoring/evaluation systems in health policy interventions — reporting is treated as an afterthought rather than designed in from the start, which prevents timely, evidence-based policy correction.

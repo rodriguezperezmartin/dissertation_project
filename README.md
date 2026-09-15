@@ -19,7 +19,7 @@ All coursework assignments are being deliberately steered toward one focus area 
 ## Dissertation Topic (Working)
 **Healthcare Digital Infrastructure as a Driver of Public Policy Outcomes in Emerging Economies**
 
-Core research question (working draft): *Does investing in systematic processes that enable nations to capture patient health data enable better public health policy, and does that in turn improve citizens' quality of life and economic resilience?*
+Current leading research question (as of 2026-09-14): *To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending in public health interventions within emerging economies?* ("Leapfrog Advantage & AI Integration" angle — see [dissertation/research_questions.md](dissertation/research_questions.md) for the full evolution log.)
 
 This topic exists to serve a set of personal, professional, and faith-driven goals (modernizing healthcare infrastructure, government service/diplomacy, global impact, faith-driven purpose) — the goals drive the research, not the reverse. Full write-up: [dissertation/topic_overview.md](dissertation/topic_overview.md)
 
