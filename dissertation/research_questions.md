@@ -7,6 +7,8 @@ Track how the dissertation research question, scope, and framing evolve across s
 
 "Leapfrog Advantage & AI Integration" angle. This supersedes the original broad framing (see log below) as the working thesis driver — it's a specific, near-term, testable financial outcome rather than a decade-long macroeconomic study, and treats the technology/implementation itself as the policy intervention. Also reflected in [dissertation/topic_overview.md](topic_overview.md) and [PROJECT_STATUS.md](../PROJECT_STATUS.md).
 
+**Methodology note:** this question will be answered primarily using **existing empirical/published data** (not a required engineering build). Building a technical proof-of-concept is an optional bonus, not a substitute for the empirical analysis. Full rationale: [topic_overview.md](topic_overview.md) §"Dissertation Methodology Approach."
+
 ## Evolution Log
 
 | Date | Version of Question / Scope | Prompted By | Notes |

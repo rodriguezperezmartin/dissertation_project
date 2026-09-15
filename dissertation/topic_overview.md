@@ -18,6 +18,16 @@ To what extent does the implementation of predictive AI models and interoperable
 ## Core Thesis
 Health should be framed not merely as a medical/humanitarian issue but as a driver of human capital and economic growth. Emerging economies have a structural advantage over developed nations: the absence of legacy health IT systems allows them to build agile, interoperable digital health infrastructure from the ground up. The central gap this dissertation targets is the near-total absence of built-in monitoring/evaluation systems in health policy interventions — reporting is treated as an afterthought rather than designed in from the start, which prevents timely, evidence-based policy correction.
 
+## Dissertation Methodology Approach (Scope Clarification)
+A key early question when crossing from an engineering background into a Public Policy/Economics PhD: is the dissertation supposed to *analyze* the research question, or is it also expected to *build* a technical solution? The answer, and the approach this dissertation follows:
+
+- **The Problem (Why):** Fragmented health data in emerging economies leads to reactive crisis spending and hinders human capital development.
+- **The Methodology (How the degree is earned):** The dissertation committee evaluates an original contribution to *economic and policy knowledge* — not a piece of software. The primary requirement is to **analyze the research question and measure the impact** (e.g., proving a financial shift from reactive crisis management to proactive, targeted aid). This will be done primarily using **existing empirical data**: published sources, historical policy interventions, and economic datasets, synthesized and analyzed to show how technology changes institutional and financial behavior. This is the **primary, required source of evidence** for the dissertation.
+- **The Bonus (Optional Proof of Concept):** Because of the ~20 years of AI/MLOps background, there's an option — not a requirement — to also engineer a proof-of-concept (e.g., fine-tuning a first-world predictive model for a third-world context, a RAG framework, or an automated pipeline for synthetic clinical data). If time and resources permit, this PoC becomes a powerful supplement: it takes the theoretical recommendations from the empirical research and grounds them in a real, functioning system. It is treated strictly as a **stretch goal**, so the dissertation timeline never depends on a software project working perfectly or generating enough proprietary data in time to graduate.
+- **The Analysis (The PhD):** The doctorate is earned by evaluating the primary empirical data to prove that adopting interoperable digital architectures mathematically reduces reactive spending, establishing a new framework for targeted aid allocation. If a PoC is built, the analysis is augmented by evaluating its results and real-world viability alongside the empirical findings — but the empirical analysis alone must be sufficient to stand on its own.
+
+**Bottom line:** engineering a solution is allowed and encouraged as a differentiator, but the doctorate itself is earned by *proving the economic case with real-world data*, not by shipping working software.
+
 ## Key Concepts
 - **Digital Public Infrastructure (DPI)** for health systems
 - **Monitoring & Evaluation (M&E) by design**, not as an afterthought

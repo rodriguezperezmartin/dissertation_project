@@ -33,7 +33,9 @@ Full detail: [dissertation/topic_overview.md](dissertation/topic_overview.md)
 Question evolution over time: [dissertation/research_questions.md](dissertation/research_questions.md)
 
 ## 3. Methodology (Evolving)
-Not yet formally defined — this program builds toward it via the Research Methods & Tools courses (PLCY 805, 809, 810, 811, 812) in 2027-2028, followed by Research Concept (PLCY 885) and Dissertation I-IV in 2029. This section will be filled in as those courses are completed. Likely a **mixed-methods** approach given the topic (quantitative health/economic indicators + qualitative policy case studies), to be confirmed once PLCY 810 (Quant I), 811 (Quant II), and 812 (Qualitative Methods) are complete.
+**Primary approach:** analyze the research question using **existing empirical data** — published sources, historical policy interventions, and economic datasets — to measure how digital health/AI interventions shift government/NGO spending from reactive to proactive. This is the required, sufficient evidence base for the dissertation; the formal quantitative/qualitative methods will be finalized via the Research Methods & Tools courses (PLCY 805, 809, 810, 811, 812) in 2027-2028, followed by Research Concept (PLCY 885) and Dissertation I-IV in 2029. Likely a **mixed-methods** approach (quantitative health/economic indicators + qualitative policy case studies).
+
+**Optional stretch goal:** if time permits, engineer a proof-of-concept (e.g., a first-world predictive model fine-tuned for a third-world context, a RAG framework, or a synthetic clinical data pipeline) to supplement — not replace — the empirical analysis. See [dissertation/topic_overview.md](dissertation/topic_overview.md) §"Dissertation Methodology Approach" for the full rationale.
 
 ## 4. Approach / Strategy
 Every course assignment where topic choice is allowed is deliberately steered toward the dissertation focus area, so coursework compounds into the dissertation instead of being disconnected. Two literature tracks are kept separate:
@@ -59,6 +61,7 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - **2026-09-14:** Replaced Week 4's preliminary assignment note with the official "Literature Assessment and Research Question" instructions and full grading rubric (100+ pts across 7 criteria) in `week04/learning_objectives.md`. Logged the rubric's evaluation criteria — notably the "3+ items = advanced" pattern on content criteria — into `feedback_log/feedback_tracker.md`.
 - **2026-09-14:** Selected Week 4 Literature Assessment topic: "Leapfrog Advantage & AI Integration" — predictive AI + interoperable digital health architectures reducing reactive crisis spending in emerging economies. Logged as a refined research question candidate in `dissertation/research_questions.md`, updated `week04/learning_objectives.md` with the full rationale and search strategy (keywords, 3 focus areas for the 10-source search via Jerry Falwell Library), and updated `course_overview.md` dissertation tie-ins.
 - **2026-09-14:** Confirmed the "Leapfrog Advantage & AI Integration" question as the **current leading research question** (not just a candidate) across `research_questions.md`, `topic_overview.md`, `PROJECT_STATUS.md`, and `README.md`. Original broader framing kept as historical context in the evolution log.
+- **2026-09-14:** Clarified dissertation methodology scope (worked through with Gemini as research assistant): the dissertation's primary, required evidence base is **existing empirical/published data** analyzed to prove the economic case; building an engineering proof-of-concept (fine-tuned AI model, RAG framework, synthetic data pipeline) is an optional **stretch-goal bonus**, not a substitute. Added "Dissertation Methodology Approach" section to `topic_overview.md`, updated `PROJECT_STATUS.md` §3 and Next Actions, and added a methodology note to `research_questions.md`.
 
 ## 6. Next Actions
 - [ ] Continue PLCY 700 Week 3 replies grading / Week 4 materials once released
@@ -69,6 +72,7 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - [ ] Search for and source 10 peer-reviewed articles for the Week 4 "Leapfrog Advantage & AI Integration" topic (keywords: predictive AI public health, interoperable health systems, technology leapfrogging emerging markets, healthcare resource allocation, crisis spending)
 - [ ] Log each Week 4 literature review source into `dissertation/literature_review/direct_sources/annotated_bibliography.md` as it's read
 - [ ] Draft Week 4 Literature Assessment (2,000-2,500 words, APA) covering 3+ common themes, 3+ gaps/weaknesses, 3+ research implications, ending in a testable/falsifiable research question
+- [ ] (Stretch/Bonus, not required) Explore building a proof-of-concept — e.g., a fine-tuned predictive model or RAG pipeline for third-world clinical data — only after the empirical analysis approach is on track
 
 ## 7. Standing Maintenance Rule (Do This Automatically — Don't Wait to Be Asked)
 Folder/file structure for all coursework follows [coursework/_templates/COURSEWORK_STRUCTURE.md](coursework/_templates/COURSEWORK_STRUCTURE.md) — the canonical spec. Apply it to every new course and week without being asked.
