@@ -26,7 +26,7 @@ Quick-scan table of every week. Click through to a week's `learning_objectives.m
 | 1 | _TBD_ | Not yet started | [week01/learning_objectives.md](week01/learning_objectives.md) |
 | 2 | _TBD_ | Not yet started | [week02/learning_objectives.md](week02/learning_objectives.md) |
 | 3 | Academic critique, book reviews, logical fallacies, levels of measurement, inductive/deductive reasoning (incl. Walliman research methodology study aid) | Completed | [week03/learning_objectives.md](week03/learning_objectives.md) |
-| 4 | Literature Assessment & Research Question — topic chosen: "Leapfrog Advantage & AI Integration" in emerging-economy digital health (10 academic sources, organized topically) | In Progress — topic/RQ selected, sourcing literature | [week04/learning_objectives.md](week04/learning_objectives.md) |
+| 4 | Literature Assessment & Research Question — topic chosen: "Leapfrog Advantage & AI Integration" in emerging-economy digital health (10 academic sources, organized topically) | In Progress — all 10 sources collected, rubric-aligned analysis drafted | [week04/learning_objectives.md](week04/learning_objectives.md) |
 | 5 | _TBD_ | Not yet started | [week05/learning_objectives.md](week05/learning_objectives.md) |
 | 6 | Academic book review of Weiss (1991), *Organizations for Policy Analysis* | Book selected, not yet drafted | [week06/learning_objectives.md](week06/learning_objectives.md) |
 
@@ -35,7 +35,7 @@ Quick-scan table of every week. Click through to a week's `learning_objectives.m
 ## Dissertation Tie-Ins
 - Module 6 book review will use Weiss (1991) — logged in [dissertation/literature_review/direct_sources/annotated_bibliography.md](../../dissertation/literature_review/direct_sources/annotated_bibliography.md)
 - Week 3 discussion source (Marotta, 2021) — logged in [dissertation/literature_review/indirect_sources/annotated_bibliography.md](../../dissertation/literature_review/indirect_sources/annotated_bibliography.md)
-- Week 4 Literature Assessment topic chosen — "Leapfrog Advantage & AI Integration": predictive AI + interoperable digital health architectures reducing reactive crisis spending in emerging economies. Strong candidate for the refined dissertation thesis; logged in [dissertation/research_questions.md](../../dissertation/research_questions.md). Sources to be logged into [dissertation/literature_review/direct_sources/annotated_bibliography.md](../../dissertation/literature_review/direct_sources/annotated_bibliography.md) as they're read
+- Week 4 Literature Assessment topic chosen — "Leapfrog Advantage & AI Integration": predictive AI + interoperable digital health architectures reducing reactive crisis spending in emerging economies. Strong candidate for the refined dissertation thesis; logged in [dissertation/research_questions.md](../../dissertation/research_questions.md). All 10 sources logged in [dissertation/literature_review/direct_sources/annotated_bibliography.md](../../dissertation/literature_review/direct_sources/annotated_bibliography.md); Beaulieu & Bentahar (2021) is the closest direct precedent to the dissertation's reactive-to-proactive mechanism.
 
 ## Related Tracking
 - Course-wide feedback patterns: [feedback_log/feedback_tracker.md](../../feedback_log/feedback_tracker.md)

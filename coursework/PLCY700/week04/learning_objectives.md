@@ -66,8 +66,11 @@ This is a **strong candidate for the refined dissertation thesis** — testing a
 ## Faculty Note
 Dr. Boykin shared a devotional reflection on John 20:19–31 (Thomas and the risen Jesus) — a reminder that we don't get to dictate what God chooses to reveal to us; our role is to believe and follow.
 
+## Progress Update
+All 10 peer-reviewed sources selected, PDFs uploaded to [dissertation/literature_review/direct_sources/files/](../../../dissertation/literature_review/direct_sources/files/), and the actual topic list finalized (see [original_src_files/Selection of Online Academic Journals.docx](original_src_files/)). Preliminary rubric-aligned analysis drafted — see [assignments/rubric_notes_outline.md](assignments/rubric_notes_outline.md) and [assignments/literature_assessment_findings.md](assignments/literature_assessment_findings.md).
+
 ## Quick Links
-- Assignments: [assignments/](assignments/) (empty — not yet started)
+- Assignments: [assignments/rubric_notes_outline.md](assignments/rubric_notes_outline.md), [assignments/literature_assessment_findings.md](assignments/literature_assessment_findings.md) (final paper not yet drafted)
 - Feedback: [feedback/](feedback/) (empty — not yet received)
-- Original source files: [original_src_files/](original_src_files/) (empty — not yet uploaded)
+- Original source files: [original_src_files/](original_src_files/) (Selection of Online Academic Journals.docx)
 - Course overview: [../course_overview.md](../course_overview.md)
