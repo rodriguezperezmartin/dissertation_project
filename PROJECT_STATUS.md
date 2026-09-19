@@ -1,6 +1,6 @@
 # Project Status — Start Here
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-19
 
 This is the single "load this first" file for the dissertation project. Read this before anything else to get fully oriented in one pass — no need to piece the story together from scattered files each session.
 
@@ -10,7 +10,7 @@ This is the single "load this first" file for the dissertation project. Read thi
 - **PhD status:** Year 1, Fall 2026 semester — currently in **PLCY 700: Foundations of Public Policy**
 - **Target graduation:** Fall 2029 (full sequence in [roadmap/degree_plan.md](roadmap/degree_plan.md))
 - **Courses completed:** none yet (first semester in progress)
-- **Current week in PLCY 700:** Week 3 (book review discussion assignment submitted)
+- **Current week in PLCY 700:** Week 6 (reading *Organizations for Policy Analysis* by Weiss 1991 for book review)
 
 ## 2. Dissertation Objective (Working)
 
@@ -63,24 +63,35 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - **2026-09-14:** Confirmed the "Leapfrog Advantage & AI Integration" question as the **current leading research question** (not just a candidate) across `research_questions.md`, `topic_overview.md`, `PROJECT_STATUS.md`, and `README.md`. Original broader framing kept as historical context in the evolution log.
 - **2026-09-14:** Clarified dissertation methodology scope (worked through with Gemini as research assistant): the dissertation's primary, required evidence base is **existing empirical/published data** analyzed to prove the economic case; building an engineering proof-of-concept (fine-tuned AI model, RAG framework, synthetic data pipeline) is an optional **stretch-goal bonus**, not a substitute. Added "Dissertation Methodology Approach" section to `topic_overview.md`, updated `PROJECT_STATUS.md` §3 and Next Actions, and added a methodology note to `research_questions.md`.
 - **2026-09-17:** Confirmed all 10 Week 4 Literature Assessment sources collected (PDFs in `direct_sources/files/`, list finalized in `week04/original_src_files/Selection of Online Academic Journals.docx`). Logged all 10 into `dissertation/literature_review/direct_sources/annotated_bibliography.md`. Drafted rubric-aligned analysis: `week04/assignments/rubric_notes_outline.md` (notes mapped to each grading criterion) and `week04/assignments/literature_assessment_findings.md` (themes, weaknesses, implications, and a draft research question). Key finding: none of the 10 sources measure economic/financial outcomes directly, and Beaulieu & Bentahar (2021, healthcare supply chain digitalization) is the closest existing precedent to the dissertation's reactive-to-proactive spending mechanism.
-- **2026-09-17:** Extracted page-numbered text from all 10 source PDFs (via PyMuPDF) and added direct, page-cited supporting quotes (4 per finding) throughout `literature_assessment_findings.md` for every theme, weakness, and implication — so the final 2,000-2,500 word paper can be drafted from quotes/citations already on hand rather than re-reading full PDFs. Flagged that Handtke (PLOS ONE) and the Joseph health migrations article lack fixed print pagination; full citation details for those two still need verification directly from the PDFs.
 - **2026-09-19:** Final Week 4 paper (`Final_Literature_Review_Assignment.docx`) uploaded and converted to `assignments/final_literature_review.md`; added a complete, verified APA 7 reference list (DOIs extracted directly from each PDF, not guessed) replacing the "(pending)" placeholder, and fixed the "[Insert Year]" placeholder for Alraja (2022). **Resolved:** added a sentence citing Joseph & Thapa (2026) in Section 2 (small-sample weaknesses paragraph) plus its full reference, so all 10 selected sources are now cited in-text.
 - **2026-09-19:** Fixed missing publication years for standalone Alkhwaldi/Alraja mentions in Section 3 (APA requires the year every time the author is named).
 - **2026-09-19:** Synced `final_literature_review.md` to the truly final uploaded Word document (minor wording revisions across Sections 1 and 2). **Week 4 Literature Assessment is complete and ready to publish/submit.**
+- **2026-09-19:** Created comprehensive Week 6 learning objectives (`coursework/PLCY700/week06/learning_objectives.md`) with full book review assignment instructions, rubric criteria, book selection (Weiss, *Organizations for Policy Analysis*, 1991), and critical reading guidance emphasizing methodological analysis, thematic assessment, temporal weakness critique (1991 framework vs. modern interoperable data/MLOps/agentic AI), and course integration (Birkland, Stone, Week 4 frameworks). Removed duplicate week 5/6 entries in `course_overview.md` weekly map. Updated `PROJECT_STATUS.md` to mark Week 6 as the active module and set up next actions.
 
-## 6. Next Actions
-- [ ] Continue PLCY 700 Week 3 replies grading / Week 4 materials once released
-- [ ] Acquire Weiss (1991) PDF/copy for `direct_sources/files/`
-- [ ] Begin drafting Module 6 book review (Weiss) once course reaches that point
+## 6. Module 6: Book Review Assignment — *Organizations for Policy Analysis* (1991) by Carol H. Weiss
+
+**Assignment:** Critically review *Organizations for Policy Analysis* (1,500–2,000 words, APA format). Assess: central thesis, methods (qualitative/quantitative), main themes, conclusions soundness, weaknesses/oversights, and the book's contribution to public policy literature. Must connect Weiss's insights on institutional analytical barriers and information silos to modern context (interoperable digital health systems, MLOps, agentic AI) and course frameworks (Birkland, Stone, Week 4 acceptance theory).
+
+**Book Selection Rationale:** Weiss (1991) analyzes how fragmented government agencies process policy-relevant information—directly maps to the dissertation focus on institutional barriers to DPI and AI implementation in healthcare. Temporal critique angle: evaluate her 1991 conclusions about government analytical capacity against modern data pipelines, MLOps, and AI architectures.
+
+**Status:** Not yet started — to do:
+- [ ] Complete full reading of Weiss (1991) with page-numbered notes on themes, methods, conclusions
+- [ ] Identify 2–3 connections to course materials (Birkland, Stone, Week 4 sources)
+- [ ] Draft book review (1,500–2,000 words, APA) addressing all rubric criteria
+- [ ] Submit final review to [coursework/PLCY700/week06/assignments/](coursework/PLCY700/week06/assignments/)
+
+**Reading Guidance:** As you read, track: (1) central thesis and whether methods are qualitative (case studies/interviews) or quantitative; (2) recurring themes around institutional friction, information silos, fragmented decision-making; (3) weaknesses (how do 1991 framework conclusions hold up against modern interoperable data, MLOps, agentic AI?); (4) connections to Birkland's policy process stages, Stone's *Policy Paradox* concepts, and your Week 4 acceptance/adoption barriers.
+
+---
+
+## 7. Next Actions
+- [ ] Read *Organizations for Policy Analysis* (Weiss, 1991) in full; take page-numbered notes on thesis, methods (qual/quant), themes, conclusions, and weaknesses
+- [ ] Identify connections between Weiss's institutional analysis and course concepts (Birkland policy process, Stone's *Policy Paradox*, Week 4 acceptance/adoption frameworks)
+- [ ] Draft Module 6 book review (1,500–2,000 words, APA) covering opening statement, central thesis, themes, methods explanation, conclusions evaluation, field placement, and weaknesses — emphasize temporal critique (1991 framework vs. modern DPI/MLOps/agentic AI)
+- [ ] Continue PLCY 700 Week 5 assignment once released by instructor
 - [ ] Keep feeding professor feedback into `feedback_log/feedback_tracker.md` as it arrives
-- [ ] Choose a Week 4 literature review topic aligned with the dissertation focus (healthcare digital infrastructure / DPI / M&E) and source 10 peer-reviewed articles
-- [ ] Search for and source 10 peer-reviewed articles for the Week 4 "Leapfrog Advantage & AI Integration" topic (keywords: predictive AI public health, interoperable health systems, technology leapfrogging emerging markets, healthcare resource allocation, crisis spending) — **done, all 10 collected**
-- [ ] Log each Week 4 literature review source into `dissertation/literature_review/direct_sources/annotated_bibliography.md` as it's read — **done**
-- [ ] Draft Week 4 Literature Assessment (2,000-2,500 words, APA) covering 3+ common themes, 3+ gaps/weaknesses, 3+ research implications, ending in a testable/falsifiable research question — **DONE, final version submitted/published**
-- [ ] Verify/complete APA citations for sources missing full author/year/journal details (Sharp, Joseph, "Challenges to Implementing AI," Coombs) directly against their PDFs
-- [ ] (Stretch/Bonus, not required) Explore building a proof-of-concept — e.g., a fine-tuned predictive model or RAG pipeline for third-world clinical data — only after the empirical analysis approach is on track
 
-## 7. Standing Maintenance Rule (Do This Automatically — Don't Wait to Be Asked)
+## 8. Standing Maintenance Rule (Do This Automatically — Don't Wait to Be Asked)
 Folder/file structure for all coursework follows [coursework/_templates/COURSEWORK_STRUCTURE.md](coursework/_templates/COURSEWORK_STRUCTURE.md) — the canonical spec. Apply it to every new course and week without being asked.
 
 Whenever an assignment, reply, or feedback item is added/completed for a given week, update **without being explicitly told**:
