@@ -70,7 +70,7 @@ Dr. Boykin shared a devotional reflection on John 20:19–31 (Thomas and the ris
 All 10 peer-reviewed sources selected, PDFs uploaded to [dissertation/literature_review/direct_sources/files/](../../../dissertation/literature_review/direct_sources/files/), and the actual topic list finalized (see [original_src_files/Selection of Online Academic Journals.docx](original_src_files/)). Preliminary rubric-aligned analysis drafted — see [assignments/rubric_notes_outline.md](assignments/rubric_notes_outline.md) and [assignments/literature_assessment_findings.md](assignments/literature_assessment_findings.md).
 
 ## Quick Links
-- Assignments: [assignments/rubric_notes_outline.md](assignments/rubric_notes_outline.md), [assignments/literature_assessment_findings.md](assignments/literature_assessment_findings.md), [assignments/final_literature_review.md](assignments/final_literature_review.md) (final paper submitted — references added)
+- Assignments: [assignments/rubric_notes_outline.md](assignments/rubric_notes_outline.md), [assignments/literature_assessment_findings.md](assignments/literature_assessment_findings.md), [assignments/final_literature_review.md](assignments/final_literature_review.md) (**final version — ready to publish**)
 - Feedback: [feedback/](feedback/) (empty — not yet received)
 - Original source files: [original_src_files/](original_src_files/) (Selection of Online Academic Journals.docx, Final_Literature_Review_Assignment.docx)
 - Course overview: [../course_overview.md](../course_overview.md)

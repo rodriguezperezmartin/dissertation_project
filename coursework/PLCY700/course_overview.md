@@ -26,7 +26,7 @@ Quick-scan table of every week. Click through to a week's `learning_objectives.m
 | 1 | _TBD_ | Not yet started | [week01/learning_objectives.md](week01/learning_objectives.md) |
 | 2 | _TBD_ | Not yet started | [week02/learning_objectives.md](week02/learning_objectives.md) |
 | 3 | Academic critique, book reviews, logical fallacies, levels of measurement, inductive/deductive reasoning (incl. Walliman research methodology study aid) | Completed | [week03/learning_objectives.md](week03/learning_objectives.md) |
-| 4 | Literature Assessment & Research Question — topic chosen: "Leapfrog Advantage & AI Integration" in emerging-economy digital health (10 academic sources, organized topically) | Final paper drafted, APA references added | [week04/learning_objectives.md](week04/learning_objectives.md) |
+| 4 | Literature Assessment & Research Question — topic chosen: "Leapfrog Advantage & AI Integration" in emerging-economy digital health (10 academic sources, organized topically) | **Completed** — final version ready to publish | [week04/learning_objectives.md](week04/learning_objectives.md) |
 | 5 | _TBD_ | Not yet started | [week05/learning_objectives.md](week05/learning_objectives.md) |
 | 6 | Academic book review of Weiss (1991), *Organizations for Policy Analysis* | Book selected, not yet drafted | [week06/learning_objectives.md](week06/learning_objectives.md) |
 
