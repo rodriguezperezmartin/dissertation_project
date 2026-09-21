@@ -1,13 +1,23 @@
-### [Weiss, 1991] Organizations for Policy Analysis: Helping Government Think
-- **Citation (APA 7):** Weiss, C. H. (1991). *Organizations for policy analysis: Helping government think*. Sage Publications.
+### [Wilson, 1989] Bureaucracy: What Government Agencies Do and Why They Do It
+- **Citation (APA 7):** Wilson, J. Q. (1989). *Bureaucracy: What government agencies do and why they do it*. Basic Books.
 - **Source type:** book
-- **Found via / URL:** PLCY 700, Module 6 approved book list (selected for Module 6 Book Review assignment)
-- **Retrieved:** 2026-09-10
-- **Saved file:** files/Weiss_1991_OrganizationsForPolicyAnalysis.pdf (add once acquired)
-- **Theme(s):** Digital Public Infrastructure, institutional data governance, government information processing
-- **Summary:** Examines how fragmented government agencies process information and analytical research to inform policy decisions.
-- **Relevance to dissertation:** Directly supports the argument that emerging economies need unified data/decision-support pipelines (vs. disjointed legacy EHR systems) to enable evidence-based health policy; foundational literature for institutional data governance angle.
-- **Key quotes / data points:** TBD once Module 6 book review is drafted (see [coursework/PLCY700/week03/assignments/book_review_discussion.md](../../../coursework/PLCY700/week03/assignments/book_review_discussion.md) for selection rationale).
+- **Found via / URL:** PLCY 700, Module 6 book review assignment (replaced original Week 3 selection, Weiss 1991, on 2026-09-21 — a physical/accessible copy of Weiss could not be obtained in time)
+- **Retrieved:** 2026-09-21
+- **Saved file:** n/a (physical copy); companion critique: [../../../coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf](../../../coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf)
+- **Theme(s):** Institutional/bureaucratic behavior, turf & autonomy, culture & beliefs, red tape/constraints, compliance & observability (Production/Procedural/Craft/Coping organizations)
+- **Summary:** Explains why government agencies behave the way they do as a rational response to their political environment — absence of a profit motive, external control over resources, rule-bound behavior, organizational culture/mission, professional beliefs, interest-group politics, turf protection, and the difficulty of true innovation.
+- **Relevance to dissertation:** Provides the theoretical "why" behind institutional resistance to adopting digital public infrastructure (DPI) and predictive AI in healthcare — clinicians/health ministries resist new reporting technology because of situational imperatives, sense of mission, turf protection, and rule-bound risk aversion, not incompetence. Foundational literature for the institutional-barriers angle of the dissertation.
+- **Key quotes / data points / full notes:** [coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md](../../../coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md) — full chapter-by-chapter reading notes and dissertation application.
+
+### [Buck, 1992] Review of *Bureaucracy: What Government Agencies Do and Why They Do It*
+- **Citation (APA 7):** Buck, S. (1992). [Review of the book *Bureaucracy: What government agencies do and why they do it*, by J. Q. Wilson].
+- **Source type:** peer-reviewed journal book review
+- **Found via / URL:** Uploaded PDF, provided as a companion critique to inform the Module 6 book review
+- **Retrieved:** 2026-09-21
+- **Saved file:** [coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf](../../../coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf)
+- **Theme(s):** External scholarly assessment of Wilson's objectives, methods, and target audience
+- **Summary:** A peer-reviewed critique of Wilson (1989), providing an independent scholarly perspective on the book's contribution and limitations.
+- **Relevance to dissertation:** Used to cross-check and sharpen the student's own critical evaluation of Wilson's methodology and conclusions in the Module 6 book review; not a primary dissertation source on its own.
 
 ---
 

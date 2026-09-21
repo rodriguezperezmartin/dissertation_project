@@ -1,6 +1,6 @@
 # Project Status — Start Here
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-21
 
 This is the single "load this first" file for the dissertation project. Read this before anything else to get fully oriented in one pass — no need to piece the story together from scattered files each session.
 
@@ -39,7 +39,7 @@ Question evolution over time: [dissertation/research_questions.md](dissertation/
 
 ## 4. Approach / Strategy
 Every course assignment where topic choice is allowed is deliberately steered toward the dissertation focus area, so coursework compounds into the dissertation instead of being disconnected. Two literature tracks are kept separate:
-- **[dissertation/literature_review/direct_sources/](dissertation/literature_review/direct_sources/)** — directly about the topic (currently: Weiss 1991, chosen for PLCY 700 Module 6 book review)
+- **[dissertation/literature_review/direct_sources/](dissertation/literature_review/direct_sources/)** — directly about the topic (currently: Wilson 1989, *Bureaucracy*, chosen for PLCY 700 Module 6 book review; Weiss 1991 was the original selection but was swapped out on 2026-09-21)
 - **[dissertation/literature_review/indirect_sources/](dissertation/literature_review/indirect_sources/)** — coursework/methodology skill-building sources (currently: Marotta 2021)
 
 Professor feedback and Liberty's implicit/explicit evaluation criteria are tracked centrally in [feedback_log/feedback_tracker.md](feedback_log/feedback_tracker.md).
@@ -67,27 +67,27 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - **2026-09-19:** Fixed missing publication years for standalone Alkhwaldi/Alraja mentions in Section 3 (APA requires the year every time the author is named).
 - **2026-09-19:** Synced `final_literature_review.md` to the truly final uploaded Word document (minor wording revisions across Sections 1 and 2). **Week 4 Literature Assessment is complete and ready to publish/submit.**
 - **2026-09-19:** Created comprehensive Week 6 learning objectives (`coursework/PLCY700/week06/learning_objectives.md`) with full book review assignment instructions, rubric criteria, book selection (Weiss, *Organizations for Policy Analysis*, 1991), and critical reading guidance emphasizing methodological analysis, thematic assessment, temporal weakness critique (1991 framework vs. modern interoperable data/MLOps/agentic AI), and course integration (Birkland, Stone, Week 4 frameworks). Removed duplicate week 5/6 entries in `course_overview.md` weekly map. Updated `PROJECT_STATUS.md` to mark Week 6 as the active module and set up next actions.
+- **2026-09-21:** Changed Week 6 book review selection from Weiss (1991) to Wilson (1989), *Bureaucracy: What Government Agencies Do and Why They Do It*, since a physical/accessible copy of Weiss couldn't be obtained in time. Cleaned up and reformatted the student's raw chapter-by-chapter notes into `coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md` (consistent structure: synopsis, objectives, evidence, conclusions, dissertation application for all 20 chapters). Logged a peer-reviewed critique of Wilson — Buck (1992) — as a companion source (`week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf`). Updated `week06/learning_objectives.md`, `course_overview.md`, `README.md`, and the direct-sources annotated bibliography to reflect the book swap (replaced the Weiss entry with Wilson + added the Buck critique entry).
 
-## 6. Module 6: Book Review Assignment — *Organizations for Policy Analysis* (1991) by Carol H. Weiss
+## 6. Module 6: Book Review Assignment — *Bureaucracy: What Government Agencies Do and Why They Do It* (1989) by James Q. Wilson
 
-**Assignment:** Critically review *Organizations for Policy Analysis* (1,500–2,000 words, APA format). Assess: central thesis, methods (qualitative/quantitative), main themes, conclusions soundness, weaknesses/oversights, and the book's contribution to public policy literature. Must connect Weiss's insights on institutional analytical barriers and information silos to modern context (interoperable digital health systems, MLOps, agentic AI) and course frameworks (Birkland, Stone, Week 4 acceptance theory).
+**Assignment:** Critically review *Bureaucracy: What Government Agencies Do and Why They Do It* (1,500–2,000 words, APA format). Assess: central thesis, methods (qualitative/quantitative), main themes, conclusions soundness, weaknesses/oversights, and the book's contribution to public policy literature. Must connect Wilson's insights on institutional barriers (turf, culture, beliefs, red tape, compliance/observability) to modern context (interoperable digital health systems, MLOps, agentic AI) and course frameworks (Birkland, Stone, Week 4 acceptance theory).
 
-**Book Selection Rationale:** Weiss (1991) analyzes how fragmented government agencies process policy-relevant information—directly maps to the dissertation focus on institutional barriers to DPI and AI implementation in healthcare. Temporal critique angle: evaluate her 1991 conclusions about government analytical capacity against modern data pipelines, MLOps, and AI architectures.
+**Book Selection Rationale:** Original Week 3 selection was Weiss (1991), *Organizations for Policy Analysis*; **changed on 2026-09-21** to Wilson (1989), *Bureaucracy*, because a physical/accessible copy of Weiss could not be obtained in time. Wilson's framework (why agencies resist change, turf protection, rule-bound risk aversion) maps directly onto the dissertation's institutional-barriers-to-DPI-adoption angle. A peer-reviewed critique of Wilson — Buck (1992) — was also supplied as a companion source to sharpen the review's own critical analysis (see [coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf](coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf)).
 
-**Status:** Not yet started — to do:
-- [ ] Complete full reading of Weiss (1991) with page-numbered notes on themes, methods, conclusions
-- [ ] Identify 2–3 connections to course materials (Birkland, Stone, Week 4 sources)
+**Status:** Reading notes complete — to do:
+- [x] Complete full reading of Wilson (1989) with chapter-by-chapter notes on themes, methods, conclusions ([coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md](coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md))
+- [ ] Read the Buck (1992) peer-reviewed critique and incorporate its perspective into the review's methodological critique
 - [ ] Draft book review (1,500–2,000 words, APA) addressing all rubric criteria
 - [ ] Submit final review to [coursework/PLCY700/week06/assignments/](coursework/PLCY700/week06/assignments/)
 
-**Reading Guidance:** As you read, track: (1) central thesis and whether methods are qualitative (case studies/interviews) or quantitative; (2) recurring themes around institutional friction, information silos, fragmented decision-making; (3) weaknesses (how do 1991 framework conclusions hold up against modern interoperable data, MLOps, agentic AI?); (4) connections to Birkland's policy process stages, Stone's *Policy Paradox* concepts, and your Week 4 acceptance/adoption barriers.
+**Reading Guidance:** See [coursework/PLCY700/week06/learning_objectives.md](coursework/PLCY700/week06/learning_objectives.md) for the full critical reading guide. Track: (1) central thesis and methodological approach (qualitative, comparative institutional analysis); (2) recurring themes around turf, culture, beliefs, constraints, and observability-driven compliance types; (3) weaknesses (how do 1989 conclusions hold up against modern interoperable data, MLOps, agentic AI?); (4) connections to Birkland's policy process stages, Stone's *Policy Paradox* concepts (esp. Ch. 9 Numbers ↔ Wilson Ch. 9 Compliance), and Week 4 acceptance/adoption barriers.
 
 ---
 
 ## 7. Next Actions
-- [ ] Read *Organizations for Policy Analysis* (Weiss, 1991) in full; take page-numbered notes on thesis, methods (qual/quant), themes, conclusions, and weaknesses
-- [ ] Identify connections between Weiss's institutional analysis and course concepts (Birkland policy process, Stone's *Policy Paradox*, Week 4 acceptance/adoption frameworks)
-- [ ] Draft Module 6 book review (1,500–2,000 words, APA) covering opening statement, central thesis, themes, methods explanation, conclusions evaluation, field placement, and weaknesses — emphasize temporal critique (1991 framework vs. modern DPI/MLOps/agentic AI)
+- [ ] Read the Buck (1992) peer-reviewed critique of Wilson's *Bureaucracy* and note how it should sharpen the review's methodological critique
+- [ ] Draft Module 6 book review (1,500–2,000 words, APA) covering opening statement, central thesis, themes, methods explanation, conclusions evaluation, field placement, and weaknesses — emphasize temporal critique (1989 framework vs. modern DPI/MLOps/agentic AI), drawing on [coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md](coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md)
 - [ ] Continue PLCY 700 Week 5 assignment once released by instructor
 - [ ] Keep feeding professor feedback into `feedback_log/feedback_tracker.md` as it arrives
 
