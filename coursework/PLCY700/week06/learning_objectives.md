@@ -1,12 +1,19 @@
 # Week 6 — Learning Objectives & Study Guide
 
-## Overview
+## Overview (Instructor's Module Introduction, Verbatim)
+Scholarly writing can take many forms. This week, you will focus on writing a scholarly book review. In this review, you will critique the book using evidence from the book itself and practice using scholarly writing techniques.
+
 This module focuses on developing critical analytical and review skills through a scholarly book review. Students will read, assess, and critique an academic book related to public policy, practicing the peer-review process and building skills in objective scholarly assessment.
 
 **Core Learning Activity:** Write a critical book review (1,500–2,000 words, APA format) that assesses the thesis, methods, themes, conclusions, and broader impact of the assigned book.
 
-## Learning Outcomes
-Upon completion of this module, you will be able to:
+## Learning Outcomes (Instructor's Official List)
+Upon successful completion of this module, you will be able to:
+1. Evaluate your chosen public policy book using the tools acquired in the course readings.
+2. Apply scholarly writing techniques to your own writing.
+3. Compose an original written academic book review.
+
+### Expanded Working Outcomes
 1. Read and synthesize a full-length scholarly work on a public policy topic.
 2. Identify and articulate a book's central thesis and main themes.
 3. Evaluate the methodological approach (qualitative vs. quantitative) used by the author(s).
@@ -30,51 +37,51 @@ The original Week 3 selection rationale (for Weiss) remains in [week03/assignmen
 
 ---
 
-## Book Review Assignment — Requirements & Rubric
+## Book Review Assignment — Official Instructions (Verbatim)
 
-### Assignment Objective
-Objectively review and critique *Bureaucracy: What Government Agencies Do and Why They Do It* by developing and demonstrating your ability to assess scholarly work. This skill forms the foundation for peer review, academic publishing, and rigorous doctoral-level analysis.
+### Overview
+Objectively reviewing the work of others is an invaluable skill for future scholars. Writing a critical assessment of a scholarly book allows you to practice objectively critiquing the work of others and helps you become a more engaged and critical scholar.
 
-### Core Requirements
-Your book review must:
+The goal of every scholar is to publish peer-reviewed work. The skills necessary to review and critique another's work form the foundation upon which you will build your own written and analytical skills.
 
-1. **Opening Statement** — Include an engaging opening that peaks the reader's interest in the book under review and establishes its relevance to public policy.
+Before you begin writing your review, read the book in its entirety and take notes as you read. Note the key themes of the book, the author's stated purpose in writing the book, and any other key information about the book that is relevant to your review. Be sure to include page numbers in your notes so you can easily go back to the relevant sections as you write.
 
-2. **Central Thesis** — Clearly identify and explain the author's stated purpose and central thesis of the book.
+### Instructions
+In this Book Review Assignment, you will critically assess one academic book related to Public Policy from the books list provided to you. Your Book Review Assignment should:
+- Include an opening statement that peaks the reader's interest in the book under review;
+- Identify the central thesis of the book;
+- Assess the main themes of the book;
+- Explain any methods used to support the themes of the book;
+  - State whether the method is quantitative or qualitative and give a brief explanation of the methodological approach.
+- Explain and evaluate the conclusions drawn by the book's author(s);
+  - Assess whether the conclusions drawn seem sound based on the data they present.
+  - Identify any weaknesses or oversights of the book.
+- Evaluate the book's place within the field of public policy.
+  - How does the book build upon or fit within the public policy themes you have studied so far in this course?
+  - Provide specific examples and citations from course readings to support your evaluation.
 
-3. **Thematic Assessment** — Assess and summarize the main themes of the book in your own words (avoid block quotes).
+Your Book Review Assignment should be presented in current APA format. It should be 1,500 to 2,000 words in length, not including title page, footnotes/endnotes, abstract, or bibliography. It should avoid long, block quotes of the book and summarize key themes in your own words.
 
-4. **Methodological Analysis**
-   - Identify the author's methodological approach (qualitative, quantitative, or mixed).
-   - Provide a brief explanation of how the methodology is employed.
-   - Evaluate whether the methods adequately support the stated themes and thesis.
-
-5. **Evaluation of Conclusions**
-   - Explain the conclusions drawn by the author(s).
-   - Assess whether conclusions are sound based on the evidence presented.
-   - Identify weaknesses, gaps, or oversights in the book's argument.
-
-6. **Place Within the Field**
-   - Evaluate how the book fits within and contributes to public policy literature and discourse.
-   - Connect the book's arguments to themes from this course (e.g., frameworks from Birkland's *An Introduction to the Policy Process*, Stone's *Policy Paradox*, or other course readings).
-   - Provide specific examples and citations from course materials to support your evaluation.
+**Note:** Your assignment will be checked for originality via the Turnitin plagiarism tool.
 
 ### Format & Technical Requirements
 - **Length:** 1,500–2,000 words (not including title page, abstract, footnotes/endnotes, or bibliography)
 - **Format:** Current APA 7 style
-- **Citation:** Minimum 5 citations (including the book itself and at least 3 course materials or other peer-reviewed sources)
 - **Structure:** Standard academic essay format with introduction, body paragraphs organized by theme/criterion, and conclusion
+- Avoid long, block quotes — summarize key themes in your own words
+- Checked for originality via Turnitin
 
-### Grading Rubric (Estimated)
-| Criterion | Weight | Expectations |
-|---|---|---|
-| Opening Statement & Engagement | 10% | Compelling introduction; establishes relevance and reader interest |
-| Central Thesis Identification | 15% | Clear articulation of author's primary argument and purpose |
-| Thematic Assessment | 20% | Accurate, well-supported identification and summary of main themes |
-| Methodological Analysis | 20% | Correct identification of methods (qualitative/quantitative); evaluation of adequacy |
-| Evaluation of Conclusions & Weaknesses | 20% | Sound assessment of conclusions; identification of gaps and oversights |
-| Field Integration & Citations | 10% | Effective connection to public policy frameworks; proper citation of course materials |
-| Writing Quality & APA Formatting | 5% | Clear, concise prose; proper APA format throughout |
+### Official Grading Rubric (175 pts total)
+| Criteria | Advanced | Proficient | Developing | Not Present | Pts |
+|---|---|---|---|---|---|
+| **Content: Central Thesis and Book Choice** | 30–>27 pts: Clear and convincing account of the central thesis and purpose of the book. Book reviewed is from the list provided. | 27–>25 pts: Includes an account of the central thesis and purpose of the book. Book reviewed is from the list provided. | 25–>0 pts: Discussion of the central thesis is inadequate or unclear. Book reviewed is not from the list provided. | 0 pts | /30 |
+| **Content: Evaluation of book's main themes and methods** | 40–>36 pts: Clear and convincing account of the main theme(s). Thoroughly and accurately discusses whether the methodology is qualitative or quantitative. Thoroughly and accurately explains the research design/methodological approach. | 36–>34 pts: Includes an account of the main themes. Discusses whether the methodology is qualitative or quantitative. Explains the research design/methodological approach, but one element may be unclear or incomplete. | 34–>0 pts: Attempts to discuss the main themes and methodology used. One or more elements lacking (inaccuracies, vagueness, or incomplete evaluation). | 0 pts | /40 |
+| **Content: Evaluation of book's conclusions** | 30–>27 pts: Thoroughly and accurately explains and evaluates the conclusions. Thoroughly assesses soundness based on specific citations/references to the book. Identifies reasonable and relevant weaknesses or oversights. | 27–>25 pts: Explains the conclusions. Assesses soundness based on references to the book, but references may be vague or inaccurately interpreted. Identifies weaknesses/oversights, but may not be supported by the book itself. | 25–>0 pts: Attempts to discuss conclusions, soundness, and weaknesses/oversights. One or more areas inaccurately interpreted or unsupported by evidence from the book. | 0 pts | /30 |
+| **Content: Evaluation of the book's place within the public policy field** | 23–>21 pts: Thoroughly assesses the book's place in the public policy field. Accurately cites specific examples and citations from course readings to support evaluation. | 21–>19 pts: Assesses the book's place in the field. Cites examples/citations from course readings, but assessment is weak or inaccurate in some areas. | 19–>0 pts: Attempts to assess the book's place in the field, citing incorrect or insufficient examples from course readings. | 0 pts | /23 |
+| **Structure: APA formatting** | 17–>15 pts: Uses APA formatting accurately and consistently. | 15–>13 pts: Uses APA formatting with minor violations. | 13–>0 pts: Reflects incomplete knowledge of APA formatting. | 0 pts | /17 |
+| **Structure: Writing Mechanics** | 18–>16 pts: Writing is clear and concise. Sentence structure and grammar are excellent. Correct punctuation. No spelling errors. Paper is 1,500–2,000 words. | 16–>14 pts: Writing is mostly clear and concise. Sentence structure and grammar are strong and mostly correct. Few minor errors in punctuation/spelling. Paper is ±250 words of required length. | 14–>0 pts: Writing lacks clarity/conciseness. Minor sentence structure/grammar problems. Several minor errors in punctuation/spelling. Paper is fewer than 1,250 or more than 2,250 words. | 0 pts | /18 |
+| **Structure: Organization** | 17–>15 pts: Organization results in clarity and presents logically arranged points. | 15–>13 pts: Overall arrangement is logical but can occasionally be difficult to follow. | 13–>0 pts: Arrangement is less than clear, or organization is clear but there are some digressions. | 0 pts | /17 |
+| **Total** | | | | | **/175** |
 
 ---
 
