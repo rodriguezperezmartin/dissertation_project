@@ -161,6 +161,7 @@ This temporal critique will distinguish your review from a purely descriptive su
 ---
 
 ## Quick Links
+- **Prep plan & scanning guide:** [assignments/book_review_prep_plan.md](assignments/book_review_prep_plan.md) — plain-language requirements, scanning checklist, prep timeline, and rough outline skeleton to fill in as you read
 - **Reading notes (reference):** [assignments/book_notes_wilson_bureaucracy.md](assignments/book_notes_wilson_bureaucracy.md) — full chapter-by-chapter synopsis, objectives, evidence, conclusions, and dissertation application
 - **Assignments:** [assignments/](assignments/) (book review draft and final submission)
 - **Feedback:** [feedback/](feedback/) (to be populated upon instructor review)
