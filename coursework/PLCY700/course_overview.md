@@ -29,7 +29,7 @@ Quick-scan table of every week. Click through to a week's `learning_objectives.m
 | 2 | _TBD_ | Not yet started | [week02/learning_objectives.md](week02/learning_objectives.md) |
 | 3 | Academic critique, book reviews, logical fallacies, levels of measurement, inductive/deductive reasoning (incl. Walliman research methodology study aid) | Completed | [week03/learning_objectives.md](week03/learning_objectives.md) |
 | 4 | Literature Assessment & Research Question — topic chosen: "Leapfrog Advantage & AI Integration" in emerging-economy digital health (10 academic sources, organized topically) | **Completed** — final version ready to publish | [week04/learning_objectives.md](week04/learning_objectives.md) |
-| 5 | Research ethics & proposal writing (Walliman, Ch. 6–7); political decision-making & inducements (Stone, Ch. 10–11) | Reading notes complete | [week05/learning_objectives.md](week05/learning_objectives.md) |
+| 5 | Research ethics & proposal writing (Walliman, Ch. 6–7); political decision-making & inducements (Stone, Ch. 10–11); research design/sampling quiz study aid | Reading notes + quiz study aid complete | [week05/learning_objectives.md](week05/learning_objectives.md) |
 | 6 | Book Review — *Bureaucracy: What Government Agencies Do and Why They Do It* by James Q. Wilson (1989); critical assessment of thesis, methods, themes, conclusions, and field placement (1,500–2,000 words, APA) | In Progress — reading notes complete, draft review, submit | [week06/learning_objectives.md](week06/learning_objectives.md) |
 
 > Add a row per week as the syllabus/module content becomes available.

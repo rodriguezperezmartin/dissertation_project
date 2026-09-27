@@ -12,7 +12,8 @@ Readings this week cover research ethics/proposal writing (Walliman, Ch. 6–7) 
 
 ## Quick Links
 - Reading notes: [reading_notes.md](reading_notes.md)
-- Assignments: [assignments/](assignments/) (empty — not yet started)
+- Study aid (quiz findings/analysis): [assignments/walliman_research_design_study_aid.md](assignments/walliman_research_design_study_aid.md) — research integrity/fraud, survey design flaws, experimental modeling, qualitative interview typology, sampling strategy
+- Assignments: [assignments/](assignments/)
 - Feedback: [feedback/](feedback/) (empty — not yet received)
 - Original source files: [original_src_files/](original_src_files/) (empty — not yet uploaded)
 - Course overview: [../course_overview.md](../course_overview.md)
