@@ -22,6 +22,18 @@ Upon successful completion of this module, you will be able to:
 6. Connect the book's arguments to broader public policy frameworks and course concepts.
 7. Practice peer-review-style critique in a structured, professional format.
 
+## Instructor's Weekly Announcement (Dr. Boykin, verbatim, 2026-09-27)
+This week you will practice your own scholarly writing as you write your book review. Be sure to watch "The Craft of Writing Effectively" before you finalize your paper. There are several tips in that brief presentation that will help you become a better and more effective writer. Let me reiterate this week that the use of AI as a writing aide is considered an academic misconduct violation by Liberty University. Writing should be your own original thought, and your writing style should be your own. Doctoral-level researchers are expected to be excellent writers and communicators whose work is free from grammatical errors. Poor writing style leads readers to assume your research is also done poorly, but excellent writing style allows readers to focus more on the research you are conducting without distraction.
+
+Strunk and White's book, *Elements of Style*, is a great resource to help improve your writing. You can also reference the Online Writing Center's page ([Liberty University APA Guide](https://www.liberty.edu/casas/academic-success-center/writing-style-guides/apa-guide/)) for information on APA formatting and writing style.
+
+This week I am reflecting on the Parable of the Prodigal Son in [Luke 15:11–32](https://www.biblegateway.com/passage/?search=Luke+15%3A11-32&version=NIV). This parable reminds us of God's love and forgiveness, the joy of reconciliation of humanity with God through Jesus Christ, and the joy of reconciliation among people.
+
+God bless,
+Dr. Boykin
+
+> **⚠️ Important academic integrity note:** Dr. Boykin has explicitly stated that using AI as a writing aide is an academic misconduct violation at Liberty University. The book review's actual prose must be composed entirely by the student in their own words and writing style — AI assistance in this repository should be limited to organizing notes, tracking assignment/rubric requirements, and study aids, **not** drafting or editing the graded review's sentences. Recommended writing resources: *The Elements of Style* (Strunk & White) and the [Liberty University APA Guide](https://www.liberty.edu/casas/academic-success-center/writing-style-guides/apa-guide/); also watch "The Craft of Writing Effectively" video before finalizing the paper.
+
 ## Book Review Assignment — Book Selection & Overview
 **Update (2026-09-21):** The book originally selected in Week 3 — Weiss (1991), *Organizations for Policy Analysis* — was replaced because a physical/accessible copy could not be obtained in time. The final selection for the Module 6 assignment is:
 

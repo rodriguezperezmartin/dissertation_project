@@ -12,6 +12,7 @@ Purpose: capture feedback from every assignment so patterns emerge about (a) how
 _(Update as patterns emerge across multiple assignments — e.g., "faculty consistently ask for narrower scope", "committee expects quantitative rigor early")_
 
 - Dr. Boykin (PLCY 700) emphasizes balanced critique (strengths **and** shortcomings), not purely descriptive writing.
+- Dr. Boykin has repeatedly stressed (Week 6 announcement, 2026-09-27) that **using AI as a writing aide is an academic misconduct violation at Liberty University** — all graded written submissions must be the student's own original prose and writing style. Treat this as a standing rule for every future assignment, not just Week 6.
 
 ## Evaluation Criteria Observed
 _(Document explicit or implicit rubrics/criteria faculty use to grade assignments and, eventually, the dissertation proposal/defense)_
