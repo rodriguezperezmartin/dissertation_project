@@ -1,11 +1,10 @@
-# Week 5 Study Aid — Research Design, Ethics & Sampling: Walliman Principles
+# Week 5 Study Aid — Research Methodology, Design & Ethics (Quiz Review)
 
 **Course:** PLCY 700 — Foundations of Public Policy
 **Type:** Quiz findings/analysis (self-prepared study aid based on quiz results)
+**Foundational Text Reference:** Nicholas Walliman, *Your Research Project* (3rd ed.)
 
-Structured overview of core research design, integrity, and sampling principles from Walliman — directly supports this week's learning outcomes on research ethics, survey instrument design, experimental modeling, qualitative methods, and sampling strategy (see [../reading_notes.md](../reading_notes.md) for the full chapter-by-chapter reading notes).
-
-**Companion document:** [walliman_quiz_review_study_aid.md](walliman_quiz_review_study_aid.md) goes deeper on data classification/typology for experimental modeling and the qualitative interview typology comparison matrix.
+Companion document to [walliman_research_design_study_aid.md](walliman_research_design_study_aid.md) — this review goes deeper on data classification/typology for experimental modeling and expands the qualitative interview typology into a full comparison matrix, based on a second pass through the quiz material.
 
 ## 1. Research Integrity, Scientific Fraud, and Methodological Safeguards
 
@@ -37,26 +36,30 @@ Survey questions must adhere to strict principles of clarity, mutual exclusivity
 | *"When did you last drink a bottle of champagne: yesterday, last week, last month, last year?"* | **Loaded / Presumptuous & Discontinuous Intervals:** Falsely assumes behavior; lacks "Never" or "N/A" options; leaves temporal gaps. | Avoid loaded assumptions; provide comprehensive categorical coverage including negative and non-applicable options. |
 | Excerpt with dense post-structuralist jargon asking to classify abstract theory. | **Cognitive Overload & Inaccessible Jargon:** Acts as an elitist comprehension test rather than measuring participant views. | Questions must match the language and reading level of the target sample. |
 
-## 3. Experimental Modeling: Inputs vs. Outputs
+## 3. Experimental Modeling: Inputs vs. Outputs & Data Typology
 
-Every empirical experiment or computer simulation must distinguish between **independent/control parameters (data needed)** and **dependent/outcome variables (data produced)**.
+In Walliman's methodological exercises, questions evaluating *"what sort of data will be needed, and what sort of data will be produced?"* test high-level **data classification** (nature, measurement scale, or origin) rather than operational variable lists.
+
+On standardized answer keys, these correspond directly to **concise two-word pairs** (one word for *needed*, one word for *produced*):
 
 ```
 Inputs (Data Needed) ────────► [Experimental System / Model] ────────► Outputs (Data Produced)
-(Independent & Controlled)                                              (Dependent & Measured)
+(Nature / Scale / Source)                                              (Nature / Scale / Source)
 ```
 
-### Empirical Scenarios
+### Data Classification Matrix (Two-Word Answer Keys)
 
-1. **Hard-Boiled Egg Experiment:**
-   - *Data Needed (Inputs):* Egg size/mass (grams), post-lay age, baseline egg temperature, water volume, and constant boiling temperature.
-   - *Data Produced (Outputs):* Cooking time required to reach the hard-boiled threshold, verified by core yolk temperature and texture firmness.
-2. **Bus Route Simulation Model (Bus Bunching):**
-   - *Data Needed (Inputs):* Route distance, stop locations, dispatch headways, free-flow speeds, traffic congestion distributions, and passenger boarding/alighting rates.
-   - *Data Produced (Outputs):* Variance in headway gaps between successive buses, frequency and geographic clusters of three-bus bunching, trip durations, and queue delays.
-3. **Glass Window Impact Experiment:**
-   - *Data Needed (Inputs):* Framing materials (aluminum, wood, steel), glazing/fastening methods, rebate depth, glass thickness/type, and impactor mass/velocity.
-   - *Data Produced (Outputs):* Kinetic energy failure thresholds (Joules), deflection strain distributions, and categorical failure modes (shattering vs. dislodgement).
+| Scenario / Prompt | Data Needed (Input) | Data Produced (Output) | Methodological Rationale (Walliman Taxonomy) |
+|---|---|---|---|
+| **1. Hard-Boiled Egg Experiment** — Testing time to hard-boil different sizes of freshly laid eggs. | **Quantitative** *(or Empirical)* | **Quantitative** *(or Experimental)* | **Needed:** Continuous ratio measurements (egg mass/weight, water temperature). **Produced:** Continuous numerical measurement (cooking time in minutes/seconds). |
+| **2. Bus Route Simulation Model** — Model mimicking bus journeys to study why buses arrive in threes. | **Quantitative** *(or Empirical)* | **Simulated** *(or Quantitative)* | **Needed:** Numerical real-world transit baseline data (passenger counts, headways, speeds). **Produced:** Computer-generated theoretical distribution of headway gaps and clustering events. |
+| **3. Glass Framing Impact Experiment** — Testing how window framing affects glass strength during impact. | **Qualitative** *(or Categorical)* | **Quantitative** *(or Experimental)* | **Needed:** Nominal categorical groups (frame material types: wood, aluminum, vinyl, steel). **Produced:** Continuous numerical measurements of failure force/energy (Joules) and displacement. |
+
+*Note on Granular Operational Variables:* If an essay or short-answer prompt requests specific experimental parameters:
+
+- **Egg Boiling:** Inputs = egg mass (g), post-lay age, baseline temperature; Outputs = boiling duration, yolk core temperature.
+- **Bus Bunching:** Inputs = route distance, stop headway, dwell times; Outputs = variance in arrival intervals, bunching frequency.
+- **Window Impact:** Inputs = frame profile, glass thickness, impact velocity; Outputs = critical fracture energy, deflection distance.
 
 ## 4. Qualitative Data Collection Methods: Interview Typology
 
@@ -66,6 +69,16 @@ Qualitative methods vary along a continuum of researcher control, standardizatio
 - **Semi-Structured Interviews:** Guided by a thematic framework of open-ended questions; allows the researcher the flexibility to alter sequence and use spontaneous follow-up probes.
 - **Open (Unstructured) Interviews:** Conversational and emergent; guided by broad topical prompts where the participant largely directs the dialogue and priorities.
 - **Accounts (Narratives / Life Histories):** Continuous, self-directed storytelling where participants explain, contextualize, and morally justify their experiences in their own terminology.
+
+### Quick Comparison Matrix
+
+| Feature | Structured | Semi-Structured | Open (Unstructured) | Accounts |
+|---|---|---|---|---|
+| **Control of Agenda** | Strictly researcher | Shared / Guided | Primarily participant | Almost entirely participant |
+| **Question Format** | Standardized, closed/fixed | Thematic guide, open-ended | Conversational prompts | Narrative / Story prompts |
+| **Flexibility** | None (rigid order) | High (probes & shifts allowed) | Maximum (emergent dialogue) | Unrestricted narrative flow |
+| **Data Type** | Standardized, numerical/coded | Rich thematic text | In-depth subjective text | Extended personal story/narrative |
+| **Primary Strength** | High reliability & comparability | Depth with thematic focus | Uncovers unexpected findings | Reveals personal meaning & context |
 
 ## 5. Sampling Strategy & Population Representation
 
