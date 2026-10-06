@@ -54,6 +54,21 @@ After posting your video by 11:59 p.m. (ET) on Thursday of the assigned Module: 
 
 ---
 
+## Recommended Approach (Tailored to Week 7 Objectives & the Dissertation Topic)
+
+1. **Reframe the research question explicitly as a causal theory** (this is the core concept the Week 7 quiz tests). State the chain explicitly rather than just restating Week 4's themes:
+   - **Cause/problem:** M&E is bolted onto health policy as an afterthought, so agencies can't see crises coming — they only react once a crisis is already underway (reactive crisis spending).
+   - **Intervention:** Predictive AI models + interoperable digital health architecture, designed in from the start.
+   - **Effect:** A measurable shift from reactive to proactive/targeted spending.
+
+2. **Use the efficiency vs. equity tension as a weaknesses/implications talking point** — this is a gap the Week 4 sources never addressed (already flagged as a weakness: no economic metrics, no emerging-economy context). Name the tension directly: predictive AI/interoperable infrastructure is an **efficiency** play (less waste, better-targeted spending), but infrastructure investment can be **inequitable** if deployed first in wealthier/urban regions, widening the gap for rural or marginalized populations. This directly hits the "assess efficiency vs. equity" learning outcome and adds depth beyond the Week 4 paper.
+
+3. **Structure the video tightly to the required order:** hook → thesis/topic → themes (lead with the causal framing above) → weaknesses (including the efficiency/equity gap) → implications → research question stated clearly. 4–5 minutes is short — present only the 3–4 strongest themes, not all 10 sources.
+
+4. **Week 4 feedback was positive with no corrective items** (see [../week04/feedback/feedback.md](../week04/feedback/feedback.md)) — no changes to the research question or sources are required before recording.
+
+---
+
 ## Content Requirements Checklist
 Before recording, watch the course's "tips for an effective presentation" video (per Dr. Boykin's Week 7 announcement).
 

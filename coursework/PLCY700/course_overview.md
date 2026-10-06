@@ -22,13 +22,14 @@ _Add the official syllabus course description here once available._
 - Evaluate causal theories in public policy.
 - Assess efficiency versus equity in public policy.
 - Develop an oral presentation of a literature review and research question.
+- Evaluate a causal-stories framework's use and limitations in real-world policy agenda-setting (Stone; Angstadt).
 
 ## Weekly Map
 Quick-scan table of every week. Click through to a week's `learning_objectives.md` for the detailed study guide, and from there to that week's assignments/feedback.
 
 | Week | Topic / Focus | Status | Study Guide |
 |---|---|---|---|
-| 1 | _TBD_ | Not yet started | [week01/learning_objectives.md](week01/learning_objectives.md) |
+| 1 | Discussion: Introduction to Public Policy — policy interests/Christian worldview (Part 1); evaluation of Angstadt's (2020) use of Stone's "causal stories" framework (Part 2) | **Completed** (thread posted; peer replies pending) | [week01/learning_objectives.md](week01/learning_objectives.md) |
 | 2 | Short Paper: Scientific Inquiry and Research Questions — Popper/Kuhn/Feyerabend comparison of academic vs. popular press articles (digital healthcare infrastructure in Mexico); 2 scientific research questions; biblical worldview assessment | **Completed** | [week02/learning_objectives.md](week02/learning_objectives.md) |
 | 3 | Academic critique, book reviews, logical fallacies, levels of measurement, inductive/deductive reasoning (incl. Walliman research methodology study aid) | Completed | [week03/learning_objectives.md](week03/learning_objectives.md) |
 | 4 | Literature Assessment & Research Question — topic chosen: "Leapfrog Advantage & AI Integration" in emerging-economy digital health (10 academic sources, organized topically) | **Completed** — final version ready to publish | [week04/learning_objectives.md](week04/learning_objectives.md) |
@@ -39,6 +40,7 @@ Quick-scan table of every week. Click through to a week's `learning_objectives.m
 > Add a row per week as the syllabus/module content becomes available.
 
 ## Dissertation Tie-Ins
+- Week 1's discussion thread first articulated the policy interest (fiscal/monetary policy to grow household incomes in emerging Latin American economies) that eventually became the dissertation's healthcare digital infrastructure angle, and applied Stone's causal-stories framework (via Angstadt, 2020) — directly reused in Week 7's causal-theory framing of the dissertation research question. Full thread: [week01/assignments/discussion_intro_public_policy.md](week01/assignments/discussion_intro_public_policy.md).
 - Week 2's Short Paper ("The Macroeconomic Impact of Digital Healthcare Infrastructure in Mexico") is the earliest coursework precursor to the dissertation's research question — applied the same digital-infrastructure-to-macroeconomic-outcomes logic to a specific country case (Mexico, Seguro Popular) nearly six weeks before the Week 4 "Leapfrog Advantage & AI Integration" framing was finalized. Full paper: [week02/assignments/short_paper_scientific_inquiry.md](week02/assignments/short_paper_scientific_inquiry.md); logged in [dissertation/research_questions.md](../../dissertation/research_questions.md).
 - Week 7's oral presentation discussion directly repackages the Week 4 Literature Assessment ("Leapfrog Advantage & AI Integration") into spoken conference-style form — a useful rehearsal for future dissertation proposal defenses. Presentation source material: [week04/assignments/literature_assessment_findings.md](week04/assignments/literature_assessment_findings.md), [week04/assignments/final_literature_review.md](week04/assignments/final_literature_review.md).
 - Week 5 readings (Walliman Ch. 6–7 on research ethics/proposal writing; Stone Ch. 10–11 on decision-making/inducements) inform the dissertation's future IRB/ethics protocol and methodology chapter, and the critique of purely quantitative M&E metrics in digital health policy design. Full notes: [week05/reading_notes.md](week05/reading_notes.md); logged in [dissertation/literature_review/indirect_sources/annotated_bibliography.md](../../dissertation/literature_review/indirect_sources/annotated_bibliography.md)
