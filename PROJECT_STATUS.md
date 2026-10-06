@@ -1,6 +1,6 @@
 # Project Status — Start Here
 
-**Last updated:** 2026-09-21
+**Last updated:** 2026-10-05
 
 This is the single "load this first" file for the dissertation project. Read this before anything else to get fully oriented in one pass — no need to piece the story together from scattered files each session.
 
@@ -10,7 +10,7 @@ This is the single "load this first" file for the dissertation project. Read thi
 - **PhD status:** Year 1, Fall 2026 semester — currently in **PLCY 700: Foundations of Public Policy**
 - **Target graduation:** Fall 2029 (full sequence in [roadmap/degree_plan.md](roadmap/degree_plan.md))
 - **Courses completed:** none yet (first semester in progress)
-- **Current week in PLCY 700:** Week 6 (reading *Organizations for Policy Analysis* by Weiss 1991 for book review)
+- **Current week in PLCY 700:** Week 7 (causal theories, efficiency vs. equity, quiz, and oral presentation of the Week 4 Literature Assessment/Research Question). Week 6 Book Review is complete.
 
 ## 2. Dissertation Objective (Working)
 
@@ -77,6 +77,8 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - **2026-09-27:** Clarified and recorded the student's personal AI usage policy: **"I use AI for ideation and structural feedback"** (brainstorming and organization, not drafting). Updated the integrity note in `week06/learning_objectives.md` and the recurring theme in `feedback_log/feedback_tracker.md` to use this exact framing.
 - **2026-09-27:** Created `week06/assignments/book_review_prep_plan.md` — a structural/ideation-only prep aid (per the AI usage policy): plain-language breakdown of the assignment and 175-pt rubric, a scanning checklist pointing to the specific chapters/sections the rubric actually grades (Preface, Ch. 1, Ch. 9 Compliance, Ch. 10 Turf, Ch. 13 Congress, final chapter, Buck 1992 critique), a step-by-step prep timeline, and a rough outline skeleton (headers + reminder bullets only, no drafted prose) mapped 1:1 to each rubric criterion for the student to fill in themselves. Linked from `week06/learning_objectives.md`.
 - **2026-10-02:** Added `week05/assignments/walliman_quiz_review_study_aid.md` — a second, companion quiz study aid covering the same Week 5 topics (research integrity/fraud, survey design flaws, sampling) but with a deeper, two-word-answer-key data classification matrix for experimental modeling (egg boiling, bus bunching, glass impact) and a full qualitative interview typology comparison matrix (Structured/Semi-Structured/Open/Accounts). Cross-linked with the existing `walliman_research_design_study_aid.md` as companion documents. Updated `week05/learning_objectives.md`, `course_overview.md`, and `README.md`.
+- **2026-10-05:** Uploaded the final Week 6 Book Review submission (`A Critical Book Review Assignment.docx`) into `week06/original_src_files/` and converted it to `week06/assignments/book_review_wilson_bureaucracy.md` (APA 7, ~1,785 words — within the 1,500–2,000 word requirement). **Module 6 Book Review is complete.** Marked Week 6 as Completed in `course_overview.md` and updated `README.md`/`week06/learning_objectives.md` links.
+- **2026-10-05:** Added Dr. Boykin's Week 7 weekly announcement (verbatim) to `week07/learning_objectives.md`: causal theories quiz this module, a reminder to watch the effective-presentation tips video before recording, a reminder to incorporate Week 4 literature review feedback into the oral presentation, and a faith reflection on the Parable of the Rich Young Ruler (Mark 10:17–30). Flagged that a dedicated quiz study aid should be added once quiz content/results are available (Week 3/5 pattern).
 
 ## 6. Module 6: Book Review Assignment — *Bureaucracy: What Government Agencies Do and Why They Do It* (1989) by James Q. Wilson
 
@@ -84,22 +86,21 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 
 **Book Selection Rationale:** Original Week 3 selection was Weiss (1991), *Organizations for Policy Analysis*; **changed on 2026-09-21** to Wilson (1989), *Bureaucracy*, because a physical/accessible copy of Weiss could not be obtained in time. Wilson's framework (why agencies resist change, turf protection, rule-bound risk aversion) maps directly onto the dissertation's institutional-barriers-to-DPI-adoption angle. A peer-reviewed critique of Wilson — Buck (1992) — was also supplied as a companion source to sharpen the review's own critical analysis (see [coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf](coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf)).
 
-**Status:** Reading notes complete — to do:
+**Status: Complete.** Final review submitted 2026-10-05:
 - [x] Complete full reading of Wilson (1989) with chapter-by-chapter notes on themes, methods, conclusions ([coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md](coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md))
-- [ ] Read the Buck (1992) peer-reviewed critique and incorporate its perspective into the review's methodological critique
-- [ ] Draft book review (1,500–2,000 words, APA) addressing all rubric criteria
-- [ ] Submit final review to [coursework/PLCY700/week06/assignments/](coursework/PLCY700/week06/assignments/)
+- [x] Read the Buck (1992) peer-reviewed critique and incorporate its perspective into the review's methodological critique
+- [x] Draft book review (1,500–2,000 words, APA) addressing all rubric criteria
+- [x] Submit final review — [coursework/PLCY700/week06/assignments/book_review_wilson_bureaucracy.md](coursework/PLCY700/week06/assignments/book_review_wilson_bureaucracy.md) (~1,785 words)
 
 **Reading Guidance:** See [coursework/PLCY700/week06/learning_objectives.md](coursework/PLCY700/week06/learning_objectives.md) for the full critical reading guide. Track: (1) central thesis and methodological approach (qualitative, comparative institutional analysis); (2) recurring themes around turf, culture, beliefs, constraints, and observability-driven compliance types; (3) weaknesses (how do 1989 conclusions hold up against modern interoperable data, MLOps, agentic AI?); (4) connections to Birkland's policy process stages, Stone's *Policy Paradox* concepts (esp. Ch. 9 Numbers ↔ Wilson Ch. 9 Compliance), and Week 4 acceptance/adoption barriers.
 
 ---
 
 ## 7. Next Actions
-- [ ] Read the Buck (1992) peer-reviewed critique of Wilson's *Bureaucracy* and note how it should sharpen the review's methodological critique
-- [ ] Draft Module 6 book review (1,500–2,000 words, APA) covering opening statement, central thesis, themes, methods explanation, conclusions evaluation, field placement, and weaknesses — emphasize temporal critique (1989 framework vs. modern DPI/MLOps/agentic AI), drawing on [coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md](coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md)
-- [ ] Continue PLCY 700 Week 5 assignment once released by instructor (reading notes complete: [coursework/PLCY700/week05/reading_notes.md](coursework/PLCY700/week05/reading_notes.md))
 - [ ] Draft and record the Week 7 oral presentation (4–5 min video) covering the Week 4 Literature Assessment themes/weaknesses/implications and research question, once Week 4 feedback is received to also address it; see [coursework/PLCY700/week07/learning_objectives.md](coursework/PLCY700/week07/learning_objectives.md)
+- [ ] Watch the effective-presentation tips video before recording the Week 7 oral presentation
 - [ ] Post 2 peer replies (150+ words each) to classmates' Week 7 video presentations
+- [ ] Take/complete the Week 7 quiz on causal theories
 - [ ] Keep feeding professor feedback into `feedback_log/feedback_tracker.md` as it arrives
 
 ## 8. Standing Maintenance Rule (Do This Automatically — Don't Wait to Be Asked)

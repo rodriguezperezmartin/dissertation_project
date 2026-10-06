@@ -9,7 +9,21 @@ Upon successful completion of this module, you will be able to:
 2. Assess efficiency versus equity in public policy.
 3. Develop an oral presentation of your literature review.
 
-**Core Learning Activity:** Record and post a 4–5 minute video oral presentation of your Week 4 Literature Assessment and Research Question, then post two peer-reply comments (150+ words each).
+**Core Learning Activity:** Record and post a 4–5 minute video oral presentation of your Week 4 Literature Assessment and Research Question, then post two peer-reply comments (150+ words each). This module also includes a quiz on causal theories.
+
+## Instructor's Weekly Announcement (Dr. Boykin, verbatim, 2026-10-05)
+This week's focus is on causal theories in public policy. Causal theories address what causes a particular problem and what intervention will alleviate that problem. Causal theories, as you might expect, form the foundation from which public policies are created. You will take a quiz this week over these concepts.
+
+This week you will also practice another form of communication – the oral presentation. Please review the watch item regarding tips for an effective presentation before you record your presentation. Also, be sure to review the feedback you received on your literature review paper and include any necessary changes to your research question or sources in your oral presentation.
+
+This is an opportunity for you to shine! I look forward to reviewing each of your presentations and consider this to be the culmination of the work you have done throughout the term.
+
+This week I'm reflecting on the Parable of the Rich Young Ruler in Mark 10:17–30. The young man asked what he must do to obtain eternal life. Jesus' response ultimately demands a commitment by saying the man must give up what he has an abundance of -- worldly possessions. This passage asks us to examine where our commitment lies: with God or elsewhere.
+
+God bless,
+Dr. Boykin
+
+> **Note:** A quiz on causal theories (what causes a policy problem, what intervention alleviates it) is also due this module — add a dedicated study aid/quiz notes file once quiz content/results are available, following the Week 3/5 pattern.
 
 ---
 
@@ -41,6 +55,8 @@ After posting your video by 11:59 p.m. (ET) on Thursday of the assigned Module: 
 ---
 
 ## Content Requirements Checklist
+Before recording, watch the course's "tips for an effective presentation" video (per Dr. Boykin's Week 7 announcement).
+
 The 4–5 minute video must clearly and logically cover, in order:
 1. **Topic introduction** — the chosen public policy area of interest ("Leapfrog Advantage & AI Integration" in emerging-economy digital health).
 2. **Common themes, assumptions, and methodological approaches** identified across the 10 assessed sources.

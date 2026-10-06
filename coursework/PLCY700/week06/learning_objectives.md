@@ -161,11 +161,12 @@ This temporal critique will distinguish your review from a purely descriptive su
 ---
 
 ## Quick Links
+- **Final submitted book review:** [assignments/book_review_wilson_bureaucracy.md](assignments/book_review_wilson_bureaucracy.md) — APA 7, ~1,785 words
 - **Prep plan & scanning guide:** [assignments/book_review_prep_plan.md](assignments/book_review_prep_plan.md) — plain-language requirements, scanning checklist, prep timeline, and rough outline skeleton to fill in as you read
 - **Reading notes (reference):** [assignments/book_notes_wilson_bureaucracy.md](assignments/book_notes_wilson_bureaucracy.md) — full chapter-by-chapter synopsis, objectives, evidence, conclusions, and dissertation application
 - **Assignments:** [assignments/](assignments/) (book review draft and final submission)
 - **Feedback:** [feedback/](feedback/) (to be populated upon instructor review)
-- **Original source files:** [original_src_files/](original_src_files/) (Buck (1992) peer-reviewed critique PDF)
+- **Original source files:** [original_src_files/](original_src_files/) (Buck (1992) peer-reviewed critique PDF; submitted book review .docx)
 - **Course overview:** [../course_overview.md](../course_overview.md)
 - **Previous week (original book selection rationale, later changed):** [../week03/assignments/book_review_discussion.md](../week03/assignments/book_review_discussion.md)
 - **Direct sources bibliography:** [../../../dissertation/literature_review/direct_sources/annotated_bibliography.md](../../../dissertation/literature_review/direct_sources/annotated_bibliography.md)
