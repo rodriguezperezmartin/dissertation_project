@@ -63,7 +63,7 @@ The 4–5 minute video must clearly and logically cover, in order:
 3. **Areas of weakness or limitations** in the literature assessed.
 4. **Implications** of the literature for your own policy/dissertation interests.
 5. **Your unique, policy-related, scientific research question**, stated clearly.
-6. **Response to instructor feedback** — address and correct any issues noted in the grading of the Week 4 Literature Assessment (pending — no feedback received yet as of this writing; see [../week04/feedback/](../week04/feedback/)).
+6. **Response to instructor feedback** — Week 4 feedback was received and was entirely positive with no corrective action items noted (see [../week04/feedback/feedback.md](../week04/feedback/feedback.md)); no changes to the research question or sources are required, so the presentation can proceed with the original themes/research question as submitted.
 
 **Two peer replies (150+ words each):** concrete, constructive, collegial feedback on colleagues' research questions and literature — grounded in course concepts, not generic praise.
 

@@ -22,6 +22,15 @@
 - Purpose-driven framing: write as if helping a fellow academic decide whether the book is worth reading.
 - This discussion is explicitly scaffolding for a later **graded book review assignment** — the approved book selected here should be the one used in that later assignment.
 
+## Graded Discussion Feedback (Personalized)
+> Martin,
+>
+> You did a great job on the Book Review discussion. You discussed the key features of the review and analyzed the features of its structure and identified its specific topics discussed. You also explained how you expect the review to inform your own book review analysis. You included a book from the list you plan to review in the subsequent assignment.
+>
+> God bless,
+>
+> Dr. Boykin
+
 ## Action Items
-- [ ] Confirm the book selected from the approved list once that homework assignment is uploaded.
-- [ ] When drafting the later book review assignment, structure it around: content/relevance → fit in field scholarship → contribution → strengths/shortcomings balance.
+- [x] Confirm the book selected from the approved list once that homework assignment is uploaded. (Wilson, 1989, *Bureaucracy* — confirmed, swapped from Weiss on 2026-09-21)
+- [x] When drafting the later book review assignment, structure it around: content/relevance → fit in field scholarship → contribution → strengths/shortcomings balance. (Completed — see [week06/assignments/book_review_wilson_bureaucracy.md](../../week06/assignments/book_review_wilson_bureaucracy.md))
