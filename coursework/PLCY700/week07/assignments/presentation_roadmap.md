@@ -148,3 +148,37 @@ Two separate things belong here:
 **Research Question + Why It Matters:**
 > This leads to the research question driving my dissertation: "To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending in public health interventions within emerging economies?" This question matters because it fills the exact white space the literature leaves open — it measures economic outcomes, it's set in emerging economies, and it tests a policy intervention rather than just adoption attitudes. If emerging economies can shift from crisis-driven to data-driven spending, that doesn't just change their own fiscal capacity — it offers a model for other low-resource health systems worldwide.
 
+---
+
+## 9. Revised Script — Version 2 (Trimmed for Timing)
+
+**Why this version exists:** The Version 1 script (~604 words) ran to **6 minutes** in actual recording — longer than the word-count estimate predicted, because natural delivery (pauses, breaths, slide transitions) runs slower than a dry reading-speed estimate. Based on 604 words taking 6 minutes, your actual speaking pace is roughly **100 words/minute**. Version 2 trims to **~454 words**, which should land at **4–4.8 minutes** at that same pace — comfortably inside the 4–5 minute requirement.
+
+**What was cut (and why it's still rubric-safe):**
+- Dropped the Guatemala mention from the hook (it was supplementary context, not required — the Mexico example alone still delivers the "real-world currency" hook).
+- Tightened sentence structure throughout — removed repeated transitional phrases ("in other words," restating ideas) without removing any required content category.
+- Shortened the "why it matters" close to one flowing sentence instead of two.
+- **Nothing required by the rubric was removed:** all three themes (with both citations, Alkhwaldi 2023 and Coombs et al. 2022), all three gaps, the explicit causal chain (cause → intervention → effect), the methodological-approaches mention, the efficiency vs. equity tension, the Mexico real-world hook, and the exact research question are all still present.
+
+*(~454 words. Study this, then deliver in your own words/voice — don't read verbatim on camera.)*
+
+**Hook:**
+> Can emerging economies leapfrog the slow, incremental steps developed nations took, and move straight into predictive AI and interoperable digital health infrastructure to improve care across their populations? This isn't hypothetical. Mexico made digital health records and interoperability legally mandatory as of January 2026, with full inter-institutional data exchange required by January 2027. The open question: is a legal mandate alone enough, or does it take more?
+
+**Central Thesis / Research Angle:**
+> Emerging economies are uniquely positioned. They lack the outdated health IT systems developed nations are still untangling — a structural advantage that lets them build agile, interoperable architectures from scratch. But monitoring and evaluation of health outcomes is almost always treated as an afterthought in policy design, which is why crises get managed reactively instead of prevented proactively. My research tests whether a specific intervention — predictive AI paired with interoperable digital health architecture built in from day one — can shift that pattern from reactive to proactive spending.
+
+**Common Themes:**
+> The literature converges on three recurring themes. First, adoption is gated by trust and organizational readiness, not technical capability — Alkhwaldi (2023) found clinicians often perceive business intelligence systems as a threat to their professional autonomy. Second, acceptance itself is treated as the dependent variable of success. Third, structural and social barriers drive healthcare inequity independent of technology — Coombs et al. (2022) documented this friction in rural and migrant populations. Methodologically, most of this evidence comes from cross-sectional surveys and small-sample qualitative interviews.
+
+**Gaps / Weaknesses:**
+> That points to three real gaps. Cross-sectional designs dominate the literature — a single point-in-time snapshot that can't establish causality. No source measures actual economic or financial outcomes — these studies look at attitudes and intentions, never spending behavior. And emerging economies are almost entirely absent from the countries studied — exactly where the leapfrog advantage would apply.
+
+**Implications + Efficiency vs. Equity:**
+> This raises a policy tension beyond just "does the technology work" — efficiency versus equity. Predictive AI and interoperable infrastructure are fundamentally an efficiency play — less waste, better-targeted spending — but that gain could come at the cost of equity if deployed first in wealthier or urban regions, widening the gap for those who need it most. Mexico's mandate is already running into exactly the capability gaps — funding, connectivity, training — that determine whether a legal mandate alone can deliver equitable outcomes, or just efficient ones for those who already have access.
+
+**Research Question + Why It Matters:**
+> This leads to the research question driving my dissertation: "To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending in public health interventions within emerging economies?" It fills the exact white space the literature leaves open — it measures economic outcomes, it's set in emerging economies, and it tests a real policy intervention rather than just adoption attitudes, offering a model for other low-resource health systems worldwide.
+
+**Delivery tip:** If you're still running long after one rehearsal with this version, the single safest additional cut is shortening the Central Thesis section further — it's the one paragraph not directly tied to a specific rubric line-item citation, so it has the most trimming room left without risking a missing-content deduction.
+
