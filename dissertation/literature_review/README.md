@@ -12,7 +12,10 @@ Each folder has the same structure:
 
 ## Workflow
 1. Read a source → decide direct or indirect (see the rule of thumb in each folder's README).
-2. Save the PDF into that folder's `files/`.
+2. Save the PDF into that folder's `files/`. For web-based grey literature/current-events sources (news articles, practitioner posts) with no PDF, skip this step and link the URL directly in the bibliography entry instead.
 3. Add an entry to that folder's `annotated_bibliography.md` immediately — don't let sources pile up unreviewed.
 4. Cross-link entries to [research_questions.md](../research_questions.md) when a source directly shapes the question.
 5. When drafting the dissertation, ask your research assistant to pull citations/quotes straight from `direct_sources/` first.
+
+## Related: Real-World Case Evidence
+Live policy developments (government mandates, reforms, pacts) that aren't formal peer-reviewed literature but are directly relevant to the dissertation topic are tracked separately in [../case_studies/](../case_studies/) — e.g., Mexico's 2026 digital health mandate, Guatemala's digital health roadmap. These are still logged as grey-literature entries in `direct_sources/annotated_bibliography.md`, with full case analysis living in `case_studies/`.

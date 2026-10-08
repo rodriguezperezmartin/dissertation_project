@@ -31,6 +31,7 @@ This is the single "load this first" file for the dissertation project. Read thi
 
 Full detail: [dissertation/topic_overview.md](dissertation/topic_overview.md)
 Question evolution over time: [dissertation/research_questions.md](dissertation/research_questions.md)
+Live, real-world case evidence (current policy developments, not yet in the peer-reviewed literature): [dissertation/case_studies/](dissertation/case_studies/) — currently tracks Mexico's 2026 mandatory digital health/EHR reform and Guatemala's 2022–2032 digital health roadmap, analyzed through Stone's *Policy Paradox* carrot/stick inducements framework.
 
 ## 3. Methodology (Evolving)
 **Primary approach:** analyze the research question using **existing empirical data** — published sources, historical policy interventions, and economic datasets — to measure how digital health/AI interventions shift government/NGO spending from reactive to proactive. This is the required, sufficient evidence base for the dissertation; the formal quantitative/qualitative methods will be finalized via the Research Methods & Tools courses (PLCY 805, 809, 810, 811, 812) in 2027-2028, followed by Research Concept (PLCY 885) and Dissertation I-IV in 2029. Likely a **mixed-methods** approach (quantitative health/economic indicators + qualitative policy case studies).
