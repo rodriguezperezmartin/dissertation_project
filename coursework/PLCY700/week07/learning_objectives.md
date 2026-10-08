@@ -88,6 +88,9 @@ Build the presentation script/outline directly from the completed Week 4 assignm
 - [week04/assignments/final_literature_review.md](../week04/assignments/final_literature_review.md) — final submitted paper with full APA references
 - [week04/assignments/rubric_notes_outline.md](../week04/assignments/rubric_notes_outline.md) — notes mapped to each grading criterion
 
+## Presentation Roadmap (Full Rehearsal Guide)
+For the complete minute-by-minute recording roadmap — timing breakdown, section-by-section talking points with citations, the causal-theory framing, the efficiency vs. equity tension, and a pre/post-recording checklist — see [assignments/presentation_roadmap.md](assignments/presentation_roadmap.md).
+
 ## Reading Guidance: Causal Theories & Efficiency vs. Equity
 This module's course readings (causal theory of policy problems, efficiency vs. equity trade-offs) underpin *why* a research question matters — frame the presentation's research question in terms of the causal mechanism it investigates (e.g., does predictive AI + interoperable digital health infrastructure *cause* a reduction in reactive crisis spending?) and note where the dissertation's angle raises efficiency/equity tensions (e.g., resource allocation between infrastructure investment and immediate care access in emerging economies).
 
