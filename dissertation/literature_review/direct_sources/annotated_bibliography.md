@@ -123,3 +123,48 @@ Selected for the "Leapfrog Advantage & AI Integration" research question. Full w
 - **Theme(s):** Technology potential vs. adoption gap, proactive vs. reactive resource management
 - **Summary:** Proposes a 5-initiative roadmap (dynamic inventory, demand predictors, dynamic scheduling, logistics automation, dynamic external supply chains) to shift hospitals from reactive to proactive supply chain management via digitalization.
 - **Relevance to dissertation:** **Closest direct precedent to the dissertation's core mechanism** — explicitly frames digitalization as the lever that shifts institutions from reactive to proactive resource management, though set in developed-world hospital supply chains rather than emerging-economy public health.
+
+---
+
+## Real-World Case Evidence (Grey Literature / Current Events)
+Current policy developments relevant to the dissertation, tracked as they happen — distinct from the peer-reviewed literature above. Full case analysis: [../../case_studies/](../../case_studies/).
+
+### [Lievano Madrigal, 2026a] Policy vs. Practice: Digitizing Mexico's Healthcare Ecosystem
+- **Citation (APA 7):** Lievano Madrigal, S. A. (2026, September 9). Policy vs. practice: Digitizing Mexico's healthcare ecosystem. *Mexico Business News*. https://mexicobusiness.news/health/news/policy-vs-practice-digitizing-mexicos-healthcare-ecosystem
+- **Source type:** industry news/trade journalism (grey literature)
+- **Retrieved:** 2026-10-07
+- **Theme(s):** Mandate vs. implementation capability gap, NOM-024 interoperability standard, digital health funding/connectivity gaps
+- **Summary:** Reports on Mexico's January 2026 General Health Law reform mandating digital health records and interoperability nationwide, and the structural gaps (low public health spending, poor NOM-024 compliance, rural connectivity gaps) between the legal mandate and real-world execution.
+- **Relevance to dissertation:** Primary real-world evidence of a mandate-type (stick) DPI policy instrument failing on Stone's "Capability" prerequisite — full analysis in [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
+
+### [Lievano Madrigal, 2026b] Mexico Advances Health Record Interoperability With New Pact
+- **Citation (APA 7):** Lievano Madrigal, S. A. (2026, October 8). Mexico advances health record interoperability with new pact. *Mexico Business News*. https://mexicobusiness.news/health/news/mexico-advances-health-record-interoperability-new-pact
+- **Source type:** industry news/trade journalism (grey literature)
+- **Retrieved:** 2026-10-07
+- **Theme(s):** Interoperability pilot implementation, inter-institutional coordination (IMSS, ISSSTE, IMSS-Bienestar)
+- **Summary:** Reports the August 2026 pact between Mexico's Ministry of Health and IMSS to advance electronic clinical record interoperability, piloted at Hospital of the Woman, ahead of the January 2027 Universal Health Service inter-institutional data exchange target. Budget, timeline, and technical scope undisclosed.
+- **Relevance to dissertation:** Establishes a concrete, dated natural-experiment milestone (Jan 2027) for tracking Mexico's reactive-to-proactive policy shift. Full analysis: [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
+
+### [Copo Terrés, 2026] Digitalising Health in Mexico: A Starting Point with Monumental Challenges
+- **Citation (APA 7):** Copo Terrés, J. J. (2026, May 11). Digitalising health in Mexico: A starting point with monumental challenges. *International Bar Association, Global Insight*. https://www.ibanet.org/digitalising-health-mexico
+- **Source type:** professional/legal association commentary (grey literature)
+- **Retrieved:** 2026-10-07
+- **Theme(s):** Legal/regulatory analysis of the 2026 reform, NOM-024 certification barriers, semantic interoperability, digital divide
+- **Summary:** A Mexican legal practitioner's analysis of the January 2026 digital health reform, highlighting the certification/standards barrier (NOM-024, HL7, DICOM), the "information islands" problem from non-interoperable IMSS/ISSSTE systems, the pending universal e-prescription task, and the rural connectivity/digital divide.
+- **Relevance to dissertation:** Provides independent legal/professional corroboration of the capability gaps identified in the trade press reporting — strengthens the credibility of the mandate-vs-capability argument. Full analysis: [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
+
+### [NCD Alliance, 2026] Mexico Announces Plan to Achieve Universal Health Coverage by 2027
+- **Citation (APA 7):** NCD Alliance. (2026, April 15). Mexico announces plan to achieve universal health coverage by 2027. https://ncdalliance.org/stories/news-blogs/2026/mexico-announces-plan-to-achieve-universal-health-coverage-by-2027
+- **Source type:** NGO/advocacy organization news (grey literature)
+- **Retrieved:** 2026-10-07
+- **Theme(s):** Universal Health Service decree, phased rollout timeline, civil society perspective
+- **Summary:** Reports President Sheinbaum's April 2026 announcement of the Universal Health Service decree unifying IMSS/ISSSTE/IMSS-Bienestar, with a phased rollout beginning January 2027 (emergency care, continuity of care) and expanding through 2027–2028 (specialized services, chronic disease management).
+- **Relevance to dissertation:** Supplies the official phased-rollout timeline used to date the Mexico case study's natural-experiment milestones. Full analysis: [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
+
+### [Otzoy-García, 2025] Digital Transformation of Health in Guatemala: A Path Toward Universal Health Coverage
+- **Citation (APA 7):** Otzoy-García, D. (2025, October 31). Digital transformation of health in Guatemala: A path toward universal health coverage [LinkedIn article]. LinkedIn. https://www.linkedin.com/pulse/digital-transformation-health-guatemala-path-toward-otzoy-garcia-dmdke/
+- **Source type:** practitioner reflection / LinkedIn article (grey literature)
+- **Retrieved:** 2026-10-07
+- **Theme(s):** PAHO regional digital health framework, donor-funded capability building (telemedicine, connectivity), political continuity risk
+- **Summary:** A digital health practitioner's account of Guatemala's National Digital Health Strategy 2022–2032, PAHO's Eight Principles for Digital Transformation, donor-funded telemedicine pilots (Quiché, San Marcos) and the "Wayfree" connectivity initiative, and persistent gaps (infrastructure, workforce, regulatory, political continuity).
+- **Relevance to dissertation:** Provides a comparative case to Mexico — a roadmap/donor-capability-driven approach rather than a legal mandate, useful for testing which combination of policy instrument + capability investment drives the dissertation's reactive-to-proactive spending shift. Full analysis: [case_studies/guatemala_digital_health_transformation.md](../../case_studies/guatemala_digital_health_transformation.md).

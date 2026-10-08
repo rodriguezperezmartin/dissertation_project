@@ -51,6 +51,9 @@ A key early question when crossing from an engineering background into a Public 
 ## Status
 This is a **preliminary/evolving** topic. See [preliminary_thoughts.md](preliminary_thoughts.md) for the original brainstorm and [research_questions.md](research_questions.md) for how the question is being refined over time as coursework and faculty feedback shape it.
 
+## Real-World Case Evidence
+Live policy developments (government mandates, interoperability pacts, national digital health strategies) are tracked as they happen in [case_studies/](case_studies/) — distinct from the formal peer-reviewed literature review. Current cases: Mexico's 2026 mandatory digital health/EHR reform (a legal "stick" instrument, per Stone's *Policy Paradox* framework) and Guatemala's 2022–2032 donor-funded digital health roadmap (a "carrot"/capability-building instrument). See [case_studies/policy_instruments_carrot_stick_framework.md](case_studies/policy_instruments_carrot_stick_framework.md) for the theoretical framework connecting these cases to the dissertation's core thesis.
+
 ## Open Questions / Risks to Explore
 - What is the causal mechanism linking data capture → policy quality → outcomes? (need a testable model)
 - Which emerging economies / regions to use as case studies or comparative cases?

@@ -79,6 +79,7 @@ This topic exists to serve a set of personal, professional, and faith-driven goa
 - [dissertation/literature_review/README.md](dissertation/literature_review/README.md) — literature review workflow & structure
 - [dissertation/literature_review/direct_sources/](dissertation/literature_review/direct_sources/) — sources directly about the dissertation topic (bibliography + PDFs)
 - [dissertation/literature_review/indirect_sources/](dissertation/literature_review/indirect_sources/) — coursework-driven sources, methodology/skill-building (bibliography + PDFs)
+- [dissertation/case_studies/](dissertation/case_studies/) — real-world, current-events policy case evidence tracked as it happens (Mexico's 2026 digital health mandate, Guatemala's 2022–2032 digital health roadmap, and a Stone carrot/stick policy-instruments theoretical framework note)
 
 ### Tracking
 - [feedback_log/feedback_tracker.md](feedback_log/feedback_tracker.md) — cross-course feedback log & evaluation criteria patterns
