@@ -103,3 +103,48 @@ This is what the Week 7 quiz and "evaluate causal theories" learning outcome are
 
 ## 7. Don't Forget
 - [ ] Take/complete the Week 7 quiz on causal theories.
+
+---
+
+## 8. Draft Review: Student Draft vs. Revised Script
+
+### Feedback on the Original Draft
+**What's working well:**
+- The hook is strong — leading with Mexico's real 2026 mandate immediately establishes currency and urgency, exactly as recommended.
+- All three required theme categories are present (trust/readiness, acceptance-as-dependent-variable, structural barriers), each with a real citation (Alkhwaldi, Coombs).
+- All three priority gaps are covered (cross-sectional design, no economic outcomes measured, emerging economies absent) — and the "no economic outcomes" / "emerging economies absent" gaps are correctly emphasized as the ones that directly set up the research question.
+- The research question is stated correctly, word-for-word, matching the official RQ.
+
+**What needed fixing:**
+1. **Grammar/spelling pass needed throughout** — e.g., "has started" → "have started" (subject-verb agreement with "countries"), "it's populations" → "its populations," "Artifical" → "Artificial," "accross" → "across," "robush"/"structureal" → "robust"/"structural," "prfessional autonomies" → "professional autonomy," "techonology"/"finaicial"/"acutally" → "technology"/"financial"/"actually," and "Cooms" → "Coombs (2022)" (missing the year on this citation).
+2. **The causal theory chain (cause → intervention → effect) wasn't fully explicit** — the Central Thesis names the cause (M&E as an afterthought) and the effect (reactive vs. proactive spending), but never explicitly names the *intervention* (predictive AI + interoperable architecture) as the mechanism connecting them. Since "evaluate causal theories in public policy" is an official Week 7 learning outcome, this needed to be stated directly, not just implied.
+3. **"Methodological approaches" wasn't addressed** — the assignment instructions specifically ask for "common themes, **assumptions, and methodological approaches**," but the draft's Common Themes section only covered themes, leaving methodology for the Gaps section. A one-sentence bridge (most evidence comes from cross-sectional surveys and small qualitative interviews) closes this gap cleanly.
+4. **Efficiency vs. Equity section was blank** — this is a named, official Week 7 learning outcome ("assess efficiency versus equity in public policy"), not optional. See the explanation below.
+5. **No closing "why it matters" sentence** after the research question — the Organization rubric criterion rewards a presentation that resolves cleanly; one closing sentence ties the RQ back to the identified white space instead of ending abruptly.
+
+### What the "Implications + Efficiency vs. Equity" Section Is Asking For
+Two separate things belong here:
+1. **Implications** — what does the *literature itself* say should happen next? (From your Week 4 findings: researchers call for moving beyond "will people adopt this?" toward actual implementation strategy and policy design — e.g., Petersson et al. (2022) call for "laws and policies... to regulate the design and execution of effective AI implementation strategies.")
+2. **Efficiency vs. Equity** — this is a distinct policy *tension*, not a literature gap. State it directly: predictive AI/interoperable infrastructure is fundamentally an **efficiency** play (less waste, better-targeted spending), but that efficiency gain could come at the cost of **equity** if infrastructure is deployed first in wealthier/urban regions, leaving rural or marginalized populations further behind. This is exactly where the Mexico capability-gap closing hook belongs.
+
+### Revised Script (Incorporating the Above — Study This, Then Deliver in Your Own Words/Voice)
+*(~600 words ≈ 4–4.5 minutes at a natural speaking pace. Don't read this verbatim on camera — internalize the flow and citations, then speak naturally.)*
+
+**Hook:**
+> Can emerging economies actually leapfrog the slow, incremental steps developed nations took, and move directly into predictive AI and interoperable digital health infrastructure to improve the quality of care across their populations? This isn't hypothetical — it's already happening. Mexico made digital health records and interoperability legally mandatory as of January 2026, with full inter-institutional data exchange required by January 2027. Guatemala has pursued a longer-term digital health roadmap since 2022. The open question both raise: is a legal mandate or a strategic roadmap alone enough — or does it take more?
+
+**Central Thesis / Research Angle:**
+> Emerging economies are uniquely positioned. They lack the sophisticated, often outdated health IT systems that developed nations are still untangling — a structural advantage, not just a disadvantage, that lets them build agile, interoperable architectures from scratch rather than retrofitting legacy systems. But there's a persistent problem: monitoring and evaluation of health outcomes and economic indicators is almost always treated as an afterthought in policy design. Because M&E isn't designed in from the start, crises get managed reactively instead of prevented proactively. My research tests whether a specific intervention — predictive AI models paired with interoperable digital health architecture, built in from day one — can actually shift that pattern from reactive to proactive spending.
+
+**Common Themes:**
+> The existing literature on this topic converges on a few recurring themes. First, adoption is gated by trust and organizational readiness, not technical capability — Alkhwaldi (2023) found that clinicians often perceive business intelligence systems as a threat to their professional autonomy. Second, acceptance itself is treated as the dependent variable of success — in other words, the research asks "will people accept this?" more than "does it work?" Third, structural and social barriers drive healthcare inequity independent of technology — Coombs et al. (2022) documented friction between rural identities and healthcare systems, along with similar barriers affecting migrant and refugee access. Methodologically, most of this evidence comes from cross-sectional surveys and small-sample qualitative interviews — which sets up the next problem.
+
+**Gaps / Weaknesses:**
+> That methodological pattern points to three real gaps. Cross-sectional designs dominate the literature — a single point-in-time snapshot that can't establish causality. No source in this literature measures actual economic or financial outcomes — these studies look at attitudes and intentions, never spending behavior. And emerging economies are almost entirely absent from the countries studied, so we have no evidence of how any of this plays out in the exact context where the leapfrog advantage would actually apply.
+
+**Implications + Efficiency vs. Equity:**
+> This raises a policy question beyond just "does the technology work" — efficiency versus equity. Predictive AI and interoperable infrastructure are, fundamentally, an efficiency play: less waste, better-targeted spending. But that efficiency gain could come at the cost of equity if the infrastructure is deployed first in wealthier or urban regions, widening the gap for rural or marginalized populations who need it most. We're already seeing a live version of this tension: Mexico's 2026 mandate is running into exactly the capability gaps — funding, connectivity, training — that policy theory predicts will determine whether a legal mandate alone can actually deliver equitable outcomes, or just efficient ones for those who already have access.
+
+**Research Question + Why It Matters:**
+> This leads to the research question driving my dissertation: "To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending in public health interventions within emerging economies?" This question matters because it fills the exact white space the literature leaves open — it measures economic outcomes, it's set in emerging economies, and it tests a policy intervention rather than just adoption attitudes. If emerging economies can shift from crisis-driven to data-driven spending, that doesn't just change their own fiscal capacity — it offers a model for other low-resource health systems worldwide.
+
