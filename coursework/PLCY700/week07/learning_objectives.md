@@ -27,7 +27,7 @@ Dr. Boykin
 - **Birkland, T. A.** — *An Introduction to the Policy Process*, Chapter 9
 - **Stone, D.** — *Policy Paradox: The Art of Political Decision Making*, Chapters 2 and 3
 
-> **Note:** These are the "Learn" readings the Causal Mechanisms, Equity, and Efficiency quiz draws from. Once chapter content/summaries are shared, add a `reading_notes.md` here (following the Week 5 pattern) covering Birkland Ch. 9 and Stone Ch. 2–3 as quiz prep material.
+**Quiz study guide (complete):** [assignments/week7_quiz_study_guide_practice_exam.md](assignments/week7_quiz_study_guide_practice_exam.md) — covers Birkland Ch. 9's causal story typology (accidental/inadvertent/mechanical/intentional cause), Stone Ch. 2 (equity, the Chocolate Cake Parable, horizontal/vertical equity), and Stone Ch. 3 (market vs. polis efficiency, the efficiency-equity trade-off critique), plus a 13-question practice exam with full answer key and scoring rubrics.
 
 ## Quiz: Causal Mechanisms, Equity, and Efficiency — Official Instructions (Verbatim)
 - **Due:** Oct 11 at 11:59 p.m. (ET), Sunday of Module 7: Week 7
@@ -109,6 +109,7 @@ For the complete minute-by-minute recording roadmap — timing breakdown, sectio
 This module's course readings (causal theory of policy problems, efficiency vs. equity trade-offs) underpin *why* a research question matters — frame the presentation's research question in terms of the causal mechanism it investigates (e.g., does predictive AI + interoperable digital health infrastructure *cause* a reduction in reactive crisis spending?) and note where the dissertation's angle raises efficiency/equity tensions (e.g., resource allocation between infrastructure investment and immediate care access in emerging economies).
 
 ## Quick Links
+- Quiz study guide & practice exam: [assignments/week7_quiz_study_guide_practice_exam.md](assignments/week7_quiz_study_guide_practice_exam.md)
 - Assignments: [assignments/presentation_roadmap.md](assignments/presentation_roadmap.md) (presentation rehearsal guide + scripts), [assignments/](assignments/) (peer reply drafts)
 - Feedback: [feedback/](feedback/) (empty — not yet received)
 - Original source files: [original_src_files/](original_src_files/) (empty — not yet uploaded)
