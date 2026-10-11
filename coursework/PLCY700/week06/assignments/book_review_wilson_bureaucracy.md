@@ -1,4 +1,4 @@
-**A Critical Book Review: James Q. Wilson's Bureaucracy: What Government Agencies Do and Why They Do It**
+**A Critical Book Review: James Q. Wilson's *Bureaucracy: What Government Agencies Do and Why They Do It***
 
 **Student:** Martin A. Perez Rodriguez
 **Course:** PLCY 700: Foundations of Public Policy
@@ -7,6 +7,8 @@
 **Date:** October 5, 2026
 
 **Source:** [../original_src_files/A Critical Book Review Assignment.docx](../original_src_files/A%20Critical%20Book%20Review%20Assignment.docx) (original submitted file)
+
+> **Post-grading correction (2026-10-11):** Per Dr. Boykin's feedback ([../feedback/feedback.md](../feedback/feedback.md)), book titles and journal names are now consistently italicized in this archived copy (formatting-only fix; no content/argument changes).
 
 ---
 
@@ -32,7 +34,7 @@ Wilson relied strictly on an inductive, qualitative framework rather than formal
 
 **Place Within the Discipline**
 
-Within the broader discipline of public policy, Wilson's Bureaucracy provides a vital institutional counterpart to Thomas Birkland's policy process framework and Deborah Stone's political analysis. While Birkland (2020) emphasizes the structural stages of policy formation, agenda setting, and statutory enactment, Wilson illuminates the implementation stage, demonstrating why statutory mandates frequently unravel once handed over to administrative operators who must on their own interpret vague legislative language under severe resource constraints.
+Within the broader discipline of public policy, Wilson's *Bureaucracy* provides a vital institutional counterpart to Thomas Birkland's policy process framework and Deborah Stone's political analysis. While Birkland (2020) emphasizes the structural stages of policy formation, agenda setting, and statutory enactment, Wilson illuminates the implementation stage, demonstrating why statutory mandates frequently unravel once handed over to administrative operators who must on their own interpret vague legislative language under severe resource constraints.
 
 Furthermore, Wilson's compliance typology directly enriches Deborah Stone's (2012) critique of rationalist policy analysis in *Policy Paradox*. Stone demonstrated in Chapter 9 ("Numbers") that quantitative measures and performance indicators are political weapons rather than neutral tools of efficiency. Wilson's analysis of procedural and coping agencies corroborates Stone's critique: when public agencies cannot measure true outcomes, they are forced to substitute symbolic compliance metrics, creating an administrative illusion of accountability. Wilson grounds and proves Stone's conceptual critiques in operational realities of these public agencies.
 
@@ -46,7 +48,7 @@ Despite these enduring contributions, Wilson's theoretical framework exhibits tw
 
 Birkland, T. A. (2020). *An introduction to the policy process: Theories, concepts, and styles of public policy making* (5th ed.). Routledge.
 
-Buck, J. V. (1992). Bureaucracy: What government agencies do and why they do it [Book review]. *The American Political Science Review, 86*(1), 240–241. https://doi.org/10.2307/1964049
+Buck, J. V. (1992). *Bureaucracy: What government agencies do and why they do it* [Book review]. *The American Political Science Review, 86*(1), 240–241. https://doi.org/10.2307/1964049
 
 Stone, D. (2012). *Policy paradox: The art of political decision making* (3rd ed.). W. W. Norton & Company.
 
