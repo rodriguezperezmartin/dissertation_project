@@ -102,7 +102,7 @@ This is what the Week 7 quiz and "evaluate causal theories" learning outcome are
 - [ ] Remember Post-First: you can't see classmates' threads until you've posted your own.
 
 ## 7. Don't Forget
-- [ ] Take/complete the Week 7 quiz on causal theories.
+- [ ] Take/complete the **Quiz: Causal Mechanisms, Equity, and Efficiency** — 70 points, 13 matching/essay questions, 60-minute time limit, 1 attempt only, due **Oct 11 at 11:59 p.m. ET**. Review the causal chain (cause → intervention → effect) and the efficiency vs. equity tension covered in §4 above before starting the timer, since it's a single-attempt, time-boxed quiz.
 
 ---
 

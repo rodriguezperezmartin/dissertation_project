@@ -9,7 +9,7 @@ Upon successful completion of this module, you will be able to:
 2. Assess efficiency versus equity in public policy.
 3. Develop an oral presentation of your literature review.
 
-**Core Learning Activity:** Record and post a 4–5 minute video oral presentation of your Week 4 Literature Assessment and Research Question, then post two peer-reply comments (150+ words each). This module also includes a quiz on causal theories.
+**Core Learning Activity:** Record and post a 4–5 minute video oral presentation of your Week 4 Literature Assessment and Research Question, then post two peer-reply comments (150+ words each). This module also includes a 70-point, 13-question quiz on causal mechanisms, equity, and efficiency (due Oct 11, 60-minute limit, 1 attempt).
 
 ## Instructor's Weekly Announcement (Dr. Boykin, verbatim, 2026-10-05)
 This week's focus is on causal theories in public policy. Causal theories address what causes a particular problem and what intervention will alleviate that problem. Causal theories, as you might expect, form the foundation from which public policies are created. You will take a quiz this week over these concepts.
@@ -23,7 +23,21 @@ This week I'm reflecting on the Parable of the Rich Young Ruler in Mark 10:17–
 God bless,
 Dr. Boykin
 
-> **Note:** A quiz on causal theories (what causes a policy problem, what intervention alleviates it) is also due this module — add a dedicated study aid/quiz notes file once quiz content/results are available, following the Week 3/5 pattern.
+## Required Readings for This Module (Quiz Source Material)
+- **Birkland, T. A.** — *An Introduction to the Policy Process*, Chapter 9
+- **Stone, D.** — *Policy Paradox: The Art of Political Decision Making*, Chapters 2 and 3
+
+> **Note:** These are the "Learn" readings the Causal Mechanisms, Equity, and Efficiency quiz draws from. Once chapter content/summaries are shared, add a `reading_notes.md` here (following the Week 5 pattern) covering Birkland Ch. 9 and Stone Ch. 2–3 as quiz prep material.
+
+## Quiz: Causal Mechanisms, Equity, and Efficiency — Official Instructions (Verbatim)
+- **Due:** Oct 11 at 11:59 p.m. (ET), Sunday of Module 7: Week 7
+- **Points:** 70
+- **Questions:** 13 (matching and essay)
+- **Time Limit:** 60 minutes
+- **Attempts:** 1 (allows 1 attempt)
+- Covers the Learn material from Module 7: Week 7.
+
+> **Note:** Add a dedicated study aid/quiz notes file once quiz content/results are available, following the Week 3/5 pattern (see [assignments/](assignments/)).
 
 ---
 
@@ -95,8 +109,9 @@ For the complete minute-by-minute recording roadmap — timing breakdown, sectio
 This module's course readings (causal theory of policy problems, efficiency vs. equity trade-offs) underpin *why* a research question matters — frame the presentation's research question in terms of the causal mechanism it investigates (e.g., does predictive AI + interoperable digital health infrastructure *cause* a reduction in reactive crisis spending?) and note where the dissertation's angle raises efficiency/equity tensions (e.g., resource allocation between infrastructure investment and immediate care access in emerging economies).
 
 ## Quick Links
-- Assignments: [assignments/](assignments/) (video presentation notes/script, peer reply drafts)
+- Assignments: [assignments/presentation_roadmap.md](assignments/presentation_roadmap.md) (presentation rehearsal guide + scripts), [assignments/](assignments/) (peer reply drafts)
 - Feedback: [feedback/](feedback/) (empty — not yet received)
 - Original source files: [original_src_files/](original_src_files/) (empty — not yet uploaded)
 - Course overview: [../course_overview.md](../course_overview.md)
 - Week 4 source material: [../week04/learning_objectives.md](../week04/learning_objectives.md)
+- Required readings: Birkland Ch. 9; Stone Ch. 2–3 (quiz source material — see "Required Readings for This Module" above)

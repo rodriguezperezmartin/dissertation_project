@@ -35,7 +35,7 @@ Quick-scan table of every week. Click through to a week's `learning_objectives.m
 | 4 | Literature Assessment & Research Question — topic chosen: "Leapfrog Advantage & AI Integration" in emerging-economy digital health (10 academic sources, organized topically) | **Completed** — final version ready to publish | [week04/learning_objectives.md](week04/learning_objectives.md) |
 | 5 | Research ethics & proposal writing (Walliman, Ch. 6–7); political decision-making & inducements (Stone, Ch. 10–11); research design/sampling quiz study aids | Reading notes + quiz study aids complete | [week05/learning_objectives.md](week05/learning_objectives.md) |
 | 6 | Book Review — *Bureaucracy: What Government Agencies Do and Why They Do It* by James Q. Wilson (1989); critical assessment of thesis, methods, themes, conclusions, and field placement (1,500–2,000 words, APA) | **Completed** — final review submitted | [week06/learning_objectives.md](week06/learning_objectives.md) |
-| 7 | Causal theories in public policy; efficiency vs. equity; quiz; Discussion: Oral Presentation of Literature Review/Research Question (4–5 min video + 2 peer replies, based on Week 4 Literature Assessment) | Not yet started | [week07/learning_objectives.md](week07/learning_objectives.md) |
+| 7 | Causal theories in public policy; efficiency vs. equity; quiz (70 pts, 13 questions, due Oct 11); Discussion: Oral Presentation of Literature Review/Research Question (4–5 min video + 2 peer replies, based on Week 4 Literature Assessment) | In Progress — presentation roadmap/script ready | [week07/learning_objectives.md](week07/learning_objectives.md) |
 
 > Add a row per week as the syllabus/module content becomes available.
 
