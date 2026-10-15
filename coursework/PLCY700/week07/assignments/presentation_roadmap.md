@@ -1,5 +1,7 @@
 # Week 7 Presentation Roadmap — Oral Presentation of Literature Review/Research Question
 
+**Status: Video recorded and posted (2026-10-15).** The script used is archived in this file (Version 2, the timing-trimmed ~454-word script in §9, was the version prepared for the final timed recording). See §8–9 below for the full draft-review and script history.
+
 **Purpose:** A complete, one-stop study and rehearsal guide for recording the 4–5 minute video. Organized as a minute-by-minute roadmap mapped to the assignment's required components, pulling directly from your own Week 4 research — use this to internalize your talking points and speak them in your own words (not a verbatim script to read).
 
 **Source material:** [../week04/assignments/literature_assessment_findings.md](../week04/assignments/literature_assessment_findings.md), [../week04/assignments/final_literature_review.md](../week04/assignments/final_literature_review.md), [../week04/feedback/feedback.md](../week04/feedback/feedback.md), [../../../dissertation/case_studies/mexico_digital_health_mandate_2026.md](../../../dissertation/case_studies/mexico_digital_health_mandate_2026.md)

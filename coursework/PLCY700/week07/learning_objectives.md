@@ -11,6 +11,8 @@ Upon successful completion of this module, you will be able to:
 
 **Core Learning Activity:** Record and post a 4–5 minute video oral presentation of your Week 4 Literature Assessment and Research Question, then post two peer-reply comments (150+ words each). This module also includes a 70-point, 13-question quiz on causal mechanisms, equity, and efficiency (due Oct 11, 60-minute limit, 1 attempt).
 
+**Status: Quiz complete (2026-10-11). Oral presentation video recorded and posted (2026-10-15)** — see [assignments/presentation_roadmap.md](assignments/presentation_roadmap.md) for the delivered script. Peer replies (2, 150+ words each) still pending.
+
 ## Instructor's Weekly Announcement (Dr. Boykin, verbatim, 2026-10-05)
 This week's focus is on causal theories in public policy. Causal theories address what causes a particular problem and what intervention will alleviate that problem. Causal theories, as you might expect, form the foundation from which public policies are created. You will take a quiz this week over these concepts.
 

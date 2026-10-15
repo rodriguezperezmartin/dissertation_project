@@ -1,0 +1,45 @@
+**Science and Theory – Module 8**
+
+**Student:** Martin A. Perez Rodriguez
+**Course:** PLCY 700: Foundations of Public Policy
+**Instructor:** Dr. Scott Boykin
+**Institution:** Liberty University, Department of Public Policy
+**Date:** October 15, 2026
+
+**Source:** [../original_src_files/Science and Theory Homework.docx](../original_src_files/Science%20and%20Theory%20Homework.docx) (original submitted file)
+
+---
+
+**Part 1: Theoretical Pluralism and Incompatibility in Policy Process Models**
+
+To borrow and utilize various political theories rather than simply relying on just one method is the approach leveraged most often, as government policies are complex and multi-layered. In Chapter 11, Birkland (2020) presents five primary theories of the policy process: the Stages Heuristic, the Advocacy Coalition Framework (ACF), Punctuated Equilibrium Theory (PET), the Multiple Streams Framework (MSF), and the Institutional Analysis and Development (IAD) framework. Each framework presents its core strengths as these isolate distinct causal mechanisms; however, in concert, the use and leverage of these frameworks provide a much more robust view of how policy changes occur.
+
+As political science does not have a single macro econometric model like those found in economics that allows us to evaluate policymaking processes, these policy models serve as partial, complementary tools. Each of the frameworks that Birkland elaborates upon focuses on a different aspect of the policymaking process. For example, the Multiple Streams Framework (MSF) explains how issues gain attention when conditions are vague and ambiguous. The Punctuated Equilibrium Theory (PET) explains long periods of stability disrupted by sudden changes. The Advocacy Coalition Framework (ACF) allows us to track how groups change their beliefs over long periods of time, and finally, the Institutional Analysis and Development (IAD) framework allows us to examine the micro-level rules that govern collective action (Birkland, 2020).
+
+Nonetheless, mixing some of these political theories blindly can cause major problems because some of the theories contradict each other—in particular, the IAD and Kingdon's Multiple Streams Framework (Birkland, 2020). For example, the IAD assumes that goal-directed individuals operate within structured action arenas where rules, payoffs, and strategic incentives can be systematically modeled. In comparison, the MSF is rooted in the "garbage can" model of organizational choice. This framework views organizations as chaotic environments where goals are unclear, and solutions bounce around looking for problems. Combining these two opposing views—treating people simultaneously as hyper-calculating strategists and chaotic opportunists—creates an untestable and confusing argument. Therefore, policy analysts and researchers must be careful in understanding foremost what these theories state and how to use them in concert, so they do not conflict with each other but rather help to contemplate and illuminate the policymaking process in question.
+
+**Part 2: Explaining Rights and Power Through Policy Process Theories**
+
+In her book *Policy Paradox*, Deborah Stone (2012) reconceptualizes rights in Chapter 15 and power in Chapter 16 not as neutral legal endowments, but as actual tools and weapons within the polis. Rights are structural relationships that require ongoing political movements to be realized, while power is communicative and encompasses the ability to define social reality, control alternatives, and structure agendas (Stone, 2012). There are two frameworks from Birkland (2020) that prove capable of analyzing these dynamics: the Advocacy Coalition Framework (Sabatier & Jenkins-Smith) and the Social Construction of Target Populations (Schneider & Ingram).
+
+First, the Advocacy Coalition Framework that Birkland elaborates upon directly illuminates Stone's analysis of rights as tools of collective mobilization. Stone (2012) demonstrates that a statutory or constitutional right is meaningless without an institutional process that is willing to enforce it; legal rights function as rallying cries that transform private personal grievances into public claims. Within the ACF, policy subsystems are organized around competing coalitions that hold distinct "deep core" and "policy core" beliefs (Birkland, 2020). Coalitions leverage their constitutional rights for legal mobilization around these core normative beliefs, using litigation and rights claims to force venues open when legislative access is blocked. Therefore, by turning an issue into a question of "human rights" or "legal rights," coalitions or groups can force the government to act without letting opponents argue about things like costs, budgets, or efficiencies. Rights therefore become an ultimate policy core instrument.
+
+Second, Schneider and Ingram's theory of the Social Construction of Target Populations—detailed by Birkland (2020)—powerfully demonstrates Stone's conception of power. In her book, Stone (2012) argues that the most potent form of power is not coercion, but having the ability to structure perceptions, define who is deserving and who is undeserving, and ultimately determine who participates in the polis. Schneider and Ingram unpack this exact mechanism by demonstrating how public policies categorize citizens. These categories reside along two dimensions: political power and social construction (Birkland, 2020). The advantaged groups—the powerful and deserving—receive structural resources and robust autonomy. On the other hand, dependents and deviants—the powerless and stigmatized—face restrictive mandates, surveillance, and systemic rights deprivation. Ultimately, policy designs code these power asymmetries into law, teaching targeted groups whether they are full political citizens or second-class participants (Birkland, 2020; Stone, 2012). Thus, power operates silently in the shadows through legislative architectures and administrative classification long before overt conflict occurs.
+
+**Part 3: Empirical Scientific Evidence Versus Anecdotal Evidence**
+
+Traditional rational policy analysis treats empirical data and scientific research—such as experiments, statistics, and econometric models—as the gold standard. Empirical scientific evidence is prized for its systematic methodology, replicability, external validity, and capacity to isolate causal mechanisms (Birkland, 2020). This type of data allows analysts to model population-level trends, calculate cost-effectiveness ratios, and evaluate whether a specific intervention actually produces its intended outcomes.
+
+However, in the actual study and practice of public policy within the polis, scientific evidence and anecdotal evidence serve fundamentally different purposes. As Stone (2012) demonstrates throughout *Policy Paradox*, public policy is not a technical exercise that seeks merely to maximize efficiency. It is an ongoing struggle over values, distribution, and social meaning. Within this political reality, anecdotal evidence—conveyed through human narratives, case vignettes, and victim testimonials—has proven to be more frequently impactful and useful than abstract aggregate KPIs and statistics.
+
+Anecdotal evidence serves three vital functions that large datasets cannot: agenda setting and problem definition, causal attribution and blame, and uncovering implementation realities. In the first function, aggregate data rarely captures public attention on its own. As Birkland (2020) notes regarding focusing events, an emotional narrative or visible personal tragedy dramatizes a problem, thus creating the political urgency necessary to open an MSF policy window. In the second function, Stone (2012) highlights in her analysis of causal stories the importance of policy actors mobilizing around narratives of cause, blame, and victimhood, rather than around regression coefficients. Anecdotes provide the moral clarity and emotional resonance required in our political landscape and media to assign blame to villains and demand state action.
+
+Finally, in the third function, aggregated metrics frequently mask street-level operational failures. Qualitative anecdotal data from front-line operators exposes the unmeasured friction, procedural inequities, and unintended harms that slip past dashboards and analytics.
+
+Therefore, while empirical scientific evidence remains indispensable for establishing technical feasibility, counterfactual causality, and macro-level allocation, anecdotal narrative evidence is equally useful for democratic legitimacy, agenda elevation, and ethical evaluation. High-quality policy analysis does not discard one for the other; it utilizes empirical science to evaluate structural reality and narrative evidence to navigate our political landscape and political meaning in the democratic polis.
+
+**References**
+
+Birkland, T. A. (2020). *An introduction to the policy process: Theories, concepts, and styles of public policy making* (5th ed.). Routledge.
+
+Stone, D. (2012). *Policy paradox: The art of political decision making* (3rd ed.). W. W. Norton & Company.

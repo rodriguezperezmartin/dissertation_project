@@ -10,7 +10,7 @@ This is the single "load this first" file for the dissertation project. Read thi
 - **PhD status:** Year 1, Fall 2026 semester — currently in **PLCY 700: Foundations of Public Policy**
 - **Target graduation:** Fall 2029 (full sequence in [roadmap/degree_plan.md](roadmap/degree_plan.md))
 - **Courses completed:** none yet (first semester in progress)
-- **Current week in PLCY 700:** Week 7 (causal theories, efficiency vs. equity, quiz, and oral presentation of the Week 4 Literature Assessment/Research Question). Week 6 Book Review is complete.
+- **Current week in PLCY 700:** Week 8, the final module (Discussion: Science and Theory — thread posted, peer replies pending). Week 7 quiz complete and oral presentation video recorded/posted (peer replies pending).
 
 ## 2. Dissertation Objective (Working)
 
@@ -92,6 +92,8 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - **2026-10-11:** Added the official Week 7 quiz instructions ("Causal Mechanisms, Equity, and Efficiency" — 70 pts, 13 matching/essay questions, 60-min limit, 1 attempt, due Oct 11) and the required reading list (Birkland Ch. 9; Stone Ch. 2–3) to `week07/learning_objectives.md`. Flagged that a `reading_notes.md` should be added once chapter content/summaries are shared, following the Week 5 pattern.
 - **2026-10-11:** Imported the student's self-prepared `week07/assignments/week7_quiz_study_guide_practice_exam.md` — a comprehensive study guide covering Birkland Ch. 9's causal story typology (accidental/inadvertent/mechanical/intentional cause), Stone Ch. 2 (equity, Chocolate Cake Parable, horizontal/vertical equity), and Stone Ch. 3 (market vs. polis efficiency, efficiency-equity trade-off), plus a 13-question practice exam with full answer key and scoring rubrics. Noted that Question 13's doctoral-synthesis example answer independently arrives at nearly the exact dissertation case (reactive spending from retrospective M&E, remedied by interoperable digital health architecture, with a connectivity-driven equity trade-off) — a strong external validation of the dissertation's framing. Updated `week07/learning_objectives.md`, `course_overview.md`, and `README.md`.
 - **2026-10-11:** Logged the student's completed Week 7 quiz submission (`week07/assignments/quiz_causal_mechanisms_equity_efficiency.md`) — 10 matching answers (policy design, efficiency, polis, policy goals, causal theory, policy tools, inducements, hortatory tools, sanctions, informal procedures) plus 2 full essay responses (equity vs. efficiency applied to the student's own digital health infrastructure topic; why causal theory is essential to policy design). Marked the Week 7 quiz **Complete** in `course_overview.md` and `week07/learning_objectives.md`.
+- **2026-10-15:** Marked the Week 7 oral presentation video as recorded and posted in `week07/assignments/presentation_roadmap.md` and `week07/learning_objectives.md` (Version 2, the timing-trimmed script, was used for the final recording). Peer replies (2, 150+ words each) still pending.
+- **2026-10-15:** Built out `week08` (the course's final module): uploaded and converted the submitted discussion thread (`Science and Theory Homework.docx` → `assignments/science_and_theory_homework.md`, ~1,162 words, within the 1,000–1,250 word requirement) and chapter reading notes (`Reading_Assignment_Chapter_Notes.docx` → `assignments/reading_chapter_notes.md`, covering Birkland Ch. 10–11 and Stone Ch. 12–16). Added the official Discussion: Science and Theory assignment instructions + rubric to `week08/learning_objectives.md`, with a summary of the submitted thread's argument (theoretical pluralism/IAD vs. MSF incompatibility; Stone's Rights/Power mapped to ACF/Social Construction of Target Populations; empirical vs. anecdotal evidence as complementary, not competing). Updated `course_overview.md` (weekly map + aggregate objectives + dissertation tie-in), `README.md`, and marked Week 8 **Completed** (thread posted; peer replies pending).
 - **2026-10-11:** Added the official Week 7 Quiz instructions ("Causal Mechanisms, Equity, and Efficiency" — 70 pts, 13 matching/essay questions, 60-minute limit, 1 attempt, due Oct 11 11:59 p.m. ET) to `week07/learning_objectives.md`, replacing the earlier placeholder note. Updated the quiz reminder in `week07/assignments/presentation_roadmap.md` and the `course_overview.md` weekly map row.
 
 ## 6. Module 6: Book Review Assignment — *Bureaucracy: What Government Agencies Do and Why They Do It* (1989) by James Q. Wilson
@@ -112,10 +114,10 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 
 ## 7. Next Actions
 - [ ] Post 2 peer replies (400–500 words each, 2+ scholarly citations) to the Week 1 Discussion: Introduction to Public Policy
-- [ ] Draft and record the Week 7 oral presentation (4–5 min video) covering the Week 4 Literature Assessment themes/weaknesses/implications and research question (no Week 4 feedback issues to correct — feedback was positive); see [coursework/PLCY700/week07/learning_objectives.md](coursework/PLCY700/week07/learning_objectives.md)
-- [ ] Watch the effective-presentation tips video before recording the Week 7 oral presentation
+- [x] Draft and record the Week 7 oral presentation (4–5 min video) — recorded and posted 2026-10-15; see [coursework/PLCY700/week07/assignments/presentation_roadmap.md](coursework/PLCY700/week07/assignments/presentation_roadmap.md)
 - [ ] Post 2 peer replies (150+ words each) to classmates' Week 7 video presentations
 - [x] Take/complete the Week 7 quiz on causal theories — submitted 2026-10-11 ([coursework/PLCY700/week07/assignments/quiz_causal_mechanisms_equity_efficiency.md](coursework/PLCY700/week07/assignments/quiz_causal_mechanisms_equity_efficiency.md))
+- [ ] Post 2 peer replies (400–500 words each, incorporating all relevant course readings) to the Week 8 Discussion: Science and Theory
 - [ ] Keep feeding professor feedback into `feedback_log/feedback_tracker.md` as it arrives
 
 ## 8. Standing Maintenance Rule (Do This Automatically — Don't Wait to Be Asked)
