@@ -1,6 +1,6 @@
 # Project Status — Start Here
 
-**Last updated:** 2026-10-05
+**Last updated:** 2026-10-15
 
 This is the single "load this first" file for the dissertation project. Read this before anything else to get fully oriented in one pass — no need to piece the story together from scattered files each session.
 
@@ -94,7 +94,6 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - **2026-10-11:** Logged the student's completed Week 7 quiz submission (`week07/assignments/quiz_causal_mechanisms_equity_efficiency.md`) — 10 matching answers (policy design, efficiency, polis, policy goals, causal theory, policy tools, inducements, hortatory tools, sanctions, informal procedures) plus 2 full essay responses (equity vs. efficiency applied to the student's own digital health infrastructure topic; why causal theory is essential to policy design). Marked the Week 7 quiz **Complete** in `course_overview.md` and `week07/learning_objectives.md`.
 - **2026-10-15:** Marked the Week 7 oral presentation video as recorded and posted in `week07/assignments/presentation_roadmap.md` and `week07/learning_objectives.md` (Version 2, the timing-trimmed script, was used for the final recording). Peer replies (2, 150+ words each) still pending.
 - **2026-10-15:** Built out `week08` (the course's final module): uploaded and converted the submitted discussion thread (`Science and Theory Homework.docx` → `assignments/science_and_theory_homework.md`, ~1,162 words, within the 1,000–1,250 word requirement) and chapter reading notes (`Reading_Assignment_Chapter_Notes.docx` → `assignments/reading_chapter_notes.md`, covering Birkland Ch. 10–11 and Stone Ch. 12–16). Added the official Discussion: Science and Theory assignment instructions + rubric to `week08/learning_objectives.md`, with a summary of the submitted thread's argument (theoretical pluralism/IAD vs. MSF incompatibility; Stone's Rights/Power mapped to ACF/Social Construction of Target Populations; empirical vs. anecdotal evidence as complementary, not competing). Updated `course_overview.md` (weekly map + aggregate objectives + dissertation tie-in), `README.md`, and marked Week 8 **Completed** (thread posted; peer replies pending).
-- **2026-10-11:** Added the official Week 7 Quiz instructions ("Causal Mechanisms, Equity, and Efficiency" — 70 pts, 13 matching/essay questions, 60-minute limit, 1 attempt, due Oct 11 11:59 p.m. ET) to `week07/learning_objectives.md`, replacing the earlier placeholder note. Updated the quiz reminder in `week07/assignments/presentation_roadmap.md` and the `course_overview.md` weekly map row.
 
 ## 6. Module 6: Book Review Assignment — *Bureaucracy: What Government Agencies Do and Why They Do It* (1989) by James Q. Wilson
 
