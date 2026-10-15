@@ -37,7 +37,7 @@ Dr. Boykin
 - **Attempts:** 1 (allows 1 attempt)
 - Covers the Learn material from Module 7: Week 7.
 
-> **Note:** Add a dedicated study aid/quiz notes file once quiz content/results are available, following the Week 3/5 pattern (see [assignments/](assignments/)).
+**Status: Complete.** Quiz submitted 2026-10-11 — full question-by-question record (matching answers + both essay responses) archived at [assignments/quiz_causal_mechanisms_equity_efficiency.md](assignments/quiz_causal_mechanisms_equity_efficiency.md).
 
 ---
 
@@ -109,6 +109,7 @@ For the complete minute-by-minute recording roadmap — timing breakdown, sectio
 This module's course readings (causal theory of policy problems, efficiency vs. equity trade-offs) underpin *why* a research question matters — frame the presentation's research question in terms of the causal mechanism it investigates (e.g., does predictive AI + interoperable digital health infrastructure *cause* a reduction in reactive crisis spending?) and note where the dissertation's angle raises efficiency/equity tensions (e.g., resource allocation between infrastructure investment and immediate care access in emerging economies).
 
 ## Quick Links
+- Completed quiz (matching answers + essays): [assignments/quiz_causal_mechanisms_equity_efficiency.md](assignments/quiz_causal_mechanisms_equity_efficiency.md)
 - Quiz study guide & practice exam: [assignments/week7_quiz_study_guide_practice_exam.md](assignments/week7_quiz_study_guide_practice_exam.md)
 - Assignments: [assignments/presentation_roadmap.md](assignments/presentation_roadmap.md) (presentation rehearsal guide + scripts), [assignments/](assignments/) (peer reply drafts)
 - Feedback: [feedback/](feedback/) (empty — not yet received)
