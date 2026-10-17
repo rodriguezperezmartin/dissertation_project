@@ -57,7 +57,7 @@ Your Short Paper Assignment should be presented in current APA format. It should
 | **Total** | | | | | **/125** |
 
 ## Assignment — Topic & Sources Chosen
-**Topic:** Digital healthcare infrastructure and macroeconomic policy outcomes in Mexico — a direct precursor to the dissertation's digital health infrastructure / emerging-economies angle.
+**Topic:** Digital healthcare infrastructure and macroeconomic policy outcomes in Mexico — a direct precursor to the capstone's digital health infrastructure / emerging-economies angle.
 
 - **Academic article:** Lomelí Vanegas, L. (2020). The health economy in Mexico. *CEPAL Review, 132*, 181–193.
 - **Popular press article:** McDonald, T., Touchton, M., Knaul, F. M., Arreola-Ornelas, H., & Frenk, J. (2023, November 14). The rise and fall of Seguro Popular: Mexico's health care odyssey. *Think Global Health*.
@@ -68,7 +68,7 @@ Your Short Paper Assignment should be presented in current APA format. It should
 1. To what extent does implementing a centralized digital health registry correlate with a reduction in out-of-pocket healthcare expenditures for marginalized populations in emerging Latin American economies?
 2. How does the standardization of clinical metric capture within a fragmented national health system impact the efficiency of public health funding allocations over a ten-year period?
 
-**Dissertation tie-in:** This short paper is the earliest coursework precursor to the dissertation's core research question — it applies the same "digital infrastructure → measurable macroeconomic/health outcomes" logic to a specific country case (Mexico) nearly six weeks before the Week 4 "Leapfrog Advantage & AI Integration" framing was finalized. See [dissertation/research_questions.md](../../../dissertation/research_questions.md).
+**Capstone tie-in:** This short paper is the earliest coursework precursor to the capstone's core research question — it applies the same "digital infrastructure → measurable macroeconomic/health outcomes" logic to a specific country case (Mexico) nearly six weeks before the Week 4 "Leapfrog Advantage & AI Integration" framing was finalized. See [capstone/research_questions.md](../../../capstone/research_questions.md).
 
 ## Instructor Feedback
 **Received:** "You did a great job on this assignment. You have a clear comparison of the two articles. You articulate research questions per the instructions, and you discuss the biblical worldview as it relates to the assignment." — Dr. Boykin. Full record: [feedback/feedback.md](feedback/feedback.md).

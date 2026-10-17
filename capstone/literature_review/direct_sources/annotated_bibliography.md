@@ -6,8 +6,8 @@
 - **Saved file:** n/a (physical copy); companion critique: [../../../coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf](../../../coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf)
 - **Theme(s):** Institutional/bureaucratic behavior, turf & autonomy, culture & beliefs, red tape/constraints, compliance & observability (Production/Procedural/Craft/Coping organizations)
 - **Summary:** Explains why government agencies behave the way they do as a rational response to their political environment — absence of a profit motive, external control over resources, rule-bound behavior, organizational culture/mission, professional beliefs, interest-group politics, turf protection, and the difficulty of true innovation.
-- **Relevance to dissertation:** Provides the theoretical "why" behind institutional resistance to adopting digital public infrastructure (DPI) and predictive AI in healthcare — clinicians/health ministries resist new reporting technology because of situational imperatives, sense of mission, turf protection, and rule-bound risk aversion, not incompetence. Foundational literature for the institutional-barriers angle of the dissertation.
-- **Key quotes / data points / full notes:** [coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md](../../../coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md) — full chapter-by-chapter reading notes and dissertation application.
+- **Relevance to capstone:** Provides the theoretical "why" behind institutional resistance to adopting digital public infrastructure (DPI) and predictive AI in healthcare — clinicians/health ministries resist new reporting technology because of situational imperatives, sense of mission, turf protection, and rule-bound risk aversion, not incompetence. Foundational literature for the institutional-barriers angle of the capstone.
+- **Key quotes / data points / full notes:** [coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md](../../../coursework/PLCY700/week06/assignments/book_notes_wilson_bureaucracy.md) — full chapter-by-chapter reading notes and capstone application.
 
 ### [Buck, 1992] Review of *Bureaucracy: What Government Agencies Do and Why They Do It*
 - **Citation (APA 7):** Buck, S. (1992). [Review of the book *Bureaucracy: What government agencies do and why they do it*, by J. Q. Wilson].
@@ -17,7 +17,7 @@
 - **Saved file:** [coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf](../../../coursework/PLCY700/week06/original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf)
 - **Theme(s):** External scholarly assessment of Wilson's objectives, methods, and target audience
 - **Summary:** A peer-reviewed critique of Wilson (1989), providing an independent scholarly perspective on the book's contribution and limitations.
-- **Relevance to dissertation:** Used to cross-check and sharpen the student's own critical evaluation of Wilson's methodology and conclusions in the Module 6 book review; not a primary dissertation source on its own.
+- **Relevance to capstone:** Used to cross-check and sharpen the student's own critical evaluation of Wilson's methodology and conclusions in the Module 6 book review; not a primary capstone source on its own.
 
 ---
 
@@ -32,7 +32,7 @@ Selected for the "Leapfrog Advantage & AI Integration" research question. Full w
 - **Saved file:** files/Wu_2008_clinicalkey_healthcare_partnerships_development.pdf
 - **Theme(s):** Technology adoption/acceptance, institutional readiness
 - **Summary:** Validates 4 HTM competency domains (org overview, external knowledge networking, mgmt/interpersonal skills, tech integration) driving IT-healthcare partnership attitudes among 159 Taiwanese hospital IS professionals.
-- **Relevance to dissertation:** Establishes that technology integration success depends on organizational/human competency factors, not just tech capability — theme carried into the Week 4 Literature Assessment.
+- **Relevance to capstone:** Establishes that technology integration success depends on organizational/human competency factors, not just tech capability — theme carried into the Week 4 Literature Assessment.
 
 ### [Handtke, Schilgen, & Mösko, 2019] Culturally Competent Healthcare — A Scoping Review
 - **Citation (APA 7):** Handtke, O., Schilgen, B., & Mösko, M. (2019). Culturally competent healthcare – A scoping review of strategies implemented in healthcare organizations and a model of culturally competent healthcare provision. *PLOS ONE, 14*(7).
@@ -42,7 +42,7 @@ Selected for the "Leapfrog Advantage & AI Integration" research question. Full w
 - **Saved file:** files/Handtke_2019_culturally_competent_healthcare.pdf
 - **Theme(s):** Structural/social access barriers, equity
 - **Summary:** Organizes 67 studies into a 4-part model (individual, organizational, access, implementation strategies) for culturally competent care; effects generally positive but small/hard to isolate.
-- **Relevance to dissertation:** Anchors the "structural barriers drive inequity independent of technology" theme in the Week 4 assessment; indirect but relevant equity lens for the dissertation.
+- **Relevance to capstone:** Anchors the "structural barriers drive inequity independent of technology" theme in the Week 4 assessment; indirect but relevant equity lens for the capstone.
 
 ### [Alkhwaldi, 2023] Understanding the Acceptance of Business Intelligence from Healthcare Professionals' Perspective
 - **Citation (APA 7):** Alkhwaldi, A. F. (2023). Understanding the acceptance of business intelligence from healthcare professionals' perspective: An empirical study of healthcare organizations. *International Journal of Organizational Analysis, 32*(9), 2135–[pages TBD].
@@ -52,7 +52,7 @@ Selected for the "Leapfrog Advantage & AI Integration" research question. Full w
 - **Saved file:** files/Alkhwaldi_2023_Acceptance_Business_Intelligence_Healthcare.pdf
 - **Theme(s):** Technology adoption/acceptance, developing-economy context
 - **Summary:** Applies UTAUT + rational decision-making culture, perceived threat to professional autonomy, and medical-legal risk to explain BI system acceptance among Jordanian healthcare professionals (68% variance explained).
-- **Relevance to dissertation:** Only source among the 10 set in a developing economy (Jordan) — closest analog to the dissertation's emerging-economy focus; UTAUT is a candidate framework for future methodology.
+- **Relevance to capstone:** Only source among the 10 set in a developing economy (Jordan) — closest analog to the capstone's emerging-economy focus; UTAUT is a candidate framework for future methodology.
 
 ### [Sharp, 2020] Public Acceptability of Public Health Policy to Improve Population Health
 - **Citation (APA 7):** Sharp, C., et al. (2020). Public acceptability of public health policy to improve population health: A population-based survey. *[Journal TBD — verify from PDF]*.
@@ -62,7 +62,7 @@ Selected for the "Leapfrog Advantage & AI Integration" research question. Full w
 - **Saved file:** files/Sharp_2020_Public_Acceptability_of_Public_Health_Policy.pdf
 - **Theme(s):** Public acceptance as precondition for policy success
 - **Summary:** Nationally representative Welsh survey finds broad public support for most public health policies; support correlates with healthier personal behaviors.
-- **Relevance to dissertation:** Frames "acceptability" itself as the dependent variable determining policy success — parallel to how technology acceptance is framed in the tech-adoption sources.
+- **Relevance to capstone:** Frames "acceptability" itself as the dependent variable determining policy success — parallel to how technology acceptance is framed in the tech-adoption sources.
 
 ### [Joseph — Health Migrations] Health Migrations: Pre-Migration Experiences and US Healthcare Challenges
 - **Citation (APA 7):** Joseph, [Initial]. ([Year TBD — verify from PDF]). Health migrations: How pre-migration healthcare experiences and US healthcare challenges shape immigrants' transnational healthcare practices. *[Journal TBD]*.
@@ -72,7 +72,7 @@ Selected for the "Leapfrog Advantage & AI Integration" research question. Full w
 - **Saved file:** files/Joseph_2026_Health_migrations.pdf
 - **Theme(s):** Structural/social access barriers, transnational healthcare practices
 - **Summary:** Latin American immigrants in Boston develop transnational healthcare practices (home-country meds, virtual consults, travel for care) in response to US system barriers; grounded theory analysis.
-- **Relevance to dissertation:** Reinforces that data/technology gaps are only part of the access-equity picture — socioeconomic and legal status shape which practices/technologies populations can actually access.
+- **Relevance to capstone:** Reinforces that data/technology gaps are only part of the access-equity picture — socioeconomic and legal status shape which practices/technologies populations can actually access.
 
 ### [Challenges to Implementing AI in Healthcare, Sweden] Qualitative Interview Study with Healthcare Leaders
 - **Citation (APA 7):** [Author TBD — verify from PDF]. ([Year TBD]). Challenges to implementing artificial intelligence in healthcare: A qualitative interview study with healthcare leaders in Sweden. *[Journal TBD]*.
@@ -82,7 +82,7 @@ Selected for the "Leapfrog Advantage & AI Integration" research question. Full w
 - **Saved file:** files/Challenges_to_implementing_art.pdf
 - **Theme(s):** Technology adoption/acceptance, implementation strategy, policy/regulation
 - **Summary:** Swedish healthcare leaders identify 3 challenge categories for AI implementation: external conditions, change-management capacity, and transformation of professional practice; calls for laws/policy to regulate AI implementation strategy.
-- **Relevance to dissertation:** Most directly policy-relevant of the 10 — explicitly calls for regulatory/implementation-strategy research, which the dissertation's empirical-data approach can help answer.
+- **Relevance to capstone:** Most directly policy-relevant of the 10 — explicitly calls for regulatory/implementation-strategy research, which the capstone's empirical-data approach can help answer.
 
 ### [Coombs, 2022] A Qualitative Study of Rural Healthcare Providers' Views of Barriers to Healthcare Access
 - **Citation (APA 7):** Coombs, N. C., et al. (2022). A qualitative study of rural healthcare providers' views of social, cultural, and programmatic barriers to healthcare access. *BMC Health Services Research* (or successor journal — verify from PDF).
@@ -92,7 +92,7 @@ Selected for the "Leapfrog Advantage & AI Integration" research question. Full w
 - **Saved file:** files/Coombs_2022_Qualitative_Study_Rural_Healthcare.pdf
 - **Theme(s):** Structural/social access barriers, rural health systems
 - **Summary:** Rural Montana providers identify 5 themes: friction between rural identity and health systems, need for cultural respect, fragmented provider communication, resource constraints, and profit prioritization over access.
-- **Relevance to dissertation:** Rural/resource-constrained parallel to emerging-economy health infrastructure gaps; small-N qualitative design is a noted limitation shared with the Sweden AI study.
+- **Relevance to capstone:** Rural/resource-constrained parallel to emerging-economy health infrastructure gaps; small-N qualitative design is a noted limitation shared with the Sweden AI study.
 
 ### [Lebano et al., 2020] Migrants' and Refugees' Health Status and Healthcare in Europe: A Scoping Literature Review
 - **Citation (APA 7):** Lebano, A., Hamed, S., Bradby, H., Gil-Salmerón, A., Durá-Ferrandis, E., Garcés-Ferrer, J., Azzedine, F., Riza, E., Karnaki, P., Zota, D., & Linos, A. (2020). Migrants' and refugees' health status and healthcare in Europe: A scoping literature review. *BMC Public Health, 20*, 1039.
@@ -102,7 +102,7 @@ Selected for the "Leapfrog Advantage & AI Integration" research question. Full w
 - **Saved file:** files/Lebano_2020_Migrants_and_refugees_health.pdf
 - **Theme(s):** Structural/social access barriers, equity, data gaps
 - **Summary:** Maps migrant/refugee health research across 9 European countries (2011–2017); finds persistent access inequalities, mental health needs, and legal/administrative barriers; calls for better data and clearer definitions.
-- **Relevance to dissertation:** Directly echoes the dissertation's core M&E-by-design gap — this review explicitly calls for "better data" as a precondition for closing equity gaps.
+- **Relevance to capstone:** Directly echoes the capstone's core M&E-by-design gap — this review explicitly calls for "better data" as a precondition for closing equity gaps.
 
 ### [Alraja, 2022] Frontline Healthcare Providers' Behavioural Intention to IoT-Enabled Healthcare Applications
 - **Citation (APA 7):** Alraja, M. N., et al. (2022). Frontline healthcare providers' behavioural intention to Internet of Things (IoT)-enabled healthcare applications: A gender-based, cross-generational study. *Technological Forecasting and Social Change, 174*.
@@ -112,7 +112,7 @@ Selected for the "Leapfrog Advantage & AI Integration" research question. Full w
 - **Saved file:** files/Alraja_2022_Internet_of_Things_Gender_Based_Cross_Generational.pdf
 - **Theme(s):** Technology adoption/acceptance, gender/generational differences
 - **Summary:** Combines TPB, Privacy Calculus Theory, and trust-risk framework to explain IoT healthcare adoption intentions across Gen X/Gen Y, finding significant gender differences only in Gen Y.
-- **Relevance to dissertation:** Provides a candidate theoretical framework (TPB + privacy calculus) for modeling technology acceptance in future methodology chapters.
+- **Relevance to capstone:** Provides a candidate theoretical framework (TPB + privacy calculus) for modeling technology acceptance in future methodology chapters.
 
 ### [Beaulieu & Bentahar, 2021] Digitalization of the Healthcare Supply Chain: A Roadmap
 - **Citation (APA 7):** Beaulieu, M., & Bentahar, O. (2021). Digitalization of the healthcare supply chain: A roadmap to generate benefits and effectively support healthcare delivery. *Technological Forecasting and Social Change, 167*.
@@ -122,12 +122,12 @@ Selected for the "Leapfrog Advantage & AI Integration" research question. Full w
 - **Saved file:** files/Beaulie_2021_Digitization_of_Healthcare.pdf
 - **Theme(s):** Technology potential vs. adoption gap, proactive vs. reactive resource management
 - **Summary:** Proposes a 5-initiative roadmap (dynamic inventory, demand predictors, dynamic scheduling, logistics automation, dynamic external supply chains) to shift hospitals from reactive to proactive supply chain management via digitalization.
-- **Relevance to dissertation:** **Closest direct precedent to the dissertation's core mechanism** — explicitly frames digitalization as the lever that shifts institutions from reactive to proactive resource management, though set in developed-world hospital supply chains rather than emerging-economy public health.
+- **Relevance to capstone:** **Closest direct precedent to the capstone's core mechanism** — explicitly frames digitalization as the lever that shifts institutions from reactive to proactive resource management, though set in developed-world hospital supply chains rather than emerging-economy public health.
 
 ---
 
 ## Real-World Case Evidence (Grey Literature / Current Events)
-Current policy developments relevant to the dissertation, tracked as they happen — distinct from the peer-reviewed literature above. Full case analysis: [../../case_studies/](../../case_studies/).
+Current policy developments relevant to the capstone, tracked as they happen — distinct from the peer-reviewed literature above. Full case analysis: [../../case_studies/](../../case_studies/).
 
 ### [Lievano Madrigal, 2026a] Policy vs. Practice: Digitizing Mexico's Healthcare Ecosystem
 - **Citation (APA 7):** Lievano Madrigal, S. A. (2026, September 9). Policy vs. practice: Digitizing Mexico's healthcare ecosystem. *Mexico Business News*. https://mexicobusiness.news/health/news/policy-vs-practice-digitizing-mexicos-healthcare-ecosystem
@@ -135,7 +135,7 @@ Current policy developments relevant to the dissertation, tracked as they happen
 - **Retrieved:** 2026-10-07
 - **Theme(s):** Mandate vs. implementation capability gap, NOM-024 interoperability standard, digital health funding/connectivity gaps
 - **Summary:** Reports on Mexico's January 2026 General Health Law reform mandating digital health records and interoperability nationwide, and the structural gaps (low public health spending, poor NOM-024 compliance, rural connectivity gaps) between the legal mandate and real-world execution.
-- **Relevance to dissertation:** Primary real-world evidence of a mandate-type (stick) DPI policy instrument failing on Stone's "Capability" prerequisite — full analysis in [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
+- **Relevance to capstone:** Primary real-world evidence of a mandate-type (stick) DPI policy instrument failing on Stone's "Capability" prerequisite — full analysis in [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
 
 ### [Lievano Madrigal, 2026b] Mexico Advances Health Record Interoperability With New Pact
 - **Citation (APA 7):** Lievano Madrigal, S. A. (2026, October 8). Mexico advances health record interoperability with new pact. *Mexico Business News*. https://mexicobusiness.news/health/news/mexico-advances-health-record-interoperability-new-pact
@@ -143,7 +143,7 @@ Current policy developments relevant to the dissertation, tracked as they happen
 - **Retrieved:** 2026-10-07
 - **Theme(s):** Interoperability pilot implementation, inter-institutional coordination (IMSS, ISSSTE, IMSS-Bienestar)
 - **Summary:** Reports the August 2026 pact between Mexico's Ministry of Health and IMSS to advance electronic clinical record interoperability, piloted at Hospital of the Woman, ahead of the January 2027 Universal Health Service inter-institutional data exchange target. Budget, timeline, and technical scope undisclosed.
-- **Relevance to dissertation:** Establishes a concrete, dated natural-experiment milestone (Jan 2027) for tracking Mexico's reactive-to-proactive policy shift. Full analysis: [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
+- **Relevance to capstone:** Establishes a concrete, dated natural-experiment milestone (Jan 2027) for tracking Mexico's reactive-to-proactive policy shift. Full analysis: [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
 
 ### [Copo Terrés, 2026] Digitalising Health in Mexico: A Starting Point with Monumental Challenges
 - **Citation (APA 7):** Copo Terrés, J. J. (2026, May 11). Digitalising health in Mexico: A starting point with monumental challenges. *International Bar Association, Global Insight*. https://www.ibanet.org/digitalising-health-mexico
@@ -151,7 +151,7 @@ Current policy developments relevant to the dissertation, tracked as they happen
 - **Retrieved:** 2026-10-07
 - **Theme(s):** Legal/regulatory analysis of the 2026 reform, NOM-024 certification barriers, semantic interoperability, digital divide
 - **Summary:** A Mexican legal practitioner's analysis of the January 2026 digital health reform, highlighting the certification/standards barrier (NOM-024, HL7, DICOM), the "information islands" problem from non-interoperable IMSS/ISSSTE systems, the pending universal e-prescription task, and the rural connectivity/digital divide.
-- **Relevance to dissertation:** Provides independent legal/professional corroboration of the capability gaps identified in the trade press reporting — strengthens the credibility of the mandate-vs-capability argument. Full analysis: [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
+- **Relevance to capstone:** Provides independent legal/professional corroboration of the capability gaps identified in the trade press reporting — strengthens the credibility of the mandate-vs-capability argument. Full analysis: [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
 
 ### [NCD Alliance, 2026] Mexico Announces Plan to Achieve Universal Health Coverage by 2027
 - **Citation (APA 7):** NCD Alliance. (2026, April 15). Mexico announces plan to achieve universal health coverage by 2027. https://ncdalliance.org/stories/news-blogs/2026/mexico-announces-plan-to-achieve-universal-health-coverage-by-2027
@@ -159,7 +159,7 @@ Current policy developments relevant to the dissertation, tracked as they happen
 - **Retrieved:** 2026-10-07
 - **Theme(s):** Universal Health Service decree, phased rollout timeline, civil society perspective
 - **Summary:** Reports President Sheinbaum's April 2026 announcement of the Universal Health Service decree unifying IMSS/ISSSTE/IMSS-Bienestar, with a phased rollout beginning January 2027 (emergency care, continuity of care) and expanding through 2027–2028 (specialized services, chronic disease management).
-- **Relevance to dissertation:** Supplies the official phased-rollout timeline used to date the Mexico case study's natural-experiment milestones. Full analysis: [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
+- **Relevance to capstone:** Supplies the official phased-rollout timeline used to date the Mexico case study's natural-experiment milestones. Full analysis: [case_studies/mexico_digital_health_mandate_2026.md](../../case_studies/mexico_digital_health_mandate_2026.md).
 
 ### [Otzoy-García, 2025] Digital Transformation of Health in Guatemala: A Path Toward Universal Health Coverage
 - **Citation (APA 7):** Otzoy-García, D. (2025, October 31). Digital transformation of health in Guatemala: A path toward universal health coverage [LinkedIn article]. LinkedIn. https://www.linkedin.com/pulse/digital-transformation-health-guatemala-path-toward-otzoy-garcia-dmdke/
@@ -167,4 +167,4 @@ Current policy developments relevant to the dissertation, tracked as they happen
 - **Retrieved:** 2026-10-07
 - **Theme(s):** PAHO regional digital health framework, donor-funded capability building (telemedicine, connectivity), political continuity risk
 - **Summary:** A digital health practitioner's account of Guatemala's National Digital Health Strategy 2022–2032, PAHO's Eight Principles for Digital Transformation, donor-funded telemedicine pilots (Quiché, San Marcos) and the "Wayfree" connectivity initiative, and persistent gaps (infrastructure, workforce, regulatory, political continuity).
-- **Relevance to dissertation:** Provides a comparative case to Mexico — a roadmap/donor-capability-driven approach rather than a legal mandate, useful for testing which combination of policy instrument + capability investment drives the dissertation's reactive-to-proactive spending shift. Full analysis: [case_studies/guatemala_digital_health_transformation.md](../../case_studies/guatemala_digital_health_transformation.md).
+- **Relevance to capstone:** Provides a comparative case to Mexico — a roadmap/donor-capability-driven approach rather than a legal mandate, useful for testing which combination of policy instrument + capability investment drives the capstone's reactive-to-proactive spending shift. Full analysis: [case_studies/guatemala_digital_health_transformation.md](../../case_studies/guatemala_digital_health_transformation.md).

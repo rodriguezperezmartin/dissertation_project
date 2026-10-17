@@ -39,13 +39,13 @@ Dr. Boykin
 
 **Wilson, J. Q. (1989). *Bureaucracy: What government agencies do and why they do it*. Basic Books.**
 
-**Why this book was selected:** Wilson's framework (operators, managers, executives, culture, turf, constraints, compliance types) explains *why* government agencies resist adopting new technology and procedures — directly supporting the dissertation's argument about institutional barriers to digital public infrastructure (DPI) and predictive AI adoption in healthcare policy. Reviewing this book both practices the academic book review framework and produces foundational literature for the dissertation.
+**Why this book was selected:** Wilson's framework (operators, managers, executives, culture, turf, constraints, compliance types) explains *why* government agencies resist adopting new technology and procedures — directly supporting the capstone's argument about institutional barriers to digital public infrastructure (DPI) and predictive AI adoption in healthcare policy. Reviewing this book both practices the academic book review framework and produces foundational literature for the capstone.
 
 **Additional source used for insight:** Buck, S. (1992). [Review of the book *Bureaucracy: What government agencies do and why they do it*, by J. Q. Wilson]. A peer-reviewed journal critique of Wilson's book, used to sharpen the review's own critical analysis of the book's objectives, methods, and target audience. See [original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf](original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf).
 
-**Full chapter-by-chapter reading notes:** [assignments/book_notes_wilson_bureaucracy.md](assignments/book_notes_wilson_bureaucracy.md) — synopsis, objectives, evidence, conclusions, and dissertation application for all 20 chapters; kept as a standing reference for the book review draft and future dissertation writing.
+**Full chapter-by-chapter reading notes:** [assignments/book_notes_wilson_bureaucracy.md](assignments/book_notes_wilson_bureaucracy.md) — synopsis, objectives, evidence, conclusions, and capstone application for all 20 chapters; kept as a standing reference for the book review draft and future capstone writing.
 
-The original Week 3 selection rationale (for Weiss) remains in [week03/assignments/book_review_discussion.md](../week03/assignments/book_review_discussion.md), Part II, as a historical record of the earlier decision; it is tracked as a direct source in [dissertation/literature_review/direct_sources/annotated_bibliography.md](../../../dissertation/literature_review/direct_sources/annotated_bibliography.md).
+The original Week 3 selection rationale (for Weiss) remains in [week03/assignments/book_review_discussion.md](../week03/assignments/book_review_discussion.md), Part II, as a historical record of the earlier decision; it is tracked as a direct source in [capstone/literature_review/direct_sources/annotated_bibliography.md](../../../capstone/literature_review/direct_sources/annotated_bibliography.md).
 
 ---
 
@@ -115,7 +115,7 @@ As you read Wilson's *Bureaucracy*, keep the following analytical angles in mind
 - Does he discuss information silos, fragmentation, or coordination challenges between agencies (see especially Ch. 10 Turf and Ch. 13 Congress)?
 - How does he characterize the relationship between frontline operators, managers, and executives?
 
-**Connection to your dissertation:** These themes of institutional friction, turf protection, and procedural rigidity directly parallel your dissertation focus on barriers to implementing digital public infrastructure (DPI) and interoperable data systems in healthcare. Note where Wilson's 1989 observations still apply (or don't) to today's policy environment.
+**Connection to your capstone:** These themes of institutional friction, turf protection, and procedural rigidity directly parallel your capstone focus on barriers to implementing digital public infrastructure (DPI) and interoperable data systems in healthcare. Note where Wilson's 1989 observations still apply (or don't) to today's policy environment.
 
 ### 3. Identifying Weaknesses & Temporal Limitations
 **What to track:**
@@ -150,7 +150,7 @@ This temporal critique will distinguish your review from a purely descriptive su
 1. Read the entire book and take notes on key passages (include page numbers).
 2. Identify 3–4 main themes and note 2–3 supporting passages for each.
 3. List at least 2–3 weaknesses or gaps you observe.
-4. Jot down 2–3 connections to course materials or your dissertation focus.
+4. Jot down 2–3 connections to course materials or your capstone focus.
 5. Keep a running list of effective quotes (3–5 max) that might illustrate your points—avoid block quotes.
 
 **As you write:**
@@ -163,10 +163,10 @@ This temporal critique will distinguish your review from a purely descriptive su
 ## Quick Links
 - **Final submitted book review:** [assignments/book_review_wilson_bureaucracy.md](assignments/book_review_wilson_bureaucracy.md) — APA 7, ~1,785 words
 - **Prep plan & scanning guide:** [assignments/book_review_prep_plan.md](assignments/book_review_prep_plan.md) — plain-language requirements, scanning checklist, prep timeline, and rough outline skeleton to fill in as you read
-- **Reading notes (reference):** [assignments/book_notes_wilson_bureaucracy.md](assignments/book_notes_wilson_bureaucracy.md) — full chapter-by-chapter synopsis, objectives, evidence, conclusions, and dissertation application
+- **Reading notes (reference):** [assignments/book_notes_wilson_bureaucracy.md](assignments/book_notes_wilson_bureaucracy.md) — full chapter-by-chapter synopsis, objectives, evidence, conclusions, and capstone application
 - **Assignments:** [assignments/](assignments/) (book review draft and final submission)
 - **Feedback:** [feedback/](feedback/) (to be populated upon instructor review)
 - **Original source files:** [original_src_files/](original_src_files/) (Buck (1992) peer-reviewed critique PDF; submitted book review .docx)
 - **Course overview:** [../course_overview.md](../course_overview.md)
 - **Previous week (original book selection rationale, later changed):** [../week03/assignments/book_review_discussion.md](../week03/assignments/book_review_discussion.md)
-- **Direct sources bibliography:** [../../../dissertation/literature_review/direct_sources/annotated_bibliography.md](../../../dissertation/literature_review/direct_sources/annotated_bibliography.md)
+- **Direct sources bibliography:** [../../../capstone/literature_review/direct_sources/annotated_bibliography.md](../../../capstone/literature_review/direct_sources/annotated_bibliography.md)

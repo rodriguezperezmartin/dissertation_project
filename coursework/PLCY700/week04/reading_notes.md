@@ -11,7 +11,7 @@ This chapter focuses on how issues gain the attention of policymakers and how po
 - **Indicators:** Quantitative data (statistics, budgets, death rates) used to monitor conditions and prove that a problem exists.
 - **Causal Stories:** The narrative constructed to explain the cause of a problem, which inherently dictates the proposed policy solution.
 
-### Application to Your Dissertation
+### Application to Your Capstone
 
 - **The Shift from Focusing Events to Indicators:** Currently, in emerging economies, health interventions are driven by **focusing events** (outbreaks, immediate crises), which forces *reactive crisis spending*. By implementing digital public infrastructure (DPI) and AI, you are arguing for a system driven by **indicators** (continuous data streams). This shifts the policy agenda from reactive event-management to proactive monitoring and evaluation (M&E).
 - **Re-framing the Causal Story:** The lack of healthcare infrastructure in the Global South is often framed as a "condition" of poverty. Your thesis constructs a new **causal story**: fragmented data is the *cause* of economic fragility. By framing health as human capital, you elevate digital health architecture from a medical issue to a macroeconomic imperative on the institutional agenda.
@@ -31,7 +31,7 @@ This chapter provides frameworks for categorizing policies to predict the politi
 - **Material vs. Symbolic Policies:** *Material* policies provide tangible resources. *Symbolic* policies appeal to values but provide no real resources or enforcement.
 - **Public vs. Private Goods:** *Public goods* are non-excludable (you cannot stop someone from using it) and non-rivalrous (one person's use does not deplete it for another)—like national defense or clean air.
 
-### Application to Your Dissertation
+### Application to Your Capstone
 
 - **Substantive vs. Procedural Leapfrogging:** Your argument for "M&E by design" is fundamentally a push for a **procedural policy** overhaul. Before governments can effectively deliver substantive health policies, they must establish the procedural data pipelines (agentic AI, cloud native systems) that evaluate them.
 - **Escaping the Symbolic Trap:** Without interoperable data architecture, many global health policies in emerging economies remain **symbolic**. They sound good on paper but lack the measurement tools to ensure material delivery.
@@ -53,7 +53,7 @@ Stone argues that in the *polis* (the political community), numbers are never pu
 - **Political Alliances:** The act of measuring creates structural alliances between the measurers and the measured.
 - **Interpretive Control:** Numbers do not speak for themselves; political actors actively try to control how others will interpret the numbers.
 
-### Application to the Dissertation
+### Application to the Capstone
 
 - **Automating the "Polis":** When health ministries manually report crisis metrics, they are subject to "gaming the system" to secure aid. By implementing interoperable digital public infrastructure (DPI) with M&E designed natively into the system, you bypass human manipulation of scores.
 - **Data as Power:** If "the power to measure is the power to control," then establishing a centralized predictive AI health data architecture transfers geopolitical and economic power directly to the sovereign emerging economy, breaking reliance on external NGOs for problem definition.
@@ -68,9 +68,9 @@ This chapter details how political actors construct "causal stories" to move sit
 - **Authorizing the "Fixers":** Causal stories legitimize certain actors as the designated fixers of the problem, endowing them with new authority, power, and resources.
 - **Alliance Building:** They create new political alliances among people who perceive themselves to be harmed by the problem.
 
-### Application to the Dissertation
+### Application to the Capstone
 
-- **Reframing the Causal Story:** The traditional causal story frames poor health outcomes in emerging economies as an inevitable consequence of poverty (an accidental or structural cause). Your dissertation rewrites this causal story: the root cause is the lack of systematic data capture.
+- **Reframing the Causal Story:** The traditional causal story frames poor health outcomes in emerging economies as an inevitable consequence of poverty (an accidental or structural cause). Your capstone rewrites this causal story: the root cause is the lack of systematic data capture.
 - **Legitimizing Technical Authority:** By proving that fragmented data causes reactive crisis spending, your causal story legitimizes CDOs, data engineers, and IT architects as the new "fixers." This justifies shifting foreign aid and domestic resources away from temporary medical relief and toward foundational technology infrastructure.
 
 ## Chapter 9: Interests
@@ -82,7 +82,7 @@ Stone examines how people are mobilized into political action, challenging the a
 - **Concentrated vs. Diffuse Interests:** Small groups with concentrated interests (e.g., an industry facing a specific tax) organize easily and wield disproportionate power. Large groups with diffuse interests organize poorly.
 - **Special Interests vs. Public Interest:** In the *polis*, actors constantly frame their specific "special" interest as being synonymous with the broader "public" interest to gain legitimacy.
 
-### Application to the Dissertation
+### Application to the Capstone
 
 - **The Politics of Reactive Aid:** Reactive crisis spending supports highly concentrated interests (specific emergency contractors, specialized NGOs). These groups are easily mobilized to protect the status quo of retroactive reporting.
 - **Mobilizing Diffuse Benefits:** Proactive, data-driven health policy provides diffuse benefits (society-wide economic growth and human capital development). Your analysis must account for the institutional friction created by the fact that it is politically harder to mobilize support for long-term digital infrastructure than it is to mobilize support for immediate, visible crisis relief.

@@ -13,10 +13,10 @@ Upon successful completion of this module, you will be able to:
 ## Assignment Instructions — Literature Assessment and Research Question
 
 ### Overview
-Before a scholar can contribute to the academic literature, it is first necessary to assess the existing literature. This assessment ultimately takes the form of a thorough Literature Review, which for the dissertation may include several dozen sources — one full dissertation chapter will be devoted to it. At this point in the program, the task is a much briefer **Literature Assessment**: less comprehensive and detailed than a full Literature Review, but it helps develop the habit of thinking broadly about a body of scholarly literature and drawing a sound Research Question from it. Chosen thoughtfully, this assignment is a first step toward identifying literature relevant to the dissertation.
+Before a scholar can contribute to the academic literature, it is first necessary to assess the existing literature. This assessment ultimately takes the form of a thorough Literature Review, which for the capstone may include several dozen sources — one full capstone chapter will be devoted to it. At this point in the program, the task is a much briefer **Literature Assessment**: less comprehensive and detailed than a full Literature Review, but it helps develop the habit of thinking broadly about a body of scholarly literature and drawing a sound Research Question from it. Chosen thoughtfully, this assignment is a first step toward identifying literature relevant to the capstone.
 
 ### Instructions
-Assess **ten or more scholarly sources** (peer-reviewed academic journal articles) related to **one policy topic** of interest — ideally a topic that may be researched for the dissertation. The assessment should:
+Assess **ten or more scholarly sources** (peer-reviewed academic journal articles) related to **one policy topic** of interest — ideally a topic that may be researched for the capstone. The assessment should:
 - Explore common themes, assumptions, or approaches in the sources covered.
 - Assess common weaknesses or limitations in the sources covered.
 - Identify the implications of the Literature Assessment for future research:
@@ -48,14 +48,14 @@ Avoid organizing the assessment paper-by-paper (one source after another). Inste
 
 ## Chosen Topic — The "Leapfrog" Advantage & AI Integration
 
-This is a **strong candidate for the refined dissertation thesis** — testing a specific, near-term financial outcome (reduced reactive crisis spending) rather than waiting on lagging macroeconomic indicators, which sidesteps the "missing historical data" problem in emerging economies.
+This is a **strong candidate for the refined capstone thesis** — testing a specific, near-term financial outcome (reduced reactive crisis spending) rather than waiting on lagging macroeconomic indicators, which sidesteps the "missing historical data" problem in emerging economies.
 
 **Final Research Question:**
 > To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending in public health interventions within emerging economies?
 
 **Core angle:** Emerging economies have a structural advantage — no legacy IT systems to work around — allowing them to jump straight into interoperable, AI-assisted health architectures. This tests whether applying modern technical stacks (agentic AI architectures, RAG frameworks, cloud-native ML pipelines, predictive models trained on first-world data but fine-tuned for third-world contexts) shifts government/NGO spending from reactive crisis management to proactive, targeted aid. Can be tested via pilot programs, synthetic data, or smaller localized NGO datasets rather than a decade-long macroeconomic study — **the technology itself becomes the policy intervention.**
 
-**Strategic alignment:** Bridges technical data engineering (MLOps/AI) with international economic policy; appeals directly to foreign aid allocation strategy — ties into the "Government Service and Diplomacy" and "Modernizing Healthcare Infrastructure" goals in [dissertation/topic_overview.md](../../../dissertation/topic_overview.md).
+**Strategic alignment:** Bridges technical data engineering (MLOps/AI) with international economic policy; appeals directly to foreign aid allocation strategy — ties into the "Government Service and Diplomacy" and "Modernizing Healthcare Infrastructure" goals in [capstone/topic_overview.md](../../../capstone/topic_overview.md).
 
 ### Search Strategy (Jerry Falwell Library — target 10 peer-reviewed sources)
 - **Search keywords:** "predictive AI public health," "interoperable health systems," "technology leapfrogging emerging markets," "healthcare resource allocation," "crisis spending"
@@ -67,7 +67,7 @@ This is a **strong candidate for the refined dissertation thesis** — testing a
 Dr. Boykin shared a devotional reflection on John 20:19–31 (Thomas and the risen Jesus) — a reminder that we don't get to dictate what God chooses to reveal to us; our role is to believe and follow.
 
 ## Progress Update
-All 10 peer-reviewed sources selected, PDFs uploaded to [dissertation/literature_review/direct_sources/files/](../../../dissertation/literature_review/direct_sources/files/), and the actual topic list finalized (see [original_src_files/Selection of Online Academic Journals.docx](original_src_files/)). Preliminary rubric-aligned analysis drafted — see [assignments/rubric_notes_outline.md](assignments/rubric_notes_outline.md) and [assignments/literature_assessment_findings.md](assignments/literature_assessment_findings.md).
+All 10 peer-reviewed sources selected, PDFs uploaded to [capstone/literature_review/direct_sources/files/](../../../capstone/literature_review/direct_sources/files/), and the actual topic list finalized (see [original_src_files/Selection of Online Academic Journals.docx](original_src_files/)). Preliminary rubric-aligned analysis drafted — see [assignments/rubric_notes_outline.md](assignments/rubric_notes_outline.md) and [assignments/literature_assessment_findings.md](assignments/literature_assessment_findings.md).
 
 ## Quick Links
 - Assignments: [assignments/rubric_notes_outline.md](assignments/rubric_notes_outline.md), [assignments/literature_assessment_findings.md](assignments/literature_assessment_findings.md), [assignments/final_literature_review.md](assignments/final_literature_review.md) (**final version — ready to publish**)

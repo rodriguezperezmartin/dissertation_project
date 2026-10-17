@@ -1,3 +1,5 @@
+> **Editorial note (2026-10-16):** This is the original, frozen brainstorm written before the start of coursework — left unedited as a historical record. At the time, the program was believed to be a traditional Ph.D. with a dissertation; it was later clarified to be a Doctor of Public Policy (D.P.P.) with a capstone project. The degree-type references below ("Ph.D.") are preserved as-written for historical accuracy. See [topic_overview.md](topic_overview.md) for the current, corrected framing.
+
 [First - Personal History and Background]
 
 Professional and Academic Personal Profile
@@ -7,8 +9,8 @@ Academic foundation includes an undergraduate degree in Economics, a Master of B
 Instructional background as an adjunct faculty member teaching Python programming and artificial intelligence concepts.
 Linguistic capabilities include fluency in Spanish and intermediate proficiency in Mandarin Chinese, providing a distinct cross-cultural perspective.
 
-[Preliminary Work in Progress Dissertation Topic]
-“ I have synthesized a specific dissertation focused on empowering emerging economies through the strategic implementation of healthcare digital infrastructure. The objective is to enhance the systemic well-being and health indices of citizens by establishing foundational technological frameworks. By prioritizing the investment of resources into capturing robust healthcare metrics, these nations can equip policy advisors and clinical providers with the empirical data necessary to architect and deploy high-impact public health policies tailored to their specific economic environments.“
+[Preliminary Work in Progress Capstone Topic]
+“ I have synthesized a specific capstone focused on empowering emerging economies through the strategic implementation of healthcare digital infrastructure. The objective is to enhance the systemic well-being and health indices of citizens by establishing foundational technological frameworks. By prioritizing the investment of resources into capturing robust healthcare metrics, these nations can equip policy advisors and clinical providers with the empirical data necessary to architect and deploy high-impact public health policies tailored to their specific economic environments.“
 
 The response is the following:
 Focusing on healthcare digital infrastructure leverages deep, specialized expertise in healthcare MLOps and clinical insights platforms, while directly addressing a critical macroeconomic challenge. To keep this strictly aligned with a Ph.D. in Public Policy and Economics, the thesis must frame health not just as a medical issue, but as a core driver of human capital and economic resilience.

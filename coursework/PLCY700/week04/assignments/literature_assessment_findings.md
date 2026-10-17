@@ -2,7 +2,7 @@
 
 Structured findings for the "Literature Assessment and Research Question" assignment, answering each required question directly. Companion to [rubric_notes_outline.md](rubric_notes_outline.md) (rubric-by-rubric notes) — this file follows the assignment's own required structure.
 
-**Sources assessed:** the 10 peer-reviewed articles in [dissertation/literature_review/direct_sources/files/](../../../../dissertation/literature_review/direct_sources/files/) (full citations to be finalized in [direct_sources/annotated_bibliography.md](../../../../dissertation/literature_review/direct_sources/annotated_bibliography.md)).
+**Sources assessed:** the 10 peer-reviewed articles in [capstone/literature_review/direct_sources/files/](../../../../capstone/literature_review/direct_sources/files/) (full citations to be finalized in [direct_sources/annotated_bibliography.md](../../../../capstone/literature_review/direct_sources/annotated_bibliography.md)).
 
 ---
 
@@ -77,7 +77,7 @@ Structured findings for the "Literature Assessment and Research Question" assign
 ## 3. Implications for Future Research
 
 **Are there common sources/frameworks cited across this literature that seem highly influential and worth attention?**
-Yes — three frameworks/methods recur and anchor the quantitative half of this literature: the **Unified Theory of Acceptance and Use of Technology (UTAUT)** (Alkhwaldi), the **Theory of Planned Behavior combined with Privacy Calculus Theory** (Alraja), and **Partial Least Squares / Structural Equation Modeling (PLS-SEM)** as the dominant statistical approach (Wu, Alkhwaldi, Alraja). Any future research in this space — including the dissertation — should be conversant with these models even if it ultimately takes an empirical-economic-data approach rather than a survey-based acceptance model.
+Yes — three frameworks/methods recur and anchor the quantitative half of this literature: the **Unified Theory of Acceptance and Use of Technology (UTAUT)** (Alkhwaldi), the **Theory of Planned Behavior combined with Privacy Calculus Theory** (Alraja), and **Partial Least Squares / Structural Equation Modeling (PLS-SEM)** as the dominant statistical approach (Wu, Alkhwaldi, Alraja). Any future research in this space — including the capstone — should be conversant with these models even if it ultimately takes an empirical-economic-data approach rather than a survey-based acceptance model.
 
 > **Supporting evidence:**
 > 1. "Leveraging the theoretical lens of the 'unified theory of acceptance and use of technology' (UTAUT), a study framework was proposed and integrated with three context-related factors..." (Alkhwaldi, 2023, p. 2135)
@@ -86,7 +86,7 @@ Yes — three frameworks/methods recur and anchor the quantitative half of this 
 > 4. "Methods: A validated survey instrument was administered to 159 IS professionals across Taiwanese hospitals, analyzed using Partial Least Squares (PLS) method." (Wu, Chen, & Greenes, 2009, p. 72)
 
 **Are there common conclusions about future research that might be warranted?**
-Yes — nearly every technology-acceptance study (Wu, Alkhwaldi, the Sweden AI study, Alraja) concludes by calling for research beyond *intention to adopt*, toward **actual implementation strategy, capacity-building, and regulatory/policy design**. The Sweden AI study is the most explicit: it calls for "laws and policies... to regulate the design and execution of effective AI implementation strategies." This directly supports a policy-focused (rather than purely technical) dissertation angle.
+Yes — nearly every technology-acceptance study (Wu, Alkhwaldi, the Sweden AI study, Alraja) concludes by calling for research beyond *intention to adopt*, toward **actual implementation strategy, capacity-building, and regulatory/policy design**. The Sweden AI study is the most explicit: it calls for "laws and policies... to regulate the design and execution of effective AI implementation strategies." This directly supports a policy-focused (rather than purely technical) capstone angle.
 
 > **Supporting evidence:**
 > 1. "The results point to the need to develop implementation strategies across healthcare organisations to address challenges to AI-specific capacity building. Laws and policies are needed to regulate the design and execution of effective AI implementation strategies." (Petersson et al., 2022, p. 1)
@@ -95,7 +95,7 @@ Yes — nearly every technology-acceptance study (Wu, Alkhwaldi, the Sweden AI s
 > 4. "Concerns were raised as to how errors would be handled when AI systems contributed to decision making, highlighting the need for clear laws and policies." (Petersson et al., 2022, p. 5)
 
 **Are there common errors or oversights that may need to be corrected?**
-The clearest recurring oversight is the **complete absence of economic/financial outcome measures**. This body of literature studies *whether* people will adopt technology and *why*, but never *what happens to institutional spending or resource allocation* once adoption occurs. This is precisely the white space the dissertation's research question is positioned to fill. A second oversight: equity-focused research (migrants, rural populations, cultural competence) and technology-adoption research run on **separate tracks** in this literature — none of the 10 sources study whether the populations most affected by structural access barriers are also the ones technology adoption is (or isn't) reaching.
+The clearest recurring oversight is the **complete absence of economic/financial outcome measures**. This body of literature studies *whether* people will adopt technology and *why*, but never *what happens to institutional spending or resource allocation* once adoption occurs. This is precisely the white space the capstone's research question is positioned to fill. A second oversight: equity-focused research (migrants, rural populations, cultural competence) and technology-adoption research run on **separate tracks** in this literature — none of the 10 sources study whether the populations most affected by structural access barriers are also the ones technology adoption is (or isn't) reaching.
 
 > **Supporting evidence (for the separate-tracks oversight):**
 > 1. "[F]or medical supplies used in healthcare units, inventory management systems are reactive." — the one source (Beaulieu & Bentahar) that gets closest to a resource-allocation framing never engages with the equity literature's migrant/rural populations. (Beaulieu & Bentahar, 2021, p. 4)
@@ -115,7 +115,7 @@ This question is written as a question, is testable (acceptance can be measured 
 > 3. "[P]rofessionals' behavioral intentions toward using BI systems were significantly affected by performance expectancy, social influence, facilitating conditions, MLR, RDC and PTA." (Alkhwaldi, 2023, p. 2135) — establishes acceptance as a measurable, modelable construct the RQ can build on.
 > 4. "The results point to the need to develop implementation strategies across healthcare organisations..." (Petersson et al., 2022, p. 1) — directly supports moving from acceptance-only research toward the RQ's implementation/resource-allocation framing.
 
-**Relationship to the dissertation's current leading question:** this is a narrower, evidence-grounded stepping stone toward the dissertation's leading research question in [dissertation/research_questions.md](../../../../dissertation/research_questions.md) — "To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending in public health interventions within emerging economies?" This Week 4 literature base establishes the acceptance/adoption mechanism; the dissertation question extends it specifically to predictive AI, interoperability, and emerging-economy contexts.
+**Relationship to the capstone's current leading question:** this is a narrower, evidence-grounded stepping stone toward the capstone's leading research question in [capstone/research_questions.md](../../../../capstone/research_questions.md) — "To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending in public health interventions within emerging economies?" This Week 4 literature base establishes the acceptance/adoption mechanism; the capstone question extends it specifically to predictive AI, interoperability, and emerging-economy contexts.
 
 ---
 

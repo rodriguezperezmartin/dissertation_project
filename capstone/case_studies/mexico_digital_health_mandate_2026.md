@@ -33,11 +33,11 @@ The reform is a **legal mandate**, not a funded capability-building program. Mul
 
 **This is a direct, real-world test case for Stone's "Core Operational Prerequisites for Inducement Success"** (Awareness, Value Alignment, Capability, Credibility — see [policy_instruments_carrot_stick_framework.md](policy_instruments_carrot_stick_framework.md)): Mexico's mandate scores high on legal *Credibility* (it's now illegal to use paper records) but low on *Capability* (resources, connectivity, funding, training). Stone's framework predicts this specific failure mode — and Mexico's own experts are independently describing it in real time.
 
-## Relevance to Dissertation
+## Relevance to Capstone
 - **Direct continuity with Week 2 coursework:** The Week 2 Short Paper already examined Mexico's healthcare paradigm shifts (Seguro Popular's rise and 2020 collapse) through Popper/Kuhn/Feyerabend. This 2026 mandate is the next chapter in that same national story — a stronger, more current Mexico case thread running from Week 2 → Week 4 RQ → this case study.
-- **Refines (does not replace) the dissertation RQ:** "To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending...?" Mexico's mandate is a natural quasi-experiment for this — a hard legal start date (Jan 2027) creates a clean before/after point to potentially analyze spending/outcome data against, once available.
-- **Strengthens the M&E-by-design argument:** The mandate requires interoperability and digitization but was **not accompanied by a funded M&E/monitoring framework** for tracking whether digitization actually changes spending behavior or patient outcomes — exactly the gap the dissertation's core thesis targets.
-- **Candidate primary case study country** for the dissertation's empirical chapter, given the volume of first-party reporting and the clean natural-experiment start date.
+- **Refines (does not replace) the capstone RQ:** "To what extent does the implementation of predictive AI models and interoperable digital health architectures reduce reactive crisis spending...?" Mexico's mandate is a natural quasi-experiment for this — a hard legal start date (Jan 2027) creates a clean before/after point to potentially analyze spending/outcome data against, once available.
+- **Strengthens the M&E-by-design argument:** The mandate requires interoperability and digitization but was **not accompanied by a funded M&E/monitoring framework** for tracking whether digitization actually changes spending behavior or patient outcomes — exactly the gap the capstone's core thesis targets.
+- **Candidate primary case study country** for the capstone's empirical chapter, given the volume of first-party reporting and the clean natural-experiment start date.
 
 ## Sources
 - Lievano Madrigal, S. A. (2026, September 9). Policy vs. practice: Digitizing Mexico's healthcare ecosystem. *Mexico Business News*. https://mexicobusiness.news/health/news/policy-vs-practice-digitizing-mexicos-healthcare-ecosystem

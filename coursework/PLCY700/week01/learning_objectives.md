@@ -32,7 +32,7 @@ Submit your thread by 11:59 p.m. (ET) on Thursday of Module 1: Week 1.
 
 **Word count note:** Part 1 is ~196 words (within the ≤200 limit); the full thread (Part 1 + Part 2) is ~1,398 words, running above the 1,000–1,250 word target for the thread — worth keeping in mind if asked to trim in a future revision or similar assignment.
 
-**Dissertation tie-in:** Stone's causal-story framework (empirical vs. moral dimensions of problem definition) directly supports framing the dissertation's research question as a causal theory in Week 7 — see [../week07/learning_objectives.md](../week07/learning_objectives.md).
+**Capstone tie-in:** Stone's causal-story framework (empirical vs. moral dimensions of problem definition) directly supports framing the capstone's research question as a causal theory in Week 7 — see [../week07/learning_objectives.md](../week07/learning_objectives.md).
 
 ## Quick Links
 - Submitted discussion thread: [assignments/discussion_intro_public_policy.md](assignments/discussion_intro_public_policy.md)

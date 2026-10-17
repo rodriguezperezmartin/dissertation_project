@@ -47,7 +47,7 @@ Since you already have full chapter notes, use this scan pass to **re-locate and
 - [ ] **First and last paragraph of each Part's opening chapter** — where Wilson usually states the argument for that section.
 - [ ] **Chapter 1 (Armies, Prisons, and Schools)** — foundational thesis statement; almost certainly your central-thesis citation.
 - [ ] **Chapter 9 (Compliance)** — the Production/Procedural/Craft/Coping organization typology; a strong methodology/theme anchor and your direct bridge to Stone's *Policy Paradox* Ch. 9 (Numbers).
-- [ ] **Chapter 10 (Turf)** and **Chapter 13 (Congress)** — institutional friction/coordination themes; strong dissertation tie-in material.
+- [ ] **Chapter 10 (Turf)** and **Chapter 13 (Congress)** — institutional friction/coordination themes; strong capstone tie-in material.
 - [ ] **Final chapter (Bureaucracy and the Public Interest / conclusion)** — Wilson's own summary of conclusions and any limitations he acknowledges himself.
 - [ ] **Anywhere Wilson explicitly says "I" or "my argument"** — flags his own methodological self-description (useful for the qualitative/quantitative discussion).
 - [ ] **Buck (1992) critique** ([../original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf](../original_src_files/Buck-BureaucracyGovernmentAgencies-1992.pdf)) — an outside expert's take on weaknesses; scan this for 1–2 citable critiques you can cross-check against the book itself.
@@ -103,7 +103,7 @@ Use this as your working draft structure. Each section lists what belongs there 
 - Connection to Birkland's policy process stages:
 - Connection to Stone's *Policy Paradox* (esp. Ch. 9 Numbers ↔ Wilson Ch. 9 Compliance):
 - Connection to Week 4 acceptance/adoption barrier frameworks (UTAUT/TPB):
-- Connection to your dissertation's DPI/institutional-barriers argument (optional, but strengthens field-placement discussion):
+- Connection to your capstone's DPI/institutional-barriers argument (optional, but strengthens field-placement discussion):
 - _Your notes:_
 
 ### VII. Closing

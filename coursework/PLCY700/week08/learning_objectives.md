@@ -45,12 +45,12 @@ Politicians may not consciously cite Kingdon or Sabatier, but **the causal dynam
 - **PET** — policy systems resist change through institutional monopolies; change often requires venue shopping (courts, local levels, media).
 - **Social Construction of Target Populations** — explains why policies give generous, unmonitored benefits to some groups (e.g., small business owners, veterans) while burdening others (e.g., welfare recipients) with invasive paperwork, regardless of what economic efficiency alone would dictate.
 
-### 3. How this applies directly to the dissertation
-In a dissertation examining digital infrastructure and predictive healthcare in emerging economies, the task isn't just to recommend a sound technical architecture — it's to analyze **how that intervention survives the public policy process**:
+### 3. How this applies directly to the capstone
+In a capstone examining digital infrastructure and predictive healthcare in emerging economies, the task isn't just to recommend a sound technical architecture — it's to analyze **how that intervention survives the public policy process**:
 - **Why an explanatory framework is required:** If an interoperable health architecture is deployed and the ministry of health rejects it, or the budget gets diverted back to emergency crisis spending, simple economics cannot explain that failure.
 - **Applying the lens:** An ACF or PET framework makes it possible to say: *"The technical reform stalled not because the code failed or the economics were unsound, but because an established policy monopoly of hospital administrators and pharmaceutical suppliers protected their existing budget allocations across the subsystem."*
 
-**Bottom line:** Module 8's objective is to train you to stop viewing public policy merely as a mechanical document (statutes, rules, budgets) and start analyzing it as a **complex, dynamic political ecosystem governed by predictable structural laws** — exactly the lens the dissertation will need when explaining why a technically sound DPI intervention does or doesn't survive contact with real institutions (see [dissertation/topic_overview.md](../../../dissertation/topic_overview.md) §"Theoretical Framework").
+**Bottom line:** Module 8's objective is to train you to stop viewing public policy merely as a mechanical document (statutes, rules, budgets) and start analyzing it as a **complex, dynamic political ecosystem governed by predictable structural laws** — exactly the lens the capstone will need when explaining why a technically sound DPI intervention does or doesn't survive contact with real institutions (see [capstone/topic_overview.md](../../../capstone/topic_overview.md) §"Theoretical Framework").
 
 ## Required Readings for This Module
 - **Birkland, T. A.** — *An Introduction to the Policy Process*, Chapters 10–11
@@ -83,7 +83,7 @@ The student will post one thread of 1,000–1,250 words by 11:59 p.m. (ET) on Th
 **Peer replies: Complete.** Two replies posted — see [assignments/discussion_replies.md](assignments/discussion_replies.md) (~382 and ~379 words; slightly under the 400–500 word target).
 
 ## Dr. Jason Ross — "Why Are You Here?" (Required Viewing, Final Week)
-Associate Dean/Professor, Helms School of Government, Liberty University. A reflection on why doctoral students enter the program, the demands on family/finances/time, the student's full ownership of their own research topic (faculty advise but do not assign dissertation topics), the importance of narrowing a research focus as early as possible, and the program's Christian worldview mission. Full transcript and key takeaways: [assignments/dr_ross_why_are_you_here_transcript.md](assignments/dr_ross_why_are_you_here_transcript.md).
+Associate Dean/Professor, Helms School of Government, Liberty University. A reflection on why doctoral students enter the program, the demands on family/finances/time, the student's full ownership of their own research topic (faculty advise but do not assign capstone topics), the importance of narrowing a research focus as early as possible, and the program's Christian worldview mission. Full transcript and key takeaways: [assignments/dr_ross_why_are_you_here_transcript.md](assignments/dr_ross_why_are_you_here_transcript.md).
 
 ## Quick Links
 - Submitted discussion thread: [assignments/science_and_theory_homework.md](assignments/science_and_theory_homework.md)

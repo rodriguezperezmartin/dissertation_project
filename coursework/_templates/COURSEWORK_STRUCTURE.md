@@ -14,7 +14,7 @@ coursework/<COURSE_CODE>/
 - Course description
 - Aggregate learning objectives (rolled up across all completed weeks)
 - Weekly Map table (week → topic/focus → status → link to that week's study guide)
-- Dissertation tie-ins (which weeks/sources feed the dissertation)
+- Capstone tie-ins (which weeks/sources feed the capstone)
 - Links to `feedback_log/feedback_tracker.md` and the repo `README.md`
 
 ## Week Level

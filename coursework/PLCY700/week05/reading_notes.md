@@ -1,6 +1,6 @@
 # Week 5 Reading Notes
 
-Standing reference material for course readings completed in Week 5. Executive summaries capture key arguments and page-level detail for later citation in coursework assignments and the dissertation.
+Standing reference material for course readings completed in Week 5. Executive summaries capture key arguments and page-level detail for later citation in coursework assignments and the capstone.
 
 ---
 
@@ -24,7 +24,7 @@ Academic honesty is the structural bedrock of scholarly legitimacy. Walliman bre
   - *Disguised paraphrasing / patchwriting:* Superficial rewriting of sentences while retaining the original author's sequence and syntax.
   - *Thematic/conceptual theft:* Utilizing another researcher's novel framework, analytical construct, or conceptual scheme without attribution.
   - *Self-plagiarism:* Submitting one's own previously graded or published materials without disclosure and institutional approval.
-- **Citation and Acknowledgment (pp. 244–246):** Proper citation provides a verifiable empirical audit trail that enables peer scrutiny and methodological replication. Acknowledgments must extend credit to non-author contributors: funding organizations, dissertation committee members, technical staff, translators, and host communities.
+- **Citation and Acknowledgment (pp. 244–246):** Proper citation provides a verifiable empirical audit trail that enables peer scrutiny and methodological replication. Acknowledgments must extend credit to non-author contributors: funding organizations, capstone committee members, technical staff, translators, and host communities.
 - **Caution Regarding Data and Interpretations (pp. 246–247):** Researchers must practice epistemic humility. Findings must be circumscribed by the genuine scope, power, and contextual boundaries of the data. Over-interpreting exploratory trends, conflating correlation with causality, or downplaying contradictory observations undermines the scholarly enterprise.
 
 ### 2. Scientific Fraud, Bias Mitigation, and Epistemology
@@ -97,11 +97,11 @@ Within doctoral education, ethics oversight functions as a formal institutional 
   - *Exempt Review:* Secondary analysis of anonymized, publicly accessible data.
   - *Expedited Review:* Non-invasive, standard procedures presenting minimal risk to healthy adult subjects.
   - *Full Board Review:* Inquiries involving vulnerable populations, sensitive topics (illicit behavior, trauma), deceptive techniques, or physical intervention.
-- **The Dissertation Workflow (pp. 271–273):**
-  1. *Proposal Milestone:* The complete ethical protocol—including recruitment scripts, consent instruments, institutional permissions, and data protection designs—must accompany the formal dissertation proposal.
-  2. *Mandatory Prior Clearance:* Empirical engagement cannot begin until the researcher receives unconditional written IRB/REC clearance. Collecting data prior to clearance is grounds for institutional disciplinary action or disqualification of the dissertation project.
+- **The Capstone Workflow (pp. 271–273):**
+  1. *Proposal Milestone:* The complete ethical protocol—including recruitment scripts, consent instruments, institutional permissions, and data protection designs—must accompany the formal capstone proposal.
+  2. *Mandatory Prior Clearance:* Empirical engagement cannot begin until the researcher receives unconditional written IRB/REC clearance. Collecting data prior to clearance is grounds for institutional disciplinary action or disqualification of the capstone project.
   3. *Protocol Amendments:* Substantive changes in sample population, site access, or instrumentation during fieldwork require formal amendment filings and re-approval.
-  4. *Dissertation Methodology Chapter:* The final dissertation must feature a dedicated subsection detailing IRB approval codes, informed consent execution, risk mitigation strategies, confidentiality mechanisms, and long-term data custody plans.
+  4. *Capstone Methodology Chapter:* The final capstone must feature a dedicated subsection detailing IRB approval codes, informed consent execution, risk mitigation strategies, confidentiality mechanisms, and long-term data custody plans.
 
 ---
 
@@ -145,7 +145,7 @@ A research proposal relies on a sequential structure where each component builds
 - **Function:** Orients the reader within the wider empirical, historical, or policy landscape.
 - **Scope Definition:** Sets clear boundaries around what the study will—and deliberately will not—examine, preventing committee concerns about overextension.
 - **Aims vs. Objectives:**
-  - *Aim:* The overarching intellectual destination of the dissertation.
+  - *Aim:* The overarching intellectual destination of the capstone.
   - *Objectives:* The sequential, operational tasks required to reach that destination.
 
 #### 3. The Research Problem and Research Questions/Hypotheses (pp. 284–287)
@@ -182,7 +182,7 @@ A research proposal relies on a sequential structure where each component builds
   1. *Clarity:* Is the conceptual logic immediately intelligible without auxiliary verbal explanations?
   2. *Coherence:* Do the research questions, theoretical paradigm, data collection techniques, and analytical models align without internal contradiction?
   3. *Feasibility:* Can this empirical design be executed within the time, financial, and access constraints of a doctoral program?
-- **Peer and Advisor Review:** Seeking critical, red-team feedback from peers and dissertation committee members to identify unstated assumptions, logistical vulnerabilities, and methodological blind spots prior to the formal defense (pp. 296–297).
+- **Peer and Advisor Review:** Seeking critical, red-team feedback from peers and capstone committee members to identify unstated assumptions, logistical vulnerabilities, and methodological blind spots prior to the formal defense (pp. 296–297).
 - **The Proposal as an Academic Contract:** Once passed by the departmental or institutional review panel, the proposal establishes a binding agreement, protecting the candidate from arbitrary shifts in committee expectations while holding the researcher accountable to the agreed-upon design (pp. 297–298).
 
 ### 4. Starting to Write: Demystifying the Process
@@ -200,7 +200,7 @@ Walliman rejects the premise that writing occurs only after research is complete
 A PhD dissertation generates thousands of discrete data points and citations. Systematic storage and retrieval protocols are essential to prevent chaos and accidental academic misconduct:
 
 - **Systematic Note-Taking (pp. 303–305):** Every piece of extracted literature must be immediately tagged with full bibliographic metadata, specific page numbers, verbatim quotations flagged within quotation marks, and distinct annotations separating the author's arguments from the researcher's analytical reflections.
-- **Organizing and Retrieval Systems (pp. 305–307):** Establishing thematic classification systems using bibliographic software (e.g., Zotero, EndNote) and linked digital databases. Data must be indexed with functional keywords to enable rapid retrieval during comparative analysis and dissertation synthesis.
+- **Organizing and Retrieval Systems (pp. 305–307):** Establishing thematic classification systems using bibliographic software (e.g., Zotero, EndNote) and linked digital databases. Data must be indexed with functional keywords to enable rapid retrieval during comparative analysis and capstone synthesis.
 - **Version Control and Data Security (pp. 307–308):** Maintaining strict date-stamped file naming conventions and automated off-site backups (cloud and external storage) to prevent data loss.
 
 ### 6. Refining Style, Voice, and Presentation

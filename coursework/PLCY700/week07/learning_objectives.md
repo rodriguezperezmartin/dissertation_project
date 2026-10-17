@@ -70,7 +70,7 @@ After posting your video by 11:59 p.m. (ET) on Thursday of the assigned Module: 
 
 ---
 
-## Recommended Approach (Tailored to Week 7 Objectives & the Dissertation Topic)
+## Recommended Approach (Tailored to Week 7 Objectives & the Capstone Topic)
 
 1. **Reframe the research question explicitly as a causal theory** (this is the core concept the Week 7 quiz tests). State the chain explicitly rather than just restating Week 4's themes:
    - **Cause/problem:** M&E is bolted onto health policy as an afterthought, so agencies can't see crises coming — they only react once a crisis is already underway (reactive crisis spending).
@@ -92,7 +92,7 @@ The 4–5 minute video must clearly and logically cover, in order:
 1. **Topic introduction** — the chosen public policy area of interest ("Leapfrog Advantage & AI Integration" in emerging-economy digital health).
 2. **Common themes, assumptions, and methodological approaches** identified across the 10 assessed sources.
 3. **Areas of weakness or limitations** in the literature assessed.
-4. **Implications** of the literature for your own policy/dissertation interests.
+4. **Implications** of the literature for your own policy/capstone interests.
 5. **Your unique, policy-related, scientific research question**, stated clearly.
 6. **Response to instructor feedback** — Week 4 feedback was received and was entirely positive with no corrective action items noted (see [../week04/feedback/feedback.md](../week04/feedback/feedback.md)); no changes to the research question or sources are required, so the presentation can proceed with the original themes/research question as submitted.
 
@@ -108,7 +108,7 @@ Build the presentation script/outline directly from the completed Week 4 assignm
 For the complete minute-by-minute recording roadmap — timing breakdown, section-by-section talking points with citations, the causal-theory framing, the efficiency vs. equity tension, and a pre/post-recording checklist — see [assignments/presentation_roadmap.md](assignments/presentation_roadmap.md).
 
 ## Reading Guidance: Causal Theories & Efficiency vs. Equity
-This module's course readings (causal theory of policy problems, efficiency vs. equity trade-offs) underpin *why* a research question matters — frame the presentation's research question in terms of the causal mechanism it investigates (e.g., does predictive AI + interoperable digital health infrastructure *cause* a reduction in reactive crisis spending?) and note where the dissertation's angle raises efficiency/equity tensions (e.g., resource allocation between infrastructure investment and immediate care access in emerging economies).
+This module's course readings (causal theory of policy problems, efficiency vs. equity trade-offs) underpin *why* a research question matters — frame the presentation's research question in terms of the causal mechanism it investigates (e.g., does predictive AI + interoperable digital health infrastructure *cause* a reduction in reactive crisis spending?) and note where the capstone's angle raises efficiency/equity tensions (e.g., resource allocation between infrastructure investment and immediate care access in emerging economies).
 
 ## Quick Links
 - Completed quiz (matching answers + essays): [assignments/quiz_causal_mechanisms_equity_efficiency.md](assignments/quiz_causal_mechanisms_equity_efficiency.md)
