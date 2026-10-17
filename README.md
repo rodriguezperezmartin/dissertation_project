@@ -81,6 +81,7 @@ This topic exists to serve a set of personal, professional, and faith-driven goa
 - [capstone/literature_review/direct_sources/](capstone/literature_review/direct_sources/) — sources directly about the capstone topic (bibliography + PDFs)
 - [capstone/literature_review/indirect_sources/](capstone/literature_review/indirect_sources/) — coursework-driven sources, methodology/skill-building (bibliography + PDFs)
 - [capstone/case_studies/](capstone/case_studies/) — real-world, current-events policy case evidence tracked as it happens (Mexico's 2026 digital health mandate, Guatemala's 2022–2032 digital health roadmap, and a Stone carrot/stick policy-instruments theoretical framework note)
+- [capstone/program_requirements/](capstone/program_requirements/) — official HSOG Scholarly Project Handbook & Capstone Template (archived PDF/docx + structured markdown summaries), plus [task_tracker.md](capstone/program_requirements/task_tracker.md) tracking the 16-task progression, candidate site/contacts, and open logistics questions
 
 ### Tracking
 - [feedback_log/feedback_tracker.md](feedback_log/feedback_tracker.md) — cross-course feedback log & evaluation criteria patterns

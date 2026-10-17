@@ -26,13 +26,19 @@ The Doctor of Public Policy (D.P.P.) is a **professional/applied doctoral degree
 - Degree Completion Application filed in final semester
 
 ## Open Questions / To Confirm
-- Exact structure of the Capstone Project deliverable (chapter/section breakdown) — likely problem statement → literature/context → methodology/analysis → findings → policy recommendations, but should be confirmed against the Capstone Handbook once accessible.
-- Whether the Capstone requires anchoring to a specific organization/agency/client partner, or can remain a research-based policy analysis as currently framed.
-- Official terminology for the final milestone (e.g., "Capstone Defense," "Capstone Presentation") — PLCY 890 (Capstone IV) carries 0 credit hours, suggesting it may be a final presentation/certification course rather than a separately-weighted defense course.
+All three prior open questions are now **resolved** (2026-10-17) after reading the official [HSOG Scholarly Project Handbook (2026)](../capstone/program_requirements/handbook_summary.md) and [Capstone Template](../capstone/program_requirements/template_structure_summary.md):
+- ~~Exact structure of the Capstone Project deliverable~~ **Resolved:** Executive Summary + 5 chapters (Introduction ≥25pp; Literature Review ≥30pp/40+ sources; Research Design & Procedures; Findings; Conclusions with a detailed, implementable solution + evaluation plan) + References/Appendices. Full breakdown: [template_structure_summary.md](../capstone/program_requirements/template_structure_summary.md).
+- ~~Whether the Capstone requires anchoring to a specific organization/agency/client partner~~ **Resolved: Yes.** The Handbook defines a doctoral project as explicitly **site-specific and non-generalizable** — tied to a real governmental/organizational site with a formal Site Authorization Letter required before data collection (interviews, surveys, etc.), and framed for a specific client/practitioner audience rather than an academic one.
+- ~~Official terminology for the final milestone~~ **Resolved:** "**Proposal Defense**" (end of PLCY 888, evaluates approved Ch. 1–3) and "**Final Defense**" (PLCY 890, evaluates the completed Ch. 1–5 manuscript) — not "Capstone Defense." The official document type in the Handbook is called a "**doctoral project**"; "Capstone" is Liberty's colloquial/marketing term for the same thing (and is the term the Template itself uses for the manuscript).
+
+**New open questions (2026-10-17):**
+- Which specific organization/site will serve as the formal project partner — Mexico (Sinaloa) via contact Sinai Palma Serrano, the Pan American Health Organization (PAHO), or a combination? See [capstone/program_requirements/task_tracker.md](../capstone/program_requirements/task_tracker.md) for tracking.
+- Can the existing Mexico/Guatemala secondary-source case studies ([capstone/case_studies/](../capstone/case_studies/)) be repurposed as Chapter 1–2 background/context, or do they need to be supplemented/replaced once a specific site is confirmed?
+- Does the chosen site trigger an IRB requirement (e.g., if the site itself demands documented IRB review, or if findings are intended for publication/dissemination beyond the site — relevant given PAHO is a multinational body)?
+- Who at the chosen site is empowered to sign the formal Site Authorization Letter (Task 10 in the progression — see task tracker)?
 
 ## Store Here
-- Program handbook excerpts / policies (especially the Helms School of Government Capstone Handbook)
-- Capstone formatting & submission guidelines
-- Committee composition rules and how to select a chair
-- Known rubrics or evaluation criteria for the Research Concept and Capstone sequence
-- IRB / human subjects research requirements (relevant given healthcare data focus)
+- ~~Program handbook excerpts / policies~~ — **done:** see [capstone/program_requirements/](../capstone/program_requirements/) for the full Handbook, Template, and structured summaries.
+- Committee composition rules and how to select a chair — see [handbook_summary.md](../capstone/program_requirements/handbook_summary.md) §3 (Project Chair + Methodologist structure).
+- Known rubrics or evaluation criteria for the Research Concept and Capstone sequence — see [handbook_summary.md](../capstone/program_requirements/handbook_summary.md) §4 (16-task progression) and [task_tracker.md](../capstone/program_requirements/task_tracker.md).
+- IRB / human subjects research requirements (relevant given healthcare data focus) — see [handbook_summary.md](../capstone/program_requirements/handbook_summary.md) §6.
