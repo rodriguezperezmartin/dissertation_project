@@ -11,7 +11,7 @@ Upon successful completion of this module, you will be able to:
 
 **Core Learning Activity:** Record and post a 4–5 minute video oral presentation of your Week 4 Literature Assessment and Research Question, then post two peer-reply comments (150+ words each). This module also includes a 70-point, 13-question quiz on causal mechanisms, equity, and efficiency (due Oct 11, 60-minute limit, 1 attempt).
 
-**Status: Quiz complete (2026-10-11). Oral presentation video recorded and posted (2026-10-15)** — see [assignments/presentation_roadmap.md](assignments/presentation_roadmap.md) for the delivered script. Peer replies (2, 150+ words each) still pending.
+**Status: Quiz complete (2026-10-11). Oral presentation video recorded and posted (2026-10-15)** — see [assignments/presentation_roadmap.md](assignments/presentation_roadmap.md) for the delivered script. **Peer replies submitted** — positive feedback received (see [feedback/feedback.md](feedback/feedback.md)); reply content not separately archived in this repo.
 
 ## Instructor's Weekly Announcement (Dr. Boykin, verbatim, 2026-10-05)
 This week's focus is on causal theories in public policy. Causal theories address what causes a particular problem and what intervention will alleviate that problem. Causal theories, as you might expect, form the foundation from which public policies are created. You will take a quiz this week over these concepts.
@@ -114,7 +114,7 @@ This module's course readings (causal theory of policy problems, efficiency vs. 
 - Completed quiz (matching answers + essays): [assignments/quiz_causal_mechanisms_equity_efficiency.md](assignments/quiz_causal_mechanisms_equity_efficiency.md)
 - Quiz study guide & practice exam: [assignments/week7_quiz_study_guide_practice_exam.md](assignments/week7_quiz_study_guide_practice_exam.md)
 - Assignments: [assignments/presentation_roadmap.md](assignments/presentation_roadmap.md) (presentation rehearsal guide + scripts), [assignments/](assignments/) (peer reply drafts)
-- Feedback: [feedback/](feedback/) (empty — not yet received)
+- Feedback: [feedback/feedback.md](feedback/feedback.md)
 - Original source files: [original_src_files/](original_src_files/) (empty — not yet uploaded)
 - Course overview: [../course_overview.md](../course_overview.md)
 - Week 4 source material: [../week04/learning_objectives.md](../week04/learning_objectives.md)

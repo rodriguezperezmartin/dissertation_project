@@ -3,6 +3,16 @@
 ## Overview (Instructor's Module Introduction, Verbatim)
 In this final course module, you will begin to evaluate various theories related to public policy. You will move beyond simple definitions as you consider underlying assumptions of these theories and how they apply to specific policy situations.
 
+## Instructor's Weekly Announcement (Dr. Boykin, verbatim, final week)
+We have made it to the final week of the course! This week, you will practice applying the theories you have read about to actual policy questions. To properly apply theories to policy, one must understand the specific assumptions that are made by any theory. For example, rational choice theory assumes that people are rational actors, that we make decisions that will maximize our own utility, and that we make these decisions with complete or near-complete information. While we could certainly point to individual circumstances where these assumptions may fail, the theory can be a useful framework within which to study political and policy-related issues. The Institutional Analysis and Development (IAD) framework is born from rational choice theory.
+
+As we wrap up our time together, I hope you will take a moment to look back at all that you have accomplished over these 8 short weeks. You have several new, shiny tools in your toolbox! This is certainly not a comprehensive list, but you can recognize a faulty argument (and avoid them in your own research!). You have learned how to develop a sound research question. You have read and evaluated journal articles and books in the policy field. You understand all kinds of issues and concepts related to academic research. Please keep these texts as reference tools for future courses so that you can continue to hone your research skills and your policy understanding. The best way to become a master researcher and academic is to continue to practice using your new tools correctly!
+
+I am reflecting this week on the post-resurrection appearances of Jesus to his disciples, as in John 21, where Jesus tells the disciples "feed my sheep." Of course, he is telling us this too. How do we do this? Our task as Christians is to minister to others and live as a witness to our faith. We do this in the way we live our lives, as well as the things we say. It's not easy! But with God's help, we can.
+
+God bless,
+Dr. Boykin
+
 ## Learning Outcomes (Instructor's Official List)
 Upon successful completion of this module, you will be able to:
 1. Evaluate various theories related to public policy.
@@ -70,9 +80,16 @@ The student will post one thread of 1,000–1,250 words by 11:59 p.m. (ET) on Th
 - **Part 2 (Rights & Power):** Maps Stone's Ch. 15 (Rights) onto the Advocacy Coalition Framework — rights as tools of collective mobilization that coalitions use for legal venue-shopping around deep core/policy core beliefs. Maps Stone's Ch. 16 (Power) onto Schneider & Ingram's Social Construction of Target Populations — power as the ability to structure perceptions and categorize citizens as advantaged/contenders/dependents/deviants, encoding power asymmetries into law before overt conflict occurs.
 - **Part 3 (Empirical vs. anecdotal evidence):** Argues the two serve different, complementary purposes rather than competing — empirical evidence is indispensable for technical feasibility and causal rigor, while anecdotal evidence does work empirical data cannot: agenda-setting/problem definition (focusing events), causal attribution/blame (Stone's causal stories), and surfacing street-level implementation realities that dashboards miss.
 
+**Peer replies: Complete.** Two replies posted — see [assignments/discussion_replies.md](assignments/discussion_replies.md) (~382 and ~379 words; slightly under the 400–500 word target).
+
+## Dr. Jason Ross — "Why Are You Here?" (Required Viewing, Final Week)
+Associate Dean/Professor, Helms School of Government, Liberty University. A reflection on why doctoral students enter the program, the demands on family/finances/time, the student's full ownership of their own research topic (faculty advise but do not assign dissertation topics), the importance of narrowing a research focus as early as possible, and the program's Christian worldview mission. Full transcript and key takeaways: [assignments/dr_ross_why_are_you_here_transcript.md](assignments/dr_ross_why_are_you_here_transcript.md).
+
 ## Quick Links
 - Submitted discussion thread: [assignments/science_and_theory_homework.md](assignments/science_and_theory_homework.md)
+- Peer replies: [assignments/discussion_replies.md](assignments/discussion_replies.md)
 - Reading notes: [assignments/reading_chapter_notes.md](assignments/reading_chapter_notes.md)
+- Dr. Ross "Why Are You Here?" transcript: [assignments/dr_ross_why_are_you_here_transcript.md](assignments/dr_ross_why_are_you_here_transcript.md)
 - Feedback: [feedback/](feedback/) (empty — not yet received)
 - Original source files: [original_src_files/](original_src_files/) (submitted .docx files)
 - Course overview: [../course_overview.md](../course_overview.md)

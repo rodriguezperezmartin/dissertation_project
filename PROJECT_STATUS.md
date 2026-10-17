@@ -7,10 +7,10 @@ This is the single "load this first" file for the dissertation project. Read thi
 ---
 
 ## 1. Where Things Stand Right Now
-- **PhD status:** Year 1, Fall 2026 semester — currently in **PLCY 700: Foundations of Public Policy**
+- **PhD status:** Year 1, Fall 2026 semester — **PLCY 700: Foundations of Public Policy is complete! 🎉** All 8 weeks submitted (threads, quiz, oral presentation, peer replies); positive feedback received across every graded assignment.
 - **Target graduation:** Fall 2029 (full sequence in [roadmap/degree_plan.md](roadmap/degree_plan.md))
-- **Courses completed:** none yet (first semester in progress)
-- **Current week in PLCY 700:** Week 8, the final module (Discussion: Science and Theory — thread posted, peer replies pending). Week 7 quiz complete and oral presentation video recorded/posted (peer replies pending).
+- **Courses completed:** PLCY 700 (Fall 2026, first course of the program) — final grade pending instructor posting.
+- **Current week in PLCY 700:** N/A — course finished. Awaiting the next course in the sequence (see [roadmap/degree_plan.md](roadmap/degree_plan.md)).
 
 ## 2. Dissertation Objective (Working)
 
@@ -96,6 +96,7 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 - **2026-10-15:** Built out `week08` (the course's final module): uploaded and converted the submitted discussion thread (`Science and Theory Homework.docx` → `assignments/science_and_theory_homework.md`, ~1,162 words, within the 1,000–1,250 word requirement) and chapter reading notes (`Reading_Assignment_Chapter_Notes.docx` → `assignments/reading_chapter_notes.md`, covering Birkland Ch. 10–11 and Stone Ch. 12–16). Added the official Discussion: Science and Theory assignment instructions + rubric to `week08/learning_objectives.md`, with a summary of the submitted thread's argument (theoretical pluralism/IAD vs. MSF incompatibility; Stone's Rights/Power mapped to ACF/Social Construction of Target Populations; empirical vs. anecdotal evidence as complementary, not competing). Updated `course_overview.md` (weekly map + aggregate objectives + dissertation tie-in), `README.md`, and marked Week 8 **Completed** (thread posted; peer replies pending).
 - **2026-10-15:** Compared the original pre-course dissertation docs against everything learned in PLCY 700 and updated `dissertation/topic_overview.md`: revised the Core Thesis to add the equity dimension and the instrument-type/capability conditionality; added a new, explicitly **living** "Theoretical Framework (Informed by PLCY 700)" section inventorying 6 tools (causal theory structure, carrot/stick inducements typology, efficiency-equity tension, institutional resistance per Wilson, Birkland's 5 policy process models, and Stone's rights/power/facts framing) with links back to the coursework that produced each; updated "Open Questions" to mark two questions partially resolved (case study countries; causal mechanism) and added 2 new questions (which policy process model fits DPI diffusion; who governs M&E metric design). Updated the "Status" section to explicitly note the topic will keep evolving through remaining PLCY coursework, Research Concept, and Dissertation I–IV. Cross-referenced from `PROJECT_STATUS.md` §2.
 - **2026-10-16:** Added a "Clarifying Note: What Is the Point of These Frameworks?" section to `week08/learning_objectives.md` — the student's own question about whether policy frameworks are prescriptive (how to make policy) vs. descriptive/explanatory (how to interpret why policy behaves as it does), plus the full explanation distinguishing the two and tying it back to the dissertation's own need to explain *why* a technically sound DPI intervention might stall in real institutions (cross-referenced to `dissertation/topic_overview.md`'s Theoretical Framework section).
+- **2026-10-16: PLCY 700 COMPLETE.** Finished closing out the course: (1) added Dr. Boykin's verbatim final-week announcement to `week08/learning_objectives.md`; (2) logged both Week 8 peer replies (`week08/assignments/discussion_replies.md`, ~382 and ~379 words — slightly under the 400–500 word target, flagged not edited); (3) logged positive Week 7 oral presentation feedback (`week07/feedback/feedback.md`) — confirmed peer video replies were also submitted and well-received, updating Week 7's status from "pending" to complete; (4) transcribed and archived Dr. Jason Ross's required "Why Are You Here?" doctoral-program orientation video (`week08/assignments/dr_ross_why_are_you_here_transcript.md`) with key takeaways, cross-referenced to the dissertation's Theoretical Framework section per his advice to narrow research focus early using every course. Updated `course_overview.md` (both weeks marked Completed), `feedback_log/feedback_tracker.md` (new Week 7 feedback entry), `README.md`, and this file's §1 status to reflect the course is finished.
 
 ## 6. Module 6: Book Review Assignment — *Bureaucracy: What Government Agencies Do and Why They Do It* (1989) by James Q. Wilson
 
@@ -116,9 +117,11 @@ _Add a dated entry every session so future sessions pick up instantly. Keep each
 ## 7. Next Actions
 - [ ] Post 2 peer replies (400–500 words each, 2+ scholarly citations) to the Week 1 Discussion: Introduction to Public Policy
 - [x] Draft and record the Week 7 oral presentation (4–5 min video) — recorded and posted 2026-10-15; see [coursework/PLCY700/week07/assignments/presentation_roadmap.md](coursework/PLCY700/week07/assignments/presentation_roadmap.md)
-- [ ] Post 2 peer replies (150+ words each) to classmates' Week 7 video presentations
+- [x] Post 2 peer replies (150+ words each) to classmates' Week 7 video presentations — submitted, positive feedback received
 - [x] Take/complete the Week 7 quiz on causal theories — submitted 2026-10-11 ([coursework/PLCY700/week07/assignments/quiz_causal_mechanisms_equity_efficiency.md](coursework/PLCY700/week07/assignments/quiz_causal_mechanisms_equity_efficiency.md))
-- [ ] Post 2 peer replies (400–500 words each, incorporating all relevant course readings) to the Week 8 Discussion: Science and Theory
+- [x] Post 2 peer replies (400–500 words each, incorporating all relevant course readings) to the Week 8 Discussion: Science and Theory — submitted ([coursework/PLCY700/week08/assignments/discussion_replies.md](coursework/PLCY700/week08/assignments/discussion_replies.md))
+- [ ] **Await PLCY 700 final grade** from Dr. Boykin
+- [ ] Identify the next course in the PhD sequence (see [roadmap/degree_plan.md](roadmap/degree_plan.md)) and prepare to apply the same coursework-to-dissertation steering approach
 - [ ] Keep feeding professor feedback into `feedback_log/feedback_tracker.md` as it arrives
 
 ## 8. Standing Maintenance Rule (Do This Automatically — Don't Wait to Be Asked)
