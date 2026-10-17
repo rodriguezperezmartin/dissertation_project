@@ -5,10 +5,11 @@ Tracks the 16-task progression defined in the [HSOG Scholarly Project Handbook](
 **Status legend:** ⬜ Not started · 🟡 In progress · ✅ Approved
 
 ## Site & Contacts (feeds into Tasks 1, 9, 10)
-- **Primary candidate site:** Sinaloa, Mexico — health system context tied to Mexico's January 2026 digital health/EHR mandate (see [case_studies/mexico_digital_health_mandate_2026.md](../case_studies/mexico_digital_health_mandate_2026.md)).
-- **Primary contact:** Sinai Palma Serrano — 4th-year medical resident, Sinaloa, Mexico. Preliminary meeting already held (Oct 2026) to discuss the new mandate's practical rollout. ([LinkedIn](https://www.linkedin.com/in/sinai-palma-serrano-53bb65443/))
+- **Status (2026-10-17): site still to be determined.** Networking and exploratory meetings are ongoing over the next weeks/months; most likely candidates are a Mexico-based organization or an international body like PAHO. Nothing below is confirmed as the formal site yet.
+- **Primary candidate region:** Sinaloa, Mexico — health system context tied to Mexico's January 2026 digital health/EHR mandate (see [case_studies/mexico_digital_health_mandate_2026.md](../case_studies/mexico_digital_health_mandate_2026.md)), now backed by the primary DOF/NOM regulatory source.
+- **Context contact (not yet a confirmed interview participant):** Sinai Palma Serrano — 4th-year medical resident, Sinaloa, Mexico. An informal conversation provided real-world implementation context, logged in the Mexico case study as **background only** — it did not follow the Handbook's formal Data Collection Planning / Site Authorization process, so it does not count toward the eventual required interviews.
 - **Broader organizational target:** Pan American Health Organization (PAHO) — regional WHO office for the Americas ([paho.org](https://www.paho.org/en)); potential source of additional interview participants with regional digital-health-policy perspective, and a possible path to a formal site-partner relationship if a national-ministry-level contact doesn't materialize.
-- **Networking plan:** Continue outreach via LinkedIn to identify 5–10 interview-eligible professionals (clinicians, health IT leads, ministry/PAHO policy staff) in addition to Sinai.
+- **Networking plan:** Continue outreach via LinkedIn to identify 5–10 interview-eligible professionals (clinicians, health IT leads, ministry/PAHO policy staff) in addition to informal contacts already made.
 
 ## Task Checklist
 
@@ -34,6 +35,7 @@ Tracks the 16-task progression defined in the [HSOG Scholarly Project Handbook](
 | 16 | **Final Defense** (oral, via MS Teams) | 890 | Chair | ⬜ | |
 
 ## Open Logistics Questions
-- Does Sinai (a resident, not an institutional leader) count as the "client/end user" practitioner contact, or do we still need someone in a leadership/decision-making role at a ministry/hospital system to formally grant site permission (Task 10)?
+- Site selection is ongoing (networking over the next weeks/months) — will it land on a Mexico-based organization, PAHO, or another candidate entirely?
+- Who at the eventual site is empowered to sign the formal Site Authorization Letter (Task 10)?
 - Would PAHO function better as (a) the formal project site, (b) a source of additional interview participants alongside a Mexico-based site, or (c) literature-review-only context (PAHO publishes regional digital health policy reports)?
 - IRB exception applies only if the project stays non-generalizable and undisseminated beyond the site — confirm this with chair once assigned, especially if PAHO (a multinational body) becomes involved.
