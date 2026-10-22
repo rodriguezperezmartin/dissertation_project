@@ -4,6 +4,7 @@
 **Institution:** Liberty University
 **Credits:** 3 c.h.
 **Semester:** Fall 2026
+**Final Class Grade:** 997/1010 — course complete, consistently positive feedback across all 8 weeks
 
 ## Course Description
 _Add the official syllabus course description here once available._
@@ -38,7 +39,7 @@ Quick-scan table of every week. Click through to a week's `learning_objectives.m
 | 5 | Research ethics & proposal writing (Walliman, Ch. 6–7); political decision-making & inducements (Stone, Ch. 10–11); research design/sampling quiz study aids | Reading notes + quiz study aids complete | [week05/learning_objectives.md](week05/learning_objectives.md) |
 | 6 | Book Review — *Bureaucracy: What Government Agencies Do and Why They Do It* by James Q. Wilson (1989); critical assessment of thesis, methods, themes, conclusions, and field placement (1,500–2,000 words, APA) | **Completed** — final review submitted | [week06/learning_objectives.md](week06/learning_objectives.md) |
 | 7 | Causal theories in public policy; efficiency vs. equity; quiz (70 pts, 13 questions, due Oct 11); Discussion: Oral Presentation of Literature Review/Research Question (4–5 min video + 2 peer replies, based on Week 4 Literature Assessment) | **Completed** — quiz, video, and peer replies all submitted; positive feedback received | [week07/learning_objectives.md](week07/learning_objectives.md) |
-| 8 (Final) | Discussion: Science and Theory — theoretical pluralism across Birkland's 5 policy process models; Stone's Rights/Power (Ch. 15–16) mapped to ACF/Social Construction frameworks; empirical vs. anecdotal evidence (1,000–1,250 words + 2 peer replies) | **Completed** — thread and peer replies posted; Dr. Ross "Why Are You Here?" viewing logged | [week08/learning_objectives.md](week08/learning_objectives.md) |
+| 8 (Final) | Discussion: Science and Theory — theoretical pluralism across Birkland's 5 policy process models; Stone's Rights/Power (Ch. 15–16) mapped to ACF/Social Construction frameworks; empirical vs. anecdotal evidence (1,000–1,250 words + 2 peer replies) | **Completed** — fully positive feedback; Dr. Ross "Why Are You Here?" viewing logged | [week08/learning_objectives.md](week08/learning_objectives.md) |
 
 > Add a row per week as the syllabus/module content becomes available.
 

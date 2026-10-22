@@ -90,6 +90,6 @@ Associate Dean/Professor, Helms School of Government, Liberty University. A refl
 - Peer replies: [assignments/discussion_replies.md](assignments/discussion_replies.md)
 - Reading notes: [assignments/reading_chapter_notes.md](assignments/reading_chapter_notes.md)
 - Dr. Ross "Why Are You Here?" transcript: [assignments/dr_ross_why_are_you_here_transcript.md](assignments/dr_ross_why_are_you_here_transcript.md)
-- Feedback: [feedback/](feedback/) (empty — not yet received)
+- Feedback: [feedback/feedback.md](feedback/feedback.md) — fully positive (also carries the **final class grade: 997/1010** for the whole course)
 - Original source files: [original_src_files/](original_src_files/) (submitted .docx files)
 - Course overview: [../course_overview.md](../course_overview.md)
