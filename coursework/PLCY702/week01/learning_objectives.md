@@ -127,8 +127,58 @@ Please review the Discussion Assignment Instructions (Canvas file download, inst
 
 Submit your thread by 11:59 p.m. (ET) on Thursday of Module 1: Week 1.
 
+## Discussion Replies — Criteria, Standards, and Structural Guidance
+
+### 1. Concrete Baseline Requirements
+
+- **Number of Replies:** Exactly **3 separate replies** to three different classmates' threads.
+- **Word Count:** A minimum of **250 words per reply** (aim for **275–325 words** to comfortably clear the threshold without fluff).
+- **Deadline:** **Sunday by 11:59 p.m. (ET)** of Week 1.
+- **Citations per Reply:** At least **2 scholarly sources** cited in current **APA 7 format** (with both in-text citations and a reference list at the bottom of each reply).
+- **Acceptable Sources:**
+  - Assigned course texts: McClellan (2000), Loughlin (2022), Sartori (1962).
+  - University/academic press books (e.g., Harvard, Oxford, Cambridge, Liberty Fund).
+  - Peer-reviewed journal articles (e.g., *APSR*, *Journal of Democracy*).
+  - *Note:* Non-peer-reviewed websites, encyclopedias, and blogs are unacceptable.
+
+### 2. What Doctoral Peer Replies Require
+At the doctoral level in the Helms School of Government, professors look for substantive peer engagement rather than congratulatory remarks.
+
+#### Avoid Superficial Agreement
+Do not open with conversational filler such as *"Great post, John! I really enjoyed reading your thoughts."* Jump directly into analytical discourse:
+
+> *"Your analysis of Sartori's nominal category raises an important institutional question regarding the operationalization of judicial review..."*
+
+#### The "Extend, Contrast, or Challenge" Method
+Every reply should do one of three things:
+
+1. **Extend:** Agree with the peer's premise, but introduce an unmentioned historical precedent or theoretical lens (e.g., if they focused on *Federalist 10*, bring in *Federalist 63* or Coke's *Dr. Bonham's Case*).
+2. **Contrast:** Juxtapose their source with another author (e.g., if they rely purely on McClellan's praise of Anglo-American ordered liberty, contrast it with Loughlin's warning about modern judicial technocracy and depoliticization).
+3. **Challenge/Complicate:** Introduce an empirical edge case (e.g., applying Sartori's *façade* constitution model to contemporary Latin American regimes like Venezuela, or raising the challenge of administrative rulemaking in "total government").
+
+### 3. Structural Template for Each 250-Word Reply
+
+**[Paragraph 1: 100–125 words]**
+Directly engage their core thesis. Validate their argument, then introduce an analytical counter-dimension or extension using your First Scholarly Source (e.g., Sartori, 1962).
+
+**[Paragraph 2: 125–150 words]**
+Deepen the discussion by connecting their point to constitutional governance, institutional design, or administrative reality using your Second Scholarly Source (e.g., Loughlin, 2022, or McClellan, 2000). Show how these competing views alter our understanding of legitimate authority.
+
+**[Concluding Inquiry: 25–40 words]**
+End with a sharp, doctoral-level discussion question evaluating institutional feasibility or public policy implications.
+
+**References**
+[Include both sources formatted in APA 7 with hanging indents]
+
 ### Discussion Assignment Instructions (Official, Applies to All 6 Discussions)
 You will complete 6 Discussions in this course. You will post one thread of at least 750 words by 11:59 p.m. (ET) on Thursday of the assigned Module: Week. You must then post 3 replies of at least 250 words by 11:59 p.m. (ET) on Sunday of the assigned Module: Week. For each thread, you must support your assertions with at least 4 scholarly sources in current APA format. Each reply must incorporate at least 2 scholarly sources in current APA format. Acceptable sources include assigned sources, relevant books published by university or academic presses, and relevant peer-reviewed journal articles.
+
+## Instructor's General Feedback on Discussion Assignments (Dr. Erik S. Root, 2026-10-28, standing guidance)
+This is general guidance on how to approach **every** discussion assignment in this course (not feedback on a graded submission):
+- Answer **all parts** of the discussion question, and develop your argument.
+- Pay attention to pithy statements, and write concisely — see Strunk (*The Elements of Style*) if you need assistance.
+- Do **not** just regurgitate the readings. Think critically. Example: *What makes government legitimate?* The Declaration of Independence is **not** among this week's assigned readings. The Founders had a specific idea of what makes government legitimate, and this is not exactly what De Tocqueville thinks in this week's readings. "Suss that out if you dare," but always think hard and much about the arguments made.
+- Dr. Root emphasized Lancelot Fletcher's essay, **"Slow Reading"** ("in all seriousness") as the method for engaging with every assigned text — read for the author's actual intent before agreeing or disagreeing. See the course-level standing reference: [../slow_reading_lists_fletcher_notes.md](../slow_reading_lists_fletcher_notes.md).
 
 ## Assignments
 - **Course Requirements Checklist** — due as soon as the course opens (10/26/2026); required for attendance, or risk being dropped.
@@ -141,10 +191,13 @@ You will complete 6 Discussions in this course. You will post one thread of at l
 - **Loughlin (2022), *Against Constitutionalism* (Intro & Conclusion)** — read and summarized; see [assignments/reading_summary_loughlin_intro_conclusion.md](assignments/reading_summary_loughlin_intro_conclusion.md).
 - **Sartori (1962), "Constitutionalism: A Preliminary Discussion"** — read and summarized; see [assignments/reading_notes_sartori_1962_constitutionalism.md](assignments/reading_notes_sartori_1962_constitutionalism.md).
 - **Watch: The Origins and Nature of Constitutionalism (Dr. Jason Ross)** — watched and transcribed; see [assignments/dr_ross_origins_nature_constitutionalism_transcript.md](assignments/dr_ross_origins_nature_constitutionalism_transcript.md).
+- **Overall Analysis (McClellan, Loughlin, Sartori synthesis)** — plain-language big-picture summary tying all three authors together; see [assignments/overall_analysis_readings.md](assignments/overall_analysis_readings.md).
+- **Discussion Thread: The Origins and Nature of Constitutionalism** — submitted 2026-10-28; see [assignments/discussion_thread_origins_nature_constitutionalism.md](assignments/discussion_thread_origins_nature_constitutionalism.md) (original: [original_src_files/Discussion Thread - The Origins and Nature of Constitutionalism.docx](<original_src_files/Discussion Thread - The Origins and Nature of Constitutionalism.docx>)). Cites two new sources beyond the assigned readings: Brewer-Carías (2010) and Corrales (2015) on Venezuela as a façade-constitution case study.
+- **Discussion Replies (3, to Amel/Zaria/Shannon)** — submitted; see [assignments/discussion_replies_week01.md](assignments/discussion_replies_week01.md) (original: [original_src_files/Peer Responses Week01.docx](<original_src_files/Peer Responses Week01.docx>)). Cites additional sources: Madrazo (2016) on Mexico's Article 39 "right to revolution," Wood (1969) on early state constitutions, and Madison's Federalist No. 48.
 
 ## Quick Links
-- Assignments: [assignments/](assignments/) (McClellan pp. 1–60 reading summary; Loughlin Intro/Conclusion reading summary; Sartori 1962 study notes; Dr. Ross video transcript)
-- Feedback: [feedback/](feedback/) (empty — not yet received)
-- Original source files: [original_src_files/](original_src_files/) (PLCY 702 - Week 1 Reading Summary_ McClellan (Pages 1-60).docx; Reading Summary_ Loughlin, Against Constitutionalism (Introduction & Conclusion).docx; Sartori-ConstitutionalismPreliminaryDiscussion-1962.pdf)
+- Assignments: [assignments/](assignments/) (McClellan pp. 1–60 reading summary; Loughlin Intro/Conclusion reading summary; Sartori 1962 study notes; Dr. Ross video transcript; Overall Analysis synthesis; Discussion Thread submission; Discussion Replies submission)
+- Feedback: [feedback/](feedback/) ([week01_wrapup_feedback.md](feedback/week01_wrapup_feedback.md) — class-wide "Wrap Up Week 1" follow-up; no individual correction noted for this student)
+- Original source files: [original_src_files/](original_src_files/) (PLCY 702 - Week 1 Reading Summary_ McClellan (Pages 1-60).docx; Reading Summary_ Loughlin, Against Constitutionalism (Introduction & Conclusion).docx; Sartori-ConstitutionalismPreliminaryDiscussion-1962.pdf; Discussion Thread - The Origins and Nature of Constitutionalism.docx; Peer Responses Week01.docx)
 - Course overview: [../course_overview.md](../course_overview.md)
 
