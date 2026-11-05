@@ -71,7 +71,7 @@ Quick-scan table of every week. Click through to a week's `learning_objectives.m
 | Week | Topic / Focus | Status | Study Guide |
 |---|---|---|---|
 | 1 | Discussion: The Origins and Nature of Constitutionalism — define constitutionalism; empirical vs. normative uses; legitimacy of constitutionalism. McClellan pp. 1–60, 63–88; Laughlin Intro + Conclusion; "Constitutionalism: A Preliminary Discussion"; video | **Complete** — readings/video summarized; discussion thread + 3 peer replies submitted; class-wide wrap-up feedback logged | [week01/learning_objectives.md](week01/learning_objectives.md) |
-| 2 | Discussion: The Origins and Nature of American Constitutionalism (13 readings + 1 video) | Not started | [week02/learning_objectives.md](week02/learning_objectives.md) |
+| 2 | Discussion: The Origins and Nature of American Constitutionalism (13 readings + 1 video) | **In progress** — readings organized, study notes prepared, discussion framework ready; awaiting thread draft (due Thursday 11:59 p.m. ET) | [week02/learning_objectives.md](week02/learning_objectives.md) |
 | 3 | Discussion: Liberty and American Constitutionalism (8 readings + 1 video) | Not started | [week03/learning_objectives.md](week03/learning_objectives.md) |
 | 4 | Annotated Bibliography Assignment (4 readings, 1 review item, 1 video) | Not started | [week04/learning_objectives.md](week04/learning_objectives.md) |
 | 5 | Discussion: Equality and American Constitutionalism (9 readings + 1 video) | Not started | [week05/learning_objectives.md](week05/learning_objectives.md) |
