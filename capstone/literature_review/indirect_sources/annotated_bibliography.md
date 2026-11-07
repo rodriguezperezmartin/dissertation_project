@@ -1,3 +1,30 @@
+## PLCY 702 Week 2 — Discussion-Sourced References (2)
+Sources newly discovered and cited in student's Week 2 discussion replies (Nov 6–7, 2026). Not primary course readings but extend the course's conceptual framework through peer dialogue and historical examples.
+
+### [Morgan, 1958] The Puritan Dilemma: The Story of John Winthrop
+- **Citation (APA 7):** Morgan, E. S. (1958). *The Puritan dilemma: The story of John Winthrop*. Little, Brown and Company.
+- **Source type:** Monograph (historical narrative)
+- **Found via / URL:** Cited in student's Week 2 Discussion Reply 2 (Nov 6, 7:38 a.m.) as support for the connection between personal sacrifice, communal devotion, and constitutional legitimacy
+- **Retrieved:** 2026-11-06 (reference only; full PDF pending)
+- **Theme(s):** Puritan community formation, sacrifice as social bond, Winthrop's leadership
+- **Summary:** Historical account of John Winthrop and the Massachusetts Bay Colony, emphasizing how Winthrop's personal sacrifice (abandoning Groton Manor and his wealth) mirrored the sacrifices of his followers, creating an unbreakable civic/moral bond that undergirded the colony's constitution and governance.
+- **Relevance to coursework:** Demonstrates that pre-existing communal bonds (forged through shared sacrifice) preceded and enabled formal constitutional documents. Extends Prof. Root's \"People Before Parchment\" framework with a concrete historical/biographical example. Also relevant to PLCY 702's legitimacy question: constitutions succeed when grounded in authentic community commitment, not top-down design.
+- **Relevance to capstone:** Institutional resistance to change is partly rooted in genuine commitment to existing values/practices; policy designed to \"transform from the top down\" (e.g., forced digital health adoption without community buy-in) will fail absent the community sacrifice/commitment element that Morgan documents.
+- **Key quotes / data points:** [To be added once student provides full text summary.]
+
+### [Library of Congress, n.d.] The Mexican Revolution and the United States: Constitution of 1917
+- **Citation (APA 7):** Library of Congress. (n.d.). *The Mexican Revolution and the United States: Constitution of 1917*. https://www.loc.gov/exhibits/mexican-revolution-and-the-united-states/constitution-of-1917.html
+- **Source type:** Online exhibition/primary source collection
+- **Found via / URL:** Cited in student's Week 2 Discussion Reply 1 (Nov 6, 2:11 p.m.) as a comparative example of a constitution NOT grounded in pre-existing community bonds
+- **Retrieved:** 2026-11-06 (reference only; web-only source)
+- **Theme(s):** Constitution as top-down design vs. organic community foundation; federalism vs. centralization; elite-engineered vs. grassroots legitimacy
+- **Summary:** The Mexican Constitution of 1917, drafted by educated middle-class reformers seeking sweeping social/agrarian/economic transformation, lacked the grassroots \"forges of fire\" (pre-existing cultural/regional identity bonds) that undergird the U.S. Constitution. Result: less durable, weaker separation of powers, and recurring constitutional instability.
+- **Relevance to coursework:** Provides a direct counter-example to the American founding. PLCY 702 Week 2's core question is whether constitutions must reflect pre-existing community values to succeed. Mexico 1917 and the U.S. offer a natural comparison: U.S. Constitution formalized existing (Puritan/Quaker/Scots-Irish) community identities; Mexico's constitution attempted to engineer a new social order without those pre-existing bonds.
+- **Relevance to capstone:** Policy implementation fails when designed by elites without community input/buy-in. Mexico's digital health mandate (2026) repeats this pattern: centralized mandate without grassroots physician/provider/community investment in the transformation goal. Contrast: Guatemala's decentralized, donor-supported digital health roadmap builds on existing relationships/capacity.
+- **Key quotes / data points:** [To be added after full reading of exhibit.]
+
+---
+
 ### [Marotta, 2021] Book review: Counting: How We Use Numbers to Decide What Matters
 - **Citation (APA 7):** Marotta, L. (2021). Book review: Counting: How we use numbers to decide what matters. *Canadian Journal of Educational Administration and Policy, 198*, 124–125. https://journalhosting.ucalgary.ca/index.php/cjeap/article/view/73652
 - **Source type:** journal article (book review)

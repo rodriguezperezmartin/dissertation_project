@@ -166,17 +166,18 @@ _(Same as Week 1 per Prof. Root's standing guidance; see [../week01/learning_obj
 
 ## Session Status
 
-**Status:** Week 2 module scaffolded; readings organized; study notes prepared; framework ready for discussion drafting.
+**Status:** ✅ **COMPLETE** — Discussion thread submitted (1,034 words, 6 sources, Nov 5); 3 peer replies submitted (Nov 6–7); all files archived.
 
-**Next Steps (You):**
-1. Read all 13 readings + watch Dr. Ross video (use study notes to guide focused reading)
-2. Draft discussion thread (≥750 words, ≥4 sources) addressing all three sub-questions
-3. Submit thread by Thursday 11:59 p.m. ET
-4. Read peer threads (visible after your submission)
-5. Draft 3 peer replies (≥250 words, ≥2 sources each) using Extend/Contrast/Challenge method
-6. Submit replies by Sunday 11:59 p.m. ET
-7. Optionally review Prof. Root's feedback once posted
-8. Convert submitted docx files to markdown and add to [assignments/](assignments/)
-9. Log any new academic sources in capstone bibliography
+**Completed Work:**
+1. ✅ Read all 13 readings + watched Dr. Ross video
+2. ✅ Submitted discussion thread (Nov 5, 1,034 words, 6 sources) — all 3 sub-questions thoroughly addressed
+3. ✅ Read peer threads (Post-First unlocked after submission)
+4. ✅ Submitted 3 peer replies (Nov 6–7, 250+ words each, 2+ sources each)
+5. ✅ Converted all 4 files to markdown and archived
+6. ✅ Logged new bibliography sources (Morgan 1958, Library of Congress n.d.)
+7. ✅ Applied standing maintenance rule across all 6 tracking files
 
-**AI Assistant's Role:** Ideation, structural feedback, source suggestions, and organizing your notes — *never* graded prose.
+**Awaiting:**
+- Prof. Root's graded feedback (expected by end of module week)
+
+**Next Module:** Week 3 — Liberty and American Constitutionalism
