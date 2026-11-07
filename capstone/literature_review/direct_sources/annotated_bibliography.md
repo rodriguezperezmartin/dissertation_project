@@ -1,3 +1,32 @@
+## PLCY 702 Week 2 — Mexico Constitution Sources (2)
+Sources addressing Mexican constitutionalism, the origins of the 1917 Constitution, and rule of law failures. Directly relevant to capstone's emerging-economy case study (Mexico's digital health mandate 2026) and to understanding how policy implementation fails without organic community legitimacy or stable rule of law.
+
+### [Library of Congress, n.d.] The Mexican Revolution and the United States: Constitution of 1917
+- **Citation (APA 7):** Library of Congress. (n.d.). *The Mexican Revolution and the United States: Constitution of 1917*. https://www.loc.gov/exhibits/mexican-revolution-and-the-united-states/constitution-of-1917.html
+- **Source type:** Online exhibition/primary source collection
+- **Found via / URL:** Cited in student's Week 2 Discussion Reply 1; cross-referenced with PLCY 702 Week 2 comparative analysis
+- **Retrieved:** 2026-11-07
+- **Saved file:** [../../../../../coursework/PLCY702/week02/original_src_files/Constitution%20of%201917%20Created%20Educated%20Middle%20Class.docx](../../../../../coursework/PLCY702/week02/original_src_files/Constitution%20of%201917%20Created%20Educated%20Middle%20Class.docx) (source docx); study notes: [../../../../../coursework/PLCY702/week02/assignments/mexico_constitution_1917_study_notes.md](../../../../../coursework/PLCY702/week02/assignments/mexico_constitution_1917_study_notes.md)
+- **Theme(s):** Constitutional origins, elite vs. grassroots design, state legitimacy, federalism, land reform, labor rights
+- **Summary:** 1917 Mexican Constitution (137 articles) was drafted by educated middle-class reformers (50% university-educated, 30% revolutionary fighters) at a Constitutional Convention convened by Venustiano Carranza to legitimize the Revolution. Reflects top-down elite agenda (secularization via Article 3, land redistribution via Article 27, labor rights via Article 123) rather than organic grassroots community bonds. Ratified February 5, 1917; remains in force with 200+ amendments.
+- **Relevance to capstone:** Provides the clearest possible contrast to the U.S. Constitution's "People Before Parchment" principle (Prof. Root, PLCY 702 Week 2). Mexico's Constitution was designed by elites to transform society from the top down, lacking the pre-existing community bonds (Puritan covenants, Quaker assemblies, Scots-Irish localism) that underwrote U.S. legitimacy. This same pattern repeats in Mexico's 2026 digital health mandate—elite-driven, top-down, lacking grassroots physician/provider buy-in. Guatemala's decentralized approach offers an alternative precedent. Also exemplifies why policy designed to "transform from the top down" fails absent authentic community commitment.
+- **Key quotes / data points:** Essential articles: (1) Article 3 — free, obligatory, secular education (secularized state); (2) Article 27 — land redistribution, ban on foreign land ownership; (3) Article 123 — 8-hour workday, minimum wage, labor organizing rights. See study notes for full analysis.
+
+### [Author TBD] The Right to Revolution: Popular Sovereignty, Revolution and the Fragility of the Rule of Law in Mexico
+- **Citation (APA 7):** [Full citation to be completed after PDF metadata review]
+- **Source type:** Peer-reviewed journal article (legal/political science analysis)
+- **Found via / URL:** Provided by student for capstone/coursework integration
+- **Retrieved:** 2026-11-07
+- **Saved file:** [files/The%20Right%20to%20Revolution-%20Popular%20Sovereignty,%20Revolution%20and%20the%20Fragility%20of%20the%20Rule%20of%20Law%20in%20Mexico.pdf](files/The%20Right%20to%20Revolution-%20Popular%20Sovereignty,%20Revolution%20and%20the%20Fragility%20of%20the%20Rule%20of%20Law%20in%20Mexico.pdf); study notes: [../../../../../coursework/PLCY702/week02/assignments/right_to_revolution_mexico_study_notes.md](../../../../../coursework/PLCY702/week02/assignments/right_to_revolution_mexico_study_notes.md)
+- **Theme(s):** Rule of law vs. popular sovereignty, constitutional legitimacy, institutional fragility, right to revolution, amendment velocity, state capacity
+- **Summary:** Deep analysis of how Mexico's Constitution embeds a paradoxical principle: the people—not the law—are sovereign and can override, amend, or revolt against the Constitution at any time. This perpetual claim to "the right to revolution" creates constitutional instability. Unlike the U.S., where the Constitution is supreme and amendment is difficult (Article V requiring supermajority), Mexico treats the Constitution as negotiable and subject to perpetual popular override. Result: 200+ amendments in ~100 years (vs. 27 amendments in 230+ years in the U.S.); weak institutional constraint on executive power; chronic rule-of-law violations; extrajudicial killings; property rights insecurity; drug cartel challenge to state legitimacy.
+- **Relevance to capstone:** Explains why Mexico's institutions (despite a written Constitution) lack the stability of the U.S. system—not just because the Constitution lacked grassroots origins, but because it fails to establish rule of law as supreme. When the law itself is negotiable and subject to popular override, government actors, judges, physicians, and citizens have weak incentive to comply. This directly applies to Mexico's 2026 digital health mandate: without a stable rule-of-law framework, the mandate becomes just another policy subject to institutional resistance, selective compliance, and potential override. Moreover, the "right to revolution" principle means actors can claim constitutional justification for non-compliance. Guatemala's approach (building on existing relationships, creating incentives rather than legal mandates) avoids this trap.
+- **Key quotes / data points:** Mexican Constitution's embedding of "the people" as ultimate law; comparison table (U.S. vs. Mexico: rule of law supremacy, amendment difficulty, executive constraint, property rights security, judicial independence, institutional stability). See study notes for full legal analysis and implications.
+
+---
+
+## PLCY 700 — Capstone Direct Sources (formerly categorized by context)
+
 ### [Wilson, 1989] Bureaucracy: What Government Agencies Do and Why They Do It
 - **Citation (APA 7):** Wilson, J. Q. (1989). *Bureaucracy: What government agencies do and why they do it*. Basic Books.
 - **Source type:** book

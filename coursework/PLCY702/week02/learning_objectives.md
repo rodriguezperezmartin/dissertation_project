@@ -154,11 +154,17 @@ _(Same as Week 1 per Prof. Root's standing guidance; see [../week01/learning_obj
 
 ## Quick Links
 
-- **Discussion Thread:** [assignments/discussion_thread_origins_nature_american_constitutionalism.md](assignments/discussion_thread_origins_nature_american_constitutionalism.md) — Placeholder; to be completed after you draft & submit your thread
-- **Discussion Replies:** [assignments/discussion_replies_week02.md](assignments/discussion_replies_week02.md) — Placeholder; to be completed after you read peers' threads
-- **Feedback:** [feedback/](feedback/) — Empty; awaiting Prof. Root's feedback once you submit
-- **Study Notes:** [study_notes/](study_notes/) — All 7 reading summaries in markdown
-- **Original Source Files:** [original_src_files/](original_src_files/) — PDFs of all assigned readings
+- **Discussion Thread:** [assignments/discussion_thread_origins_nature_american_constitutionalism.md](assignments/discussion_thread_origins_nature_american_constitutionalism.md) — Submitted thread, 1,034 words, 6 sources
+- **Discussion Replies:** 
+  - [assignments/discussion_reply_01_week02.md](assignments/discussion_reply_01_week02.md) — Mexico Constitution comparison
+  - [assignments/discussion_reply_02_week02.md](assignments/discussion_reply_02_week02.md) — Winthrop sacrifice/Morgan  
+  - [assignments/discussion_reply_03_week02.md](assignments/discussion_reply_03_week02.md) — China Warring States contrast
+- **Supplementary Study Materials:**
+  - [assignments/mexico_constitution_1917_study_notes.md](assignments/mexico_constitution_1917_study_notes.md) — Deep-dive on how Mexico's 1917 Constitution was elite-designed and lacked grassroots legitimacy (comparative counter-example to U.S. founding)
+  - [assignments/right_to_revolution_mexico_study_notes.md](assignments/right_to_revolution_mexico_study_notes.md) — Analysis of how Mexico's Constitution embeds "popular sovereignty" over "rule of law," creating institutional fragility and chronic legal ambiguity
+- **Feedback:** [feedback/](feedback/) — Awaiting Prof. Root's graded feedback
+- **Study Notes:** [study_notes/](study_notes/) — All 7 course reading summaries
+- **Original Source Files:** [original_src_files/](original_src_files/) — PDFs of all assigned readings + supplementary sources (Constitution 1917 docx, Right to Revolution PDF)
 - **Course Overview:** [../course_overview.md](../course_overview.md) — Course-level map and aggregate outcomes
 - **Week 1 Reference:** [../week01/learning_objectives.md](../week01/learning_objectives.md) — Previous week for reference on discussion standards
 
