@@ -2,7 +2,7 @@
 
 **Course:** PLCY 702: Founding Era and the Constitution (Prof. Erik S. Root)  
 **Module:** Week 3 (Module dates TBD)  
-**Status:** 🔄 In progress — reading assignment pending from professor
+**Status:** 🔄 In progress — all 4 folkway readings summarized; discussion thread drafting next
 
 ---
 
@@ -28,12 +28,18 @@ Upon successful completion of this module, you will be able to:
 
 ## Reading List
 
-_Awaiting reading assignment from Prof. Root — will populate once module materials are released._
+**Source text for all four readings:** Fischer, D. H. (1989). *Albion's seed: Four British folkways in America*. Oxford University Press.
 
-**Placeholder sections:**
-- Secondary sources: TBD (expected: additional works by Fischer, discussions of colonial liberty concepts, etc.)
-- Primary documents: TBD (expected: colonial charters, founding documents, protest letters, speeches)
-- Required video lecture: TBD (expected: Dr. Ross video on colonial liberty)
+Each of the four English subcultures gets its own reading assignment, covering that folkway's distinctive "Order Ways," "Power Ways," and "Freedom Ways" sections. Study notes for all four are complete — see table below.
+
+| # | Folkway | Pages | Sections | Liberty Concept | Study Notes |
+|---|---|---|---|---|---|
+| 1 | **Puritan** (Massachusetts Bay) | pp. 189–205 | Order as Unity; Politics of Town Meeting Government; The Puritan Idea of Ordered Liberty | **Ordered Liberty** — freedom to do what is good, within covenant community | [study_notes/fischer_puritan_massachusetts_ordered_liberty_pp189-205.md](study_notes/fischer_puritan_massachusetts_ordered_liberty_pp189-205.md) |
+| 2 | **Cavalier** (Virginia) | pp. 398–418 | Order as Hierarchy; Politics of Court and Vestry Government; The Anglican Idea of Hegemonic Liberty | **Hegemonic Liberty** — freedom to rule/command, scaled to social rank | [study_notes/fischer_cavalier_virginia_hegemonic_liberty_pp398-418.md](study_notes/fischer_cavalier_virginia_hegemonic_liberty_pp398-418.md) |
+| 3 | **Quaker** (Delaware Valley) | pp. 584–603 | Order as Peace; Politics of Commission Government; The Quaker Idea of Reciprocal Liberty | **Reciprocal Liberty** — freedom of conscience, conditioned on respecting others' equal liberty | [study_notes/fischer_quaker_delaware_reciprocal_liberty_pp584-603.md](study_notes/fischer_quaker_delaware_reciprocal_liberty_pp584-603.md) |
+| 4 | **Scots-Irish** (Backcountry) | pp. 765–782 | Order as *Lex Talionis*; Politics of Personal Government; The Border Idea of Natural Liberty | **Natural Liberty** — primal freedom from external restraint, defended by self-help | [study_notes/fischer_backcountry_scots_irish_natural_liberty_pp765-782.md](study_notes/fischer_backcountry_scots_irish_natural_liberty_pp765-782.md) |
+
+**Still pending:** additional readings/video, if any, beyond this first Fischer set — awaiting confirmation from Prof. Root on whether more readings follow.
 
 ---
 
@@ -136,10 +142,14 @@ _To be refined once full reading list arrives, but likely to include:_
 
 ## Quick Links
 
-**Study Materials (when available):**
-- Reading list: [TBD — awaiting professor's assignment]
-- Study notes: [study_notes/](study_notes/) (empty — to be populated as readings are received)
-- Original source files: [original_src_files/](original_src_files/) (empty — to be populated)
+**Study Materials:**
+- Reading list: see table above (Fischer, *Albion's Seed*, 4 folkway readings)
+- Study notes: [study_notes/](study_notes/) — 4 complete folkway study guides:
+  - [fischer_puritan_massachusetts_ordered_liberty_pp189-205.md](study_notes/fischer_puritan_massachusetts_ordered_liberty_pp189-205.md)
+  - [fischer_cavalier_virginia_hegemonic_liberty_pp398-418.md](study_notes/fischer_cavalier_virginia_hegemonic_liberty_pp398-418.md)
+  - [fischer_quaker_delaware_reciprocal_liberty_pp584-603.md](study_notes/fischer_quaker_delaware_reciprocal_liberty_pp584-603.md)
+  - [fischer_backcountry_scots_irish_natural_liberty_pp765-782.md](study_notes/fischer_backcountry_scots_irish_natural_liberty_pp765-782.md)
+- Original source files: [original_src_files/](original_src_files/) (empty — to be populated with PDF/source if available)
 
 **Assignment Preparation:**
 - Discussion thread: [assignments/](assignments/) (placeholder; to be completed once readings are digested)
@@ -157,16 +167,13 @@ _To be refined once full reading list arrives, but likely to include:_
 ## Next Steps
 
 1. ✅ **Scaffolding complete** — Week 3 framework ready
-2. ⏳ **Awaiting reading assignment** from Prof. Root — once received, will:
-   - Extract and summarize all assigned readings (secondary sources, primary documents, video transcript)
-   - Organize into study materials in `study_notes/`
-   - Archive original PDFs in `original_src_files/`
-   - Refine "Recommended Sources" section above with exact citations and guidance on which reading addresses which subculture / liberty concept
-3. 🎯 **Begin reading** once assignment is received
-4. ✍️ **Draft discussion thread** by Wednesday (allow time for peer review/revision)
-5. 📤 **Submit thread** Thursday 11:59 p.m. ET
-6. 💬 **Read peer threads** and draft 3 replies (Extend/Contrast/Challenge method)
-7. 📤 **Submit replies** Sunday 11:59 p.m. ET
+2. ✅ **Reading assignment received** — Fischer, *Albion's Seed*, four folkway readings (pp. 189–205, 398–418, 584–603, 765–782)
+3. ✅ **Study notes complete** — all 4 folkway study guides created in `study_notes/`, each with section-by-section notes, page citations, comparative tables, and capstone connections
+4. 🎯 **Select your subculture** — choose one of the four folkways to build your discussion thread around (or read all four for the fullest comparative picture before choosing)
+5. ✍️ **Draft discussion thread** by Wednesday (allow time for peer review/revision) — use the chosen folkway's study notes' "Comparative Note" and "Questions Raised for Today" sections as a starting structure
+6. 📤 **Submit thread** Thursday 11:59 p.m. ET
+7. 💬 **Read peer threads** and draft 3 replies (Extend/Contrast/Challenge method) — consider replying to peers who chose *different* folkways, using your own folkway's framework to Extend/Contrast/Challenge their analysis
+8. 📤 **Submit replies** Sunday 11:59 p.m. ET
 
 ---
 
@@ -176,5 +183,7 @@ _To be refined once full reading list arrives, but likely to include:_
 The ways different communities understand liberty — autonomy vs. collective welfare, individual conscience vs. communal discipline, local vs. national authority — directly parallel your research question on digital health infrastructure implementation.
 
 **Connection example:** If one subculture prioritized *local autonomy* as core to liberty (e.g., Backcountry or Pennsylvania assemblies), how does that tension between local control and centralized policy mandate shape modern healthcare reform adoption? Mexico's 2026 digital mandate is centralized; Guatemala's approach emphasizes decentralization/local partnership. These may reflect different cultural/historical understandings of liberty and authority.
+
+Each folkway's study notes includes a dedicated "Capstone Connection" section applying that folkway's liberty/authority framework to the healthcare digital infrastructure case studies — see [study_notes/](study_notes/) for all four.
 
 Keep this in mind as you engage with the readings and discussion this week.
