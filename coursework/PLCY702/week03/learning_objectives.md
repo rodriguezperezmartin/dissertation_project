@@ -44,6 +44,7 @@ Each of the four English subcultures gets its own reading assignment, covering t
 | # | Author/Work | Citation | Relevance | Study Notes |
 |---|---|---|---|---|
 | 5 | Tocqueville, *Democracy in America*, Vol. 1, Pt. 1, Ch. 4 | Tocqueville, A. de. (2012). *Democracy in America: In two volumes* (E. Nolla, Ed., & J. T. Schleifer, Trans.). Liberty Fund. (Original work published 1835). | "On the Principle of the Sovereignty of the People in America" — traces popular sovereignty's origins to New England townships (Fischer's Puritan folkway), its codification after the Revolution, and the risk of "tyranny of the majority" | [study_notes/tocqueville_democracy_in_america_vol1_pt1_ch4_sovereignty_of_the_people.md](study_notes/tocqueville_democracy_in_america_vol1_pt1_ch4_sovereignty_of_the_people.md) |
+| 6 | Tocqueville, *Democracy in America*, Vol. 1, Pt. 1, Ch. 5 | Tocqueville, A. de. (2012). *Democracy in America: In two volumes* (E. Nolla, Ed., & J. T. Schleifer, Trans.). Liberty Fund. (Original work published 1835). | "Necessity of Examining the Condition of the States Before That of the Union at Large" — the township as the "primary school" of liberty; governmental vs. administrative centralization; the "spirit of the township" as a bulwark against tyranny | [study_notes/tocqueville_democracy_in_america_vol1_pt1_ch5_township_decentralization.md](study_notes/tocqueville_democracy_in_america_vol1_pt1_ch5_township_decentralization.md) |
 
 **Still pending:** additional readings/video, if any, beyond this set — awaiting confirmation from Prof. Root on whether more readings follow.
 
@@ -149,13 +150,14 @@ _To be refined once full reading list arrives, but likely to include:_
 ## Quick Links
 
 **Study Materials:**
-- Reading list: see table above (Fischer, *Albion's Seed*, 4 folkway readings + Tocqueville Ch. 4)
-- Study notes: [study_notes/](study_notes/) — 5 complete study guides:
+- Reading list: see table above (Fischer, *Albion's Seed*, 4 folkway readings + Tocqueville Ch. 4 & Ch. 5)
+- Study notes: [study_notes/](study_notes/) — 6 complete study guides:
   - [fischer_puritan_massachusetts_ordered_liberty_pp189-205.md](study_notes/fischer_puritan_massachusetts_ordered_liberty_pp189-205.md)
   - [fischer_cavalier_virginia_hegemonic_liberty_pp398-418.md](study_notes/fischer_cavalier_virginia_hegemonic_liberty_pp398-418.md)
   - [fischer_quaker_delaware_reciprocal_liberty_pp584-603.md](study_notes/fischer_quaker_delaware_reciprocal_liberty_pp584-603.md)
   - [fischer_backcountry_scots_irish_natural_liberty_pp765-782.md](study_notes/fischer_backcountry_scots_irish_natural_liberty_pp765-782.md)
   - [tocqueville_democracy_in_america_vol1_pt1_ch4_sovereignty_of_the_people.md](study_notes/tocqueville_democracy_in_america_vol1_pt1_ch4_sovereignty_of_the_people.md)
+  - [tocqueville_democracy_in_america_vol1_pt1_ch5_township_decentralization.md](study_notes/tocqueville_democracy_in_america_vol1_pt1_ch5_township_decentralization.md)
 - Original source files: [original_src_files/](original_src_files/) (empty — to be populated with PDF/source if available)
 
 **Assignment Preparation:**
@@ -174,8 +176,8 @@ _To be refined once full reading list arrives, but likely to include:_
 ## Next Steps
 
 1. ✅ **Scaffolding complete** — Week 3 framework ready
-2. ✅ **Reading assignment received** — Fischer, *Albion's Seed*, four folkway readings (pp. 189–205, 398–418, 584–603, 765–782) + Tocqueville, *Democracy in America*, Vol. 1, Pt. 1, Ch. 4
-3. ✅ **Study notes complete** — all 5 study guides created in `study_notes/`, each with section-by-section notes, page citations, comparative tables, and capstone connections
+2. ✅ **Reading assignment received** — Fischer, *Albion's Seed*, four folkway readings (pp. 189–205, 398–418, 584–603, 765–782) + Tocqueville, *Democracy in America*, Vol. 1, Pt. 1, Ch. 4 & Ch. 5
+3. ✅ **Study notes complete** — all 6 study guides created in `study_notes/`, each with section-by-section notes, page citations, comparative tables, and capstone connections
 4. 🎯 **Select your subculture** — choose one of the four folkways to build your discussion thread around (or read all four for the fullest comparative picture before choosing)
 5. ✍️ **Draft discussion thread** by Wednesday (allow time for peer review/revision) — use the chosen folkway's study notes' "Comparative Note" and "Questions Raised for Today" sections as a starting structure
 6. 📤 **Submit thread** Thursday 11:59 p.m. ET
