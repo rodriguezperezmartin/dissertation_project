@@ -2,7 +2,7 @@
 
 **Course:** PLCY 702: Founding Era and the Constitution (Prof. Erik S. Root)  
 **Module:** Week 3 (Module dates TBD)  
-**Status:** 🔄 In progress — all 4 folkway readings summarized; discussion thread drafting next
+**Status:** ✅ Discussion thread submitted (Nov. 12, 2026); 🎯 peer replies in progress
 
 ---
 
@@ -182,11 +182,11 @@ _To be refined once full reading list arrives, but likely to include:_
 1. ✅ **Scaffolding complete** — Week 3 framework ready
 2. ✅ **Reading assignment received** — Fischer, *Albion's Seed*, four folkway readings (pp. 189–205, 398–418, 584–603, 765–782); Tocqueville, *Democracy in America*, Vol. 1, Pt. 1, Ch. 4 & Ch. 5; McClellan, *Liberty, Order, and Justice*, pp. 107–120 & 171–187
 3. ✅ **Study notes complete** — all 8 study guides created in `study_notes/`, each with section-by-section notes, page citations, comparative tables, and capstone connections
-4. 🎯 **Select your subculture** — choose one of the four folkways to build your discussion thread around (or read all four for the fullest comparative picture before choosing)
-5. ✍️ **Draft discussion thread** by Wednesday (allow time for peer review/revision) — use the chosen folkway's study notes' "Comparative Note" and "Questions Raised for Today" sections as a starting structure
-6. 📤 **Submit thread** Thursday 11:59 p.m. ET
-7. 💬 **Read peer threads** and draft 3 replies (Extend/Contrast/Challenge method) — consider replying to peers who chose *different* folkways, using your own folkway's framework to Extend/Contrast/Challenge their analysis
-8. 📤 **Submit replies** Sunday 11:59 p.m. ET
+4. ✅ **Subculture selected** — Puritan (Massachusetts Bay) — "Ordered Liberty" framework
+5. ✅ **Discussion thread submitted** — "Liberty and American Constitutionalism – Module 3" (Puritan "Ordered Liberty" analysis, 1,100+ words, submitted Nov. 12, 2026) — see [assignments/discussion_thread_puritan_ordered_liberty.md](assignments/discussion_thread_puritan_ordered_liberty.md)
+6. 🎯 **Peer replies pending** — Read classmates' threads and draft 3 replies (Extend/Contrast/Challenge method) — consider replying to peers who chose *different* folkways, using Puritan framework to Extend/Contrast/Challenge their analysis
+7. 📤 **Submit replies** by Sunday 11:59 p.m. ET
+8. 📋 **Await graded feedback** from Prof. Root
 
 ---
 
