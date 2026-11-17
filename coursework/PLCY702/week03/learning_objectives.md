@@ -165,8 +165,13 @@ _To be refined once full reading list arrives, but likely to include:_
 - Original source files: [original_src_files/](original_src_files/) (empty — to be populated with PDF/source if available)
 
 **Assignment Preparation:**
-- Discussion thread: [assignments/](assignments/) (placeholder; to be completed once readings are digested)
-- Peer replies: [assignments/](assignments/) (placeholder; to be completed once peer threads are posted)
+- Discussion thread: [assignments/discussion_thread_puritan_ordered_liberty.md](assignments/discussion_thread_puritan_ordered_liberty.md) (submitted Nov. 12, 2026; Puritan "ordered liberty" analysis, 1,100+ words)
+- Peer replies — individual files:
+  - [assignments/discussion_reply_01_week03.md](assignments/discussion_reply_01_week03.md) — Reply to Emma on Quaker reciprocal liberty (~390 words)
+  - [assignments/discussion_reply_02_week03.md](assignments/discussion_reply_02_week03.md) — Reply to Robert on local participation (~430 words)
+  - [assignments/discussion_reply_03_week03.md](assignments/discussion_reply_03_week03.md) — Reply to Amel on constitutional limits (~480 words)
+- Peer replies — combined file: [assignments/discussion_replies_week03.md](assignments/discussion_replies_week03.md) (all three replies with shared metadata)
+- Professor wrap-up: [assignments/professor_wrap_up_week03.md](assignments/professor_wrap_up_week03.md) (Prof. Root's Week 3 summary and key takeaways)
 - Feedback: [feedback/](feedback/) (empty — awaiting Prof. Root's graded feedback)
 
 **Course Context:**
@@ -184,9 +189,10 @@ _To be refined once full reading list arrives, but likely to include:_
 3. ✅ **Study notes complete** — all 8 study guides created in `study_notes/`, each with section-by-section notes, page citations, comparative tables, and capstone connections
 4. ✅ **Subculture selected** — Puritan (Massachusetts Bay) — "Ordered Liberty" framework
 5. ✅ **Discussion thread submitted** — "Liberty and American Constitutionalism – Module 3" (Puritan "Ordered Liberty" analysis, 1,100+ words, submitted Nov. 12, 2026) — see [assignments/discussion_thread_puritan_ordered_liberty.md](assignments/discussion_thread_puritan_ordered_liberty.md)
-6. ✅ **Peer replies submitted** — 3 replies (Extend/Contrast/Challenge method) addressing Emma (Quaker reciprocal liberty), Robert (local participation), and Amel (constitutional limits); each 250+ words, 2+ sources — see [assignments/discussion_replies_week03.md](assignments/discussion_replies_week03.md)
+6. ✅ **Peer replies submitted** — 3 replies (Extend/Contrast/Challenge method) addressing Emma (Quaker reciprocal liberty), Robert (local participation), and Amel (constitutional limits); each 250+ words, 2+ sources — see [assignments/discussion_reply_01_week03.md](assignments/discussion_reply_01_week03.md), [assignments/discussion_reply_02_week03.md](assignments/discussion_reply_02_week03.md), [assignments/discussion_reply_03_week03.md](assignments/discussion_reply_03_week03.md) (or combined: [assignments/discussion_replies_week03.md](assignments/discussion_replies_week03.md))
 7. ✅ **Submit replies** — completed Nov. 17, 2026
-8. 📋 **Await graded feedback** from Prof. Root
+8. ✅ **Professor wrap-up received** — Prof. Root's Week 3 summary on De Tocqueville's observations on sovereignty, centralization, and the people's consent — see [assignments/professor_wrap_up_week03.md](assignments/professor_wrap_up_week03.md)
+9. 📋 **Await graded feedback** from Prof. Root
 
 ---
 
