@@ -65,28 +65,35 @@ Watch for audio commentary on assignments — Prof. Root leaves these selectivel
 
 **Assignment Type:** Research preparation and thesis refinement  
 **Due Date:** By Sunday 11:59 p.m. ET (Week 4 deadline)  
-**Points:** 100 (see course grading breakdown)
+**Points:** 100 (28 pts research interest + 15 pts source selection + 27 pts annotation substance + 30 pts grammar/style)  
+**Full Details:** See [ASSIGNMENT_DETAILS_Annotated-Bibliography.md](assignments/ASSIGNMENT_DETAILS_Annotated-Bibliography.md) for complete rubric, formatting requirements, and capstone integration guidance
 
 ### Assignment Overview
 
 The Annotated Bibliography serves dual purposes:
 1. **Narrowing your research question** — connecting your public policy interest to founding-era constitutional principles
-2. **Building your capstone literature foundation** — identifying 8 peer-reviewed sources on constitutional issues relevant to your research
+2. **Building your capstone literature foundation** — identifying at least 10 peer-reviewed sources on constitutional issues relevant to your research
 
 ### Required Components
 
-1. **Provisional Research Question (1 paragraph, 5–8 sentences)**
-   - Define your research interest in the context of American constitutionalism
-   - Culminate in a clear, provisional research question connecting founding-era principles to your policy area
-   - **Capstone opportunity:** Frame the question around healthcare digital infrastructure + emerging economies + constitutional constraints (e.g., "How do federalism principles and constitutional limits on administrative power shape digital health infrastructure adoption in emerging democracies?" or "To what extent do traditional constitutional protections of local autonomy explain different healthcare policy choices in Guatemala vs. Mexico?")
+1. **Research Interest Statement (1 paragraph, complete but concise — aim for 150–200 words)**
+   - Define your public policy research interest in the context of American constitutionalism and your doctoral program
+   - Include your doctoral program and cognate area
+   - Explain how your research interest is consistent with your chosen doctoral program and cognate
+   - Culminate in a clear, provisional research question connecting founding-era constitutional principles to your policy area
+   - **Capstone opportunity:** Frame the question around healthcare digital infrastructure + emerging economies + constitutional constraints
+     - Example 1: "How do federalism principles and constitutional limits on administrative power shape digital health infrastructure adoption in emerging democracies?"
+     - Example 2: "To what extent do traditional constitutional protections of local autonomy explain different healthcare policy choices in Guatemala vs. Mexico?"
+     - Example 3: "What role do constitutional protections of property rights and due process play in shaping resistance to centralized health data mandates in emerging economies?"
 
-2. **Annotated Bibliography (8 peer-reviewed sources)**
-   - Each source: APA 7 citation + 1-paragraph annotation (5–8 sentences)
+2. **Annotated Bibliography (At Least 10 Peer-Reviewed Sources)**
+   - Each source: APA 7 citation + annotation (200–250 words)
    - Annotation should include:
-     - Relevance: How does this source address constitutional principles relevant to your research question?
-     - Methodology/Approach: What is the author's main argument or analytical framework?
-     - Key Findings: What are the central conclusions?
-     - Application: How does this source inform your capstone/policy research?
+     - **Central Thesis/Research Question:** What is the source's main argument or research question?
+     - **Methodology/Approach:** How does the author support their thesis? What analytical framework or evidence is used?
+     - **Key Findings:** What are the central conclusions?
+     - **Relevance/Applicability:** How does this source address constitutional principles relevant to your research question? How does this inform your capstone/policy research on healthcare digital infrastructure in emerging economies?
+   - **Template Reference:** See [REFERENCE_Sample-Annotated-Bibliography-graduate.pdf](REFERENCE_Sample-Annotated-Bibliography-graduate.pdf) for Liberty University's official format example (title page, alphabetization, annotation structure, APA 7 formatting)
 
 ### Recommended Sources Strategy
 
@@ -141,11 +148,12 @@ _To be populated as readings are assigned and completed._
    - McClellan chapters on federalism/Articles
    - Federalist Paper No. 13
 3. 📝 **Create study notes** as readings are completed — add to `study_notes/` folder
-4. 🔍 **Begin literature search** for Annotated Bibliography — identify 8 peer-reviewed sources on constitutionalism + your research interest (healthcare digital infrastructure in emerging economies)
-5. ✍️ **Draft provisional research question** (1 paragraph) connecting Week 4 federalism themes to your capstone focus
-6. 📋 **Complete Annotated Bibliography assignment** — 8 sources with citations and 1-paragraph annotations
-7. 📤 **Submit by Week 4 deadline** — Sunday 11:59 p.m. ET
-8. 🎯 **Integrate findings into capstone** — Add annotated sources to [capstone/literature_review/](../../capstone/literature_review/) and note connections between federalism/constitutional limits and healthcare policy case studies (Guatemala, Mexico)
+4. 🔍 **Begin literature search** for Annotated Bibliography — identify at least 10 peer-reviewed academic sources on constitutionalism + your research interest (healthcare digital infrastructure in emerging economies). Reference: [REFERENCE_Sample-Annotated-Bibliography-graduate.pdf](assignments/REFERENCE_Sample-Annotated-Bibliography-graduate.pdf)
+5. ✍️ **Draft research interest statement** (1 paragraph, 150–200 words) — define public policy area, include program/cognate, culminate in provisional research question connecting Week 4 federalism themes to your capstone focus
+6. 📋 **Complete Annotated Bibliography assignment** — at least 10 sources with APA 7 citations and 200–250 word annotations per source (central thesis, methodology, key findings, relevance to your research question)
+7. 📋 **Format and proofread** — proper title page (name, course, instructor, date), alphabetized sources, grammar/style check (see rubric: 30 pts for grammar/style, 27 pts for annotation substance, 15 pts for source selection, 28 pts for research interest definition = 100 pts total)
+8. 📤 **Submit by Week 4 deadline** — Sunday 11:59 p.m. ET (first submission used for grading per LUO policy)
+9. 🎯 **Integrate findings into capstone** — Add at least 10 annotated sources to [capstone/literature_review/indirect_sources/](../../capstone/literature_review/indirect_sources/) and note connections between federalism/constitutional limits and healthcare policy case studies (Guatemala, Mexico)
 
 ---
 
