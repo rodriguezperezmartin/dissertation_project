@@ -2,7 +2,7 @@
 
 **Course:** PLCY 702: Founding Era and the Constitution (Prof. Erik S. Root)  
 **Module:** Week 3 (Module dates TBD)  
-**Status:** ✅ Discussion thread submitted (Nov. 12, 2026); 🎯 peer replies in progress
+**Status:** ✅ Discussion thread submitted (Nov. 12, 2026); ✅ peer replies submitted (Nov. 17, 2026); 📋 awaiting Prof. Root's graded feedback
 
 ---
 
@@ -184,8 +184,8 @@ _To be refined once full reading list arrives, but likely to include:_
 3. ✅ **Study notes complete** — all 8 study guides created in `study_notes/`, each with section-by-section notes, page citations, comparative tables, and capstone connections
 4. ✅ **Subculture selected** — Puritan (Massachusetts Bay) — "Ordered Liberty" framework
 5. ✅ **Discussion thread submitted** — "Liberty and American Constitutionalism – Module 3" (Puritan "Ordered Liberty" analysis, 1,100+ words, submitted Nov. 12, 2026) — see [assignments/discussion_thread_puritan_ordered_liberty.md](assignments/discussion_thread_puritan_ordered_liberty.md)
-6. 🎯 **Peer replies pending** — Read classmates' threads and draft 3 replies (Extend/Contrast/Challenge method) — consider replying to peers who chose *different* folkways, using Puritan framework to Extend/Contrast/Challenge their analysis
-7. 📤 **Submit replies** by Sunday 11:59 p.m. ET
+6. ✅ **Peer replies submitted** — 3 replies (Extend/Contrast/Challenge method) addressing Emma (Quaker reciprocal liberty), Robert (local participation), and Amel (constitutional limits); each 250+ words, 2+ sources — see [assignments/discussion_replies_week03.md](assignments/discussion_replies_week03.md)
+7. ✅ **Submit replies** — completed Nov. 17, 2026
 8. 📋 **Await graded feedback** from Prof. Root
 
 ---
