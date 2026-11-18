@@ -2,7 +2,7 @@
 
 **Course:** PLCY 702: Founding Era and the Constitution (Prof. Erik S. Root)  
 **Module:** Week 4 (Halfway Point)  
-**Status:** 🔄 Just beginning — module materials reviewed; reading assignments to follow
+**Status:** 🔄 In progress — readings confirmed (Nov. 17, 2026); study notes complete for all 5 readings + Dr. Ross video; roadmap drafted for Annotated Bibliography assignment
 
 ---
 
@@ -44,16 +44,18 @@ Watch for audio commentary on assignments — Prof. Root leaves these selectivel
 
 ---
 
-## Reading List
+## Reading List (Confirmed Nov. 17, 2026)
 
-**To be completed as module unfolds.** Based on Prof. Root's guidance, expected readings likely include:
+| # | Author/Work | Pages | Citation | Focus Area | Study Notes |
+|---|---|---|---|---|---|
+| 1 | McClellan, *Liberty, Order, and Justice* — Articles of Confederation | pp. 121–163 | McClellan, J. (2000). *Liberty, order, and justice: An introduction to the constitutional principles of American government* (3rd ed.). Liberty Fund. | Drafting, structure, strengths/weaknesses of the Articles of Confederation | [mcclellan_articles_of_confederation_pp121-163.md](study_notes/mcclellan_articles_of_confederation_pp121-163.md) |
+| 2 | McClellan, *Liberty, Order, and Justice* — Road to Philadelphia | pp. 230–240 | McClellan, J. (2000). *Liberty, order, and justice* (3rd ed.). Liberty Fund. | Mount Vernon Conference, Annapolis Convention, Shays's Rebellion, authorization of the Constitutional Convention | [mcclellan_road_to_philadelphia_convention_pp230-240.md](study_notes/mcclellan_road_to_philadelphia_convention_pp230-240.md) |
+| 3 | McClellan — Imperial Roots of American Federalism | pp. 289–297 | McClellan, J. (2000). *Liberty, order, and justice* (3rd ed.). Liberty Fund. | Pre-Revolutionary "dominion theory" of the British Empire as the intellectual origin of American federalism | [mcclellan_imperial_roots_american_federalism_pp289-297.md](study_notes/mcclellan_imperial_roots_american_federalism_pp289-297.md) |
+| 4 | Tocqueville, *Democracy in America*, Vol. 1, Pt. 1, Ch. 5 — Necessity of Studying the States Before the Union | Ch. 5 (opening section) | Tocqueville, A. de. (2012). *Democracy in America: In two volumes* (E. Nolla, Ed., & J. T. Schleifer, Trans.). Liberty Fund. (Original work published 1835). | Methodological argument for studying states/townships before the federal Union | [tocqueville_vol1_pt1_ch5_necessity_examining_states_before_union.md](study_notes/tocqueville_vol1_pt1_ch5_necessity_examining_states_before_union.md) |
+| 5 | Hendrickson, *Peace Pact: The Lost World of the American Founding* | General/background (no specific range assigned) | Hendrickson, D. C. (2003). *Peace pact: The lost world of the American founding*. University Press of Kansas. | Founding reframed as an interstate "peace pact" — international-relations lens on federalism | [hendrickson_peace_pact_lost_world_american_founding.md](study_notes/hendrickson_peace_pact_lost_world_american_founding.md) |
+| — | Dr. Jason Ross — Week 4 Video, "Federalism and American Constitutionalism" | N/A | Ross, J. (2026). *Federalism and American constitutionalism* [Video lecture transcript]. PLCY 702, Liberty University. | Colonial origins of federalism; federal British Empire theory; Tocqueville's township thesis; modern relevance | [dr_jason_ross_week4_video.md](study_notes/dr_jason_ross_week4_video.md) |
 
-| # | Author/Work | Citation (Likely) | Focus Area | Status |
-|---|---|---|---|---|
-| 1 | *Peace Pact* (Articles of Confederation) | To be confirmed | Origins of confederation; practical difficulties; necessity for Constitution | Awaiting confirmation |
-| 2 | Tocqueville, *Democracy in America*, Vol. 1, Pt. 1, Ch. 5 | Tocqueville, A. de. (2012). *Democracy in America: In two volumes* (E. Nolla, Ed., & J. T. Schleifer, Trans.). Liberty Fund. (Original work published 1835). | Sovereignty of the people; states vs. national authority; administrative centralization | Assigned |
-| 3 | McClellan, *Liberty, Order, and Justice*, chapter(s) on Articles/federalism | McClellan, J. (2000). *Liberty, order, and justice: An introduction to the constitutional principles of American government* (3rd ed.). Liberty Fund. | Colonial confederations; Articles of Confederation; transition to Constitution | Assigned |
-| 4 | Federalist Paper No. 13 | Hamilton, Madison, and Jay. (2009). *The Federalist Papers*. Yale University Press. | Specific argument on union; likely on advantages of confederation | Referenced by Prof. Root |
+**Note:** Federalist Paper No. 13 is referenced in Prof. Root's introduction email (see [professor_introduction_week04.md](assignments/professor_introduction_week04.md)) but was not formally included in the confirmed reading list above; consult it as supplementary context on the necessity of union if time allows.
 
 **Supplementary (recommended but not required):**
 - *Miracle in Philadelphia* — Alternative account of the Philadelphia Convention debates (recommended by Prof. Root as more reliable than McClellan alone)
@@ -128,8 +130,12 @@ _To be populated as readings are assigned and completed._
 **Module Materials:**
 - Introduction: [This file — week04/learning_objectives.md](../learning_objectives.md)
 - Prof. Root's guidance email: [professor_introduction_week04.md](assignments/professor_introduction_week04.md)
+- Study notes (5 readings + Dr. Ross video): [study_notes/](study_notes/)
 
 **Assignment Folder:**
+- Assignment requirements: [ASSIGNMENT_DETAILS_Annotated-Bibliography.md](assignments/ASSIGNMENT_DETAILS_Annotated-Bibliography.md)
+- Process roadmap: [ROADMAP_Annotated-Bibliography-Process.md](assignments/ROADMAP_Annotated-Bibliography-Process.md)
+- Sample template: [REFERENCE_Sample-Annotated-Bibliography-graduate.pdf](assignments/REFERENCE_Sample-Annotated-Bibliography-graduate.pdf)
 - Annotated bibliography: [assignments/](assignments/) — to be created after reading and research
 
 **Course Context:**
@@ -141,19 +147,16 @@ _To be populated as readings are assigned and completed._
 
 ## Next Steps
 
-1. 📖 **Read Prof. Root's guidance email** — [professor_introduction_week04.md](assignments/professor_introduction_week04.md)
-2. 📚 **Obtain and begin reading Week 4 assigned readings:**
-   - Peace Pact (Articles of Confederation) — full text
-   - De Tocqueville, *Democracy in America*, Vol. 1, Pt. 1, Ch. 5
-   - McClellan chapters on federalism/Articles
-   - Federalist Paper No. 13
-3. 📝 **Create study notes** as readings are completed — add to `study_notes/` folder
-4. 🔍 **Begin literature search** for Annotated Bibliography — identify at least 10 peer-reviewed academic sources on constitutionalism + your research interest (healthcare digital infrastructure in emerging economies). Reference: [REFERENCE_Sample-Annotated-Bibliography-graduate.pdf](assignments/REFERENCE_Sample-Annotated-Bibliography-graduate.pdf)
-5. ✍️ **Draft research interest statement** (1 paragraph, 150–200 words) — define public policy area, include program/cognate, culminate in provisional research question connecting Week 4 federalism themes to your capstone focus
-6. 📋 **Complete Annotated Bibliography assignment** — at least 10 sources with APA 7 citations and 200–250 word annotations per source (central thesis, methodology, key findings, relevance to your research question)
-7. 📋 **Format and proofread** — proper title page (name, course, instructor, date), alphabetized sources, grammar/style check (see rubric: 30 pts for grammar/style, 27 pts for annotation substance, 15 pts for source selection, 28 pts for research interest definition = 100 pts total)
-8. 📤 **Submit by Week 4 deadline** — Sunday 11:59 p.m. ET (first submission used for grading per LUO policy)
-9. 🎯 **Integrate findings into capstone** — Add at least 10 annotated sources to [capstone/literature_review/indirect_sources/](../../capstone/literature_review/indirect_sources/) and note connections between federalism/constitutional limits and healthcare policy case studies (Guatemala, Mexico)
+1. 📖 **Read Prof. Root's guidance email** — [professor_introduction_week04.md](assignments/professor_introduction_week04.md) — ✅ done
+2. 📚 **Readings confirmed and study notes created** (Nov. 17, 2026) — ✅ done; see Reading List table above for all 5 readings + Dr. Ross video, each with a comprehensive study note
+3. 🗺️ **Process roadmap drafted** — [ROADMAP_Annotated-Bibliography-Process.md](assignments/ROADMAP_Annotated-Bibliography-Process.md) — ✅ done; six-phase process from reading → research question → literature search → annotations → formatting → submission
+4. 📖 **Complete the primary-source readings directly** (don't rely solely on study notes — Prof. Root's guidance warns against over-reliance on secondary summaries)
+5. 🔍 **Begin literature search** for Annotated Bibliography — identify at least 10 peer-reviewed academic sources on constitutionalism + your research interest (healthcare digital infrastructure in emerging economies). Reference: [REFERENCE_Sample-Annotated-Bibliography-graduate.pdf](assignments/REFERENCE_Sample-Annotated-Bibliography-graduate.pdf)
+6. ✍️ **Draft research interest statement** (1 paragraph, 150–200 words) — define public policy area, include program/cognate, culminate in provisional research question connecting Week 4 federalism themes to your capstone focus
+7. 📋 **Complete Annotated Bibliography assignment** — at least 10 sources with APA 7 citations and 200–250 word annotations per source (central thesis, methodology, key findings, relevance to your research question)
+8. 📋 **Format and proofread** — proper title page (name, course, instructor, date), alphabetized sources, grammar/style check (see rubric: 30 pts for grammar/style, 27 pts for annotation substance, 15 pts for source selection, 28 pts for research interest definition = 100 pts total)
+9. 📤 **Submit by Week 4 deadline** — Sunday 11:59 p.m. ET (first submission used for grading per LUO policy)
+10. 🎯 **Integrate findings into capstone** — Add at least 10 annotated sources to [capstone/literature_review/indirect_sources/](../../capstone/literature_review/indirect_sources/) and note connections between federalism/constitutional limits and healthcare policy case studies (Guatemala, Mexico)
 
 ---
 
