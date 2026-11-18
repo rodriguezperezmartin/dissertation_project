@@ -133,6 +133,7 @@ _To be populated as readings are assigned and completed._
 - Study notes (5 readings + Dr. Ross video): [study_notes/](study_notes/)
 
 **Assignment Folder:**
+- 👉 **START HERE:** [PLAIN-LANGUAGE-GUIDE_What-You-Are-Doing-This-Week.md](assignments/PLAIN-LANGUAGE-GUIDE_What-You-Are-Doing-This-Week.md) — Simple explanation of the assignment in everyday language (read this first!)
 - Assignment requirements: [ASSIGNMENT_DETAILS_Annotated-Bibliography.md](assignments/ASSIGNMENT_DETAILS_Annotated-Bibliography.md)
 - Process roadmap: [ROADMAP_Annotated-Bibliography-Process.md](assignments/ROADMAP_Annotated-Bibliography-Process.md)
 - Sample template: [REFERENCE_Sample-Annotated-Bibliography-graduate.pdf](assignments/REFERENCE_Sample-Annotated-Bibliography-graduate.pdf)
