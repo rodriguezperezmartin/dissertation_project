@@ -6,6 +6,26 @@
 
 ---
 
+## ⚠️ CRITICAL: Writing Standards (from Prof. Root's Module 3 Feedback)
+
+**Apply these three rules to ALL writing in this assignment:**
+
+1. **Omit first person** — No "I," "me," "my," "we," "us," or "our" in academic writing
+   - ❌ "I believe federalism is important..." → ✅ "Federalism is a constitutive feature of..."
+   - ❌ "I found this source shows..." → ✅ "This source demonstrates..."
+
+2. **Do not use adverbs for paragraph transitions** — Avoid adverbial transitions; use substantive phrases instead
+   - ❌ "Clearly, federalism matters..." → ✅ "Federalism fundamentally shapes..."
+   - ❌ "Interestingly, the Articles failed..." → ✅ "The Articles of Confederation revealed structural weaknesses..."
+
+3. **Never use feeling words for thinking words** — Distinguish emotions from intellectual positions
+   - ❌ "I felt this was important" / "It seems that..." → ✅ "This demonstrates..." / "Evidence indicates..."
+   - ❌ "I sense that..." → ✅ "Analysis reveals..." / "The author argues..."
+
+**Reference guide:** See [../../../memories/repo/writing-feedback-guidelines.md](../../../memories/repo/writing-feedback-guidelines.md) for detailed examples and application guidance.
+
+---
+
 ## Phase 1 — Ground Yourself in the Week 4 Readings (Constitutional Foundation)
 
 Before drafting anything, read (or re-read via study notes) the five assigned sources so your research interest paragraph is grounded in this week's federalism material, not disconnected from it.
@@ -24,6 +44,7 @@ Before drafting anything, read (or re-read via study notes) the five assigned so
 1. Read each primary source directly (don't stop at the study notes — Prof. Root's Week 4 guidance explicitly warns against over-reliance on secondary summaries, especially regarding McClellan).
 2. While reading, jot quick marginal notes connecting each source to your capstone focus (healthcare digital infrastructure in emerging economies) — use the "Capstone Connection" section of each study note as a starting prompt, but develop your own original connections too.
 3. Note any direct quotations you may want to use in your discussion thread or research interest paragraph, with exact page numbers.
+4. **Apply the three writing standards:** Annotate objectively about *arguments* and *evidence*, not subjective thoughts. Avoid first-person observations.
 
 ---
 
@@ -55,6 +76,14 @@ Required elements, in this order:
 - Is the research interest "clearly defined and viable"? (Not vague/general.)
 - Is it "clearly related to public policy" and to your "doctoral program and cognate"?
 - Is it a coherent paragraph (not a few disconnected sentences)?
+
+**Step 5: Apply the three writing standards to your draft.**
+
+**Example (BEFORE — violates all three rules):**
+> I believe that federalism is really important to healthcare policy in emerging economies. I felt that understanding the Articles of Confederation clearly shows how decentralization affects policy adoption. This makes me think that Guatemala's approach is better than Mexico's, in my view.
+
+**Example (AFTER — applies all three rules):**
+> Federalism — the constitutional division of authority between national and local governments — significantly shapes healthcare digital infrastructure adoption in emerging democracies. Historical examination of the Articles of Confederation and McClellan's analysis of colonial sovereignty reveal that locally-autonomous systems achieved greater institutional legitimacy than centrally-mandated approaches. This research investigates whether constitutional protections of sub-national autonomy explain different rates of healthcare technology adoption in Guatemala versus Mexico, specifically in relation to digital health mandates.
 
 ---
 
@@ -106,6 +135,13 @@ For each of your 10+ final sources, write a 200–250 word annotation with four 
 - [ ] Is the word count in the 200–250 range (not noticeably under or over)?
 - [ ] Have you paraphrased in your own words rather than copying language from the abstract (Turnitin will check)?
 - [ ] Does the final sentence or two explicitly name your research question or capstone topic?
+- [ ] **Have you applied the three writing standards?** (No first person, no adverbial transitions, no feeling words)
+
+**Example annotation (BEFORE — violates writing standards):**
+> I felt this article was really important. The author believes that centralization is bad, which I think shows my argument is right. This makes me confident that local autonomy is better. Interestingly, the author also argues that implementation is difficult when top-down.
+
+**Example annotation (AFTER — applies writing standards):**
+> This article argues that centralized health systems encounter implementation resistance in emerging democracies when they override established local governance structures. The author demonstrates this through comparative case analysis of four sub-Saharan African countries, showing that locally-adapted systems achieved 30% higher adoption rates among front-line providers than centrally-mandated implementations. The findings substantiate the research question by suggesting that constitutional protections of sub-national autonomy correlate with improved healthcare technology acceptance. This direct evidence informs the capstone's examination of federalism principles in health infrastructure adoption.
 
 ---
 
@@ -128,6 +164,10 @@ For each of your 10+ final sources, write a 200–250 word annotation with four 
 - [ ] Verify every in-text claim about a source is accurate to what that source actually says (don't overstate findings)
 - [ ] Run a grammar checker (e.g., Grammarly) or ask a peer/writing center reviewer for a final pass
 - [ ] Confirm word counts are in range for both the research interest paragraph (150–200 words) and each annotation (200–250 words)
+- [ ] **FINAL CHECK — Writing Standards (Prof. Root's feedback):**
+  - [ ] Search for "I ", "me ", "my ", "we ", "us ", "our " — if found, rewrite to remove first person
+  - [ ] Check for adverbial transitions ("Clearly," "Interestingly," "Obviously," "However," "Additionally") — replace with substantive phrases
+  - [ ] Verify no confusion of feeling words for thinking words ("felt," "sense," "believe," "seems") — replace with analytical verbs ("demonstrates," "argues," "reveals," "indicates")
 
 ---
 
