@@ -136,8 +136,10 @@ _To be populated as readings are assigned and completed._
 - 👉 **START HERE:** [PLAIN-LANGUAGE-GUIDE_What-You-Are-Doing-This-Week.md](assignments/PLAIN-LANGUAGE-GUIDE_What-You-Are-Doing-This-Week.md) — Simple explanation of the assignment in everyday language (read this first!)
 - Assignment requirements: [ASSIGNMENT_DETAILS_Annotated-Bibliography.md](assignments/ASSIGNMENT_DETAILS_Annotated-Bibliography.md)
 - Process roadmap: [ROADMAP_Annotated-Bibliography-Process.md](assignments/ROADMAP_Annotated-Bibliography-Process.md)
+- Candidate sources log (10 confirmed peer-reviewed, all 3 buckets complete): [CANDIDATE_SOURCES_Annotated-Bibliography.md](assignments/CANDIDATE_SOURCES_Annotated-Bibliography.md)
+- 📝 **Working draft/outline (rubric self-check + citations + annotation prompts):** [DRAFT_Annotated-Bibliography-Working-Outline.md](assignments/DRAFT_Annotated-Bibliography-Working-Outline.md)
 - Sample template: [REFERENCE_Sample-Annotated-Bibliography-graduate.pdf](assignments/REFERENCE_Sample-Annotated-Bibliography-graduate.pdf)
-- Annotated bibliography: [assignments/](assignments/) — to be created after reading and research
+- Final annotated bibliography: [assignments/](assignments/) — to be created once research interest + all 10 annotations are drafted in your own words
 
 **Course Context:**
 - [../course_overview.md](../course_overview.md) — Full course map

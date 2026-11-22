@@ -237,6 +237,133 @@
 
 ---
 
+## Source 10 — Bakker et al. (2024), IMF Working Paper ⚠️ WORKING PAPER — DOES NOT COUNT TOWARD YOUR 10+
+
+- **Citation (APA 7):** Bakker, B., Chen, S., Vasilyev, D., Bespalova, O., Chin, M., Kolpakova, D., Singhal, A., & Yang, Y. (2024). *What can artificial intelligence do for stagnant productivity in Latin America and the Caribbean?* (IMF Working Paper No. WP/24/219). International Monetary Fund.
+- **Source type:** **IMF Working Paper — explicitly not peer-reviewed.** The cover page states working papers "describe research in progress... and are published to elicit comments and to encourage debate," not a final peer-reviewed publication.
+- **Saved file:** `/Users/martinperezrodriguez/Downloads/What Can Artificial Intelligence Do for Stagnant Productivity in Latin America and the Caribbean.pdf`
+- **Bucket fit:** Would span **Bucket 2 (digital/AI adoption, LatAm)** and **Bucket 3 (incentive-based policy)** if peer-reviewed
+- **⚠️ Peer-review status confirmed: NO.** IMF Working Papers are institutional research products, not journal articles — they do not go through academic peer review. **Cannot count toward the assignment's 10+ peer-reviewed source requirement.** (Note: some IMF working papers are later published in peer-reviewed journals — worth a quick check closer to your deadline if you want to use this content formally.)
+
+### Structural Summary (for background/context use only — not an assignment-eligible source)
+
+**Central thesis:** Latin America and the Caribbean (LAC) have shown no income convergence with the US since 1980 — unlike emerging Asia and Europe — due largely to stagnant labor productivity growth, driven by slow technology diffusion and a large informal sector. AI offers a significant opportunity to reverse this, but LAC risks falling further behind in AI adoption without active policy intervention.
+
+**Key findings:** AI adoption in LAC is held back by weak competition, poor governance, and inadequate human capital/digital infrastructure (the IDB estimates ~US$70 billion needed to close the digital infrastructure gap with OECD countries). The paper's policy recommendations include: fostering competition and upgrading regulatory frameworks; investing in digital infrastructure (satellite internet, public Wi-Fi, tax incentives for computing/data infrastructure); reducing labor-market informality (startup support, simplified registration, reduced payroll tax burdens) to enable broader AI diffusion; and adopting "human-complementary" AI policies that avoid tax/policy distortions favoring automation over human labor.
+
+**Relevance to the research question:** Supplies a macroeconomic, policy-oriented account of *why* incentive-based AI-adoption policy is needed in Latin America — directly complementing Bucket 3's PPP/accountability sources with a growth-and-labor-market rationale for intervention, and directly relevant to the research question's regional scope. Strong background reading for framing why Latin American AI/digital-health policy matters economically, even though it cannot be cited as one of your 10 required peer-reviewed sources.
+
+---
+
+## Source 11 — Sierra-Castillo, Aristizábal-Colorado, & Reyes-Sarmiento (2026) ⚠️ EDITORIAL — DOES NOT COUNT TOWARD YOUR 10+
+
+- **Citation (APA 7):** Sierra-Castillo, S., Aristizábal-Colorado, D., & Reyes-Sarmiento, M. E. (2026). Artificial intelligence in healthcare in Latin America and Colombia: Bridging gaps and leveraging opportunities. *Revista Cuidarte, 17*(2), e6342. https://doi.org/10.15649/cuidarte.6342
+- **Source type:** **Editorial** (explicitly labeled "EDITORIAL" in the journal), published in *Revista Cuidarte* (an otherwise peer-reviewed nursing/health sciences journal)
+- **Saved file:** `/Users/martinperezrodriguez/Downloads/Artificial intelligence in healthcare in Latin America and Colombia _ bridging gaps and leveraging opportunities.pdf`
+- **Original source URL:** https://pmc.ncbi.nlm.nih.gov/articles/PMC13553122/
+- **Bucket fit:** Would be **Bucket 2 (digital health/AI adoption, LatAm)** — strong conceptual fit
+- **⚠️ Peer-review status confirmed: NO (as you correctly flagged).** Editorials are invited commentary/opinion pieces rather than original peer-reviewed research articles, even when published in a peer-reviewed journal. **Cannot count toward the 10+ peer-reviewed requirement.** Good instinct catching this yourself.
+
+### Structural Summary (for background/context use only — not an assignment-eligible source)
+
+**Central thesis:** AI has the potential to reduce structural gaps in access, efficiency, and quality of healthcare across Latin America and Colombia specifically, but only if implementation is context-sensitive, locally validated, and guided by strong data governance and ethical frameworks — otherwise AI risks deepening existing inequities.
+
+**Key findings/arguments:** Identifies Colombia's specific barriers (interoperability gaps, fragmented clinical information systems, nascent regulatory frameworks, heterogeneous institutional capacity) and proposes a **five-priority regional agenda**: (1) strengthen digital infrastructure/interoperability, (2) promote local clinical validation rather than uncritically importing externally developed AI models, (3) develop risk-based regulatory frameworks, (4) invest in health workforce AI literacy, and (5) center equity and public value creation as guiding principles. Frames the central challenge as "not technological but political, ethical, and institutional."
+
+**Relevance to the research question:** This short editorial crisply states the core policy tension your research question investigates — that AI's impact in Latin American health systems depends on governance/regulatory conditions, not just technology itself — and explicitly calls for locally validated, equity-centered policy design rather than imported high-income-country models. While not citable as one of your 10 required sources, it is an excellent, concise framing piece for your capstone's broader argument and could be cited as supporting/contextual literature in your final paper if the citation rules there allow editorials (worth checking your capstone's own sourcing standards separately from this assignment's rubric).
+
+---
+
+## Source 12 — Venzor Strader et al. (2025) ✅ PEER-REVIEWED, COUNTS TOWARD YOUR 10+ — DIRECT GUATEMALA MATCH
+
+- **Citation (APA 7):** Venzor Strader, A., Castro Aragón, E., Coyote, E., Aguilar Ferro, A. I., & Rohloff, P. (2025). Integrating Indigenous Maya practices and digital health tools to improve outcomes for Indigenous newborns in Guatemala: A community-based initiative. *Global Health Action, 18*(1), 2565870. https://doi.org/10.1080/16549716.2025.2565870
+- **Source type:** Peer-reviewed journal article — "Methods Forum" field report (quality-improvement program evaluation), open access
+- **Saved file:** `/Users/martinperezrodriguez/Downloads/Integrating Indigenous Maya practices and digital health tools to improve outcomes for Indigenous newborns in Guatemala _ a community-based initiative.pdf`
+- **Bucket fit:** **Bucket 2 (Digital health/AI adoption, Latin America/Guatemala)** — your strongest, most directly on-topic Guatemala source yet
+- **Peer-review status confirmed:** Yes — published in *Global Health Action* (Taylor & Francis), an established peer-reviewed open-access global health journal; article has a "Responsible Editor" listed and went through standard review (received July 2025, accepted September 2025).
+
+### Structural Summary
+
+**Central thesis/research question:** Describes and evaluates a community-based quality-improvement (QI) initiative run by Maya Health Alliance (Wuqu' Kawoq), an Indigenous-led NGO, that combines traditional Maya midwife (TMM) practices with a co-designed smartphone application to reduce neonatal mortality among Maya Kaqchikel communities in rural highland Guatemala.
+
+**Methodology/approach:** QI methodology (not a randomized trial) using run charts and standard QI "shift"/"trend" rules to track key performance indicators (perinatal/neonatal mortality rates, proportion of newborns receiving timely home evaluations, referral rates and referral success rates) from January 2024–March 2025. The intervention combines trained lay "Neonatal Technicians" (NTs) performing home visits, an offline-capable smartphone app providing clinical decision support (e.g., instructing hypothermia management, flagging low birth weight), continuous TMM midwife training, and a culturally responsive patient-navigation/referral system.
+
+**Key findings:** Since launch, the program reached 85% of reported newborns monthly (though only 30% within the critical first 3 days of life), increased referral rates by up to 200%, with referral success rates of 63% (routine) and 77% (emergency). Perinatal mortality rate was 26.2/1,000 births and neonatal mortality 8.5/1,000 live births over the study period. Persistent challenges include a high proportion of low-birth-weight newborns (24.8%), limited local hospital capacity, and **discriminatory treatment at referral facilities that actively discourages Indigenous families from accepting referrals** — a structural/trust barrier that digital tools alone cannot solve.
+
+**Relevance to the research question:** This is a direct, named, Guatemala-specific digital-health implementation case with measured outcomes (not just a proposal or discussion paper) — exactly the kind of evidence base needed for Bucket 2. It demonstrates that digital-health tool adoption in a real Guatemalan Indigenous context succeeds only when paired with culturally embedded, trust-building accompaniment (TMM partnership, patient navigators) and that technology cannot substitute for addressing structural discrimination in the broader health system — directly reinforcing the research question's premise that policy effectiveness depends on how authority, trust, and institutional design intersect with technology adoption, not on technology/incentives alone.
+
+**Potential annotation angle (for independent drafting):** Use this source as your primary empirical Guatemala case study, arguing that digital health tool adoption produces measurable care improvements (referral rates, early detection) only when embedded within culturally legitimate, community-trusted delivery structures — and that discriminatory treatment at the formal health-system level remains an unresolved barrier that incentive-based or technology-based policy alone cannot fix.
+
+**Gap check:** This is the first confirmed peer-reviewed Bucket 2 source with direct Guatemala specificity — brings Bucket 2 to 2 of 3–4 needed. Only 1 more peer-reviewed digital-health/AI-adoption source needed to complete this bucket.
+
+---
+
+## Source 13 — World Economic Forum & McKinsey & Company (2026) ⚠️ INDUSTRY WHITE PAPER — DOES NOT COUNT TOWARD YOUR 10+
+
+- **Citation (APA 7):** World Economic Forum & McKinsey & Company. (2026). *Latin America in the intelligent age: A new path for growth* (White Paper). World Economic Forum. https://reports.weforum.org/docs/WEF_Latin_America_Intelligent_Age.pdf
+- **Source type:** **Industry/think-tank white paper** — explicitly labeled "WHITE PAPER," co-produced by the World Economic Forum's Regional Collaboration initiative and McKinsey & Company, not an academic or peer-reviewed publication
+- **Saved file:** `/Users/martinperezrodriguez/Downloads/WEF_Latin_America_Intelligent_Age.pdf`
+- **Bucket fit:** Would partially fit **Bucket 2 (digital/AI adoption, LatAm)**, though the content is broadly economic rather than health-specific
+- **⚠️ Peer-review status confirmed: NO.** This is a corporate-consulting/policy-forum collaborative white paper, not peer-reviewed research. The disclaimer explicitly states findings "do not necessarily represent the views of the World Economic Forum" and result from a "collaborative process," not academic review. **Cannot count toward the assignment's 10+ peer-reviewed source requirement.**
+
+### Structural Summary (for background/context use only — not an assignment-eligible source)
+
+**Central thesis:** Latin America has a strategic opportunity to boost historically low productivity and economic competitiveness through AI adoption, but faces structural barriers — weak digital infrastructure, fragmented governance/regulation, thin talent pipelines, lagging data readiness, and limited capital — that must be addressed through coordinated regional strategy.
+
+**Key findings/content:** Covers AI competitiveness broadly across industries (finance, agriculture, education) with only minimal, incidental references to health (health appears only in passing as one of several sectors with growing datasets — not a dedicated health-policy focus). Proposes "10 targeted actions to drive execution," including building universal connectivity, creating data/governance foundations, adapting frontier AI, and developing AI literacy in education systems.
+
+**Relevance to the research question:** Useful only as broad macroeconomic/competitiveness context for why Latin American governments are prioritizing AI policy generally — it does **not** provide health-sector-specific content and is weaker for your research question than your other digital-health sources (Baez et al. 2026; Venzor Strader et al. 2025). Given its lack of health focus and non-peer-reviewed status, this source is a lower priority for your capstone or this assignment compared to the others you've already found — treat as optional background only if you need broader regional AI-strategy framing.
+
+---
+
+## Source 14 — Alvarado, Lainfiesta, Paniagua-Avila, & Asturias (2022) ✅ PEER-REVIEWED, COUNTS TOWARD YOUR 10+ — BUCKET 2 COMPLETE
+
+- **Citation (APA 7):** Alvarado, J. R., Lainfiesta, X., Paniagua-Avila, A., & Asturias, G. (2022). Developing a digital technology system to address COVID-19 health needs in Guatemala: A scientific diaspora case study. *Frontiers in Research Metrics and Analytics, 7*, 899611. https://doi.org/10.3389/frma.2022.899611
+- **Source type:** Peer-reviewed journal article — "Brief Research Report," open access
+- **Saved file:** `/Users/martinperezrodriguez/Downloads/frma-07-899611.pdf`
+- **Bucket fit:** **Bucket 2 (Digital health/AI adoption, Guatemala)** — a second direct Guatemala-specific peer-reviewed match
+- **Peer-review status confirmed:** Yes — published in *Frontiers in Research Metrics and Analytics* (Frontiers Media), with named editor (Kleinsy Bonilla, State University of Campinas) and two named reviewers (Edwin Asturias, University of Colorado Anschutz; Kent Douglas Walter Bream, University of Pennsylvania) explicitly listed, confirming standard peer review.
+
+### Structural Summary
+
+**Central thesis/research question:** Describes how a Guatemalan "scientific diaspora" — professionals living abroad and in-country — self-organized during the COVID-19 pandemic, facilitated by a Guatemalan nonprofit (FUNDEGUA), to build **ALMA** (*Asistente de Logística Médica Automatizada*), an AI-based chatbot and multichannel digital information system to combat health misinformation and help Guatemalans navigate pandemic-era healthcare services.
+
+**Methodology/approach:** Case study / brief research report documenting the initiative's founding principles, partnership structure, and team composition (not an outcomes evaluation — the authors explicitly note that implementation/impact outcomes will be reported in a separate future publication).
+
+**Key findings:** ALMA combined an AI-based chatbot (Spanish-language), a free national multilingual call center (Spanish plus five Mayan languages), social media profiles, and a vaccination-information website (vacunasgt.com) built through crowdsourced and official-government data triangulation. The initiative depended on a multi-sector partnership model: bilateral aid agencies (CDC, IDB) provided funding; academic institutions provided technical expertise; the **Ministry of Health and Social Assistance** provided the official endorsement needed to work with public health services; nonprofits (including Wuqu' Kawoq–Maya Health Alliance) enabled reaching underserved Indigenous populations outside urban centers; and diaspora professionals contributed flexible, short- or long-term volunteer technical labor. The ALMA team itself was young (ages 19–38), highly educated, and entirely composed of Guatemalan nationals, with 66% having prior social-impact project experience.
+
+**Relevance to the research question:** This is a second strong, peer-reviewed, Guatemala-specific digital-health case — and unlike Venzor Strader et al. (2025), which centers an NGO delivering care directly, this source centers the **multi-sector incentive and partnership structure** itself (diaspora volunteer labor + nonprofit legal/fundraising scaffolding + government endorsement + international donor funding) that enabled a digital-health tool to scale with legitimacy. This directly supports the research question's interest in how incentive structures and institutional partnerships (not just technology) shape digital-health adoption outcomes in an emerging economy, and offers a concrete example of the "fragmented nonprofit interventions" dynamic flagged elsewhere in your draft paragraph — FUNDEGUA's coordinating/legal role is precisely the kind of structural mechanism that can turn fragmented volunteer efforts into a scaled, government-endorsed public health intervention.
+
+**Potential annotation angle (for independent drafting):** Use this source to show that successful Guatemalan digital-health initiatives depend on deliberately constructed multi-sector incentive and legitimacy structures — diaspora volunteer motivation, nonprofit legal/coordinating infrastructure, and government endorsement — rather than AI/chatbot technology alone; this reinforces the research question's core argument that incentive-based policy design (not technology investment by itself) determines whether digital-health tools achieve scale and public legitimacy in emerging economies.
+
+**Gap check:** This source completes Bucket 2 — now 3 of 3–4 confirmed peer-reviewed sources (Baez, Acra, & Difo 2026; Venzor Strader et al. 2025; Alvarado et al. 2022). **All three buckets now meet or exceed their minimum target.**
+
+---
+
+## Source 15 — Leite, de Vasconcelos, & Costa Lima (2011) ✅ PEER-REVIEWED, COUNTS TOWARD YOUR 10+ — BUCKET 1 COMPLETE
+
+- **Citation (APA 7):** Leite, V. R., de Vasconcelos, C. M., & Costa Lima, K. (2011). Federalism and decentralization: Impact on international and Brazilian health policies. *International Journal of Health Services, 41*(4), 711–723. https://doi.org/10.2190/HS.41.4.f
+- **Source type:** Peer-reviewed journal article, published by Sage Publications/Baywood Publishing (accessed via JSTOR)
+- **Saved file:** `/Users/martinperezrodriguez/Downloads/Leite-FEDERALISMDECENTRALIZATIONIMPACT-2011.pdf`
+- **Bucket fit:** **Bucket 1 (Federalism/decentralization + health policy)** — fills your last remaining gap
+- **Peer-review status confirmed:** Yes — *International Journal of Health Services* is a long-running peer-reviewed public health journal (Sage/Baywood); article text and JSTOR front matter confirm standard scholarly publication (no preprint/working-paper/editorial markers).
+
+### Structural Summary
+
+**Central thesis/research question:** There is no single model of health-system federalism — each country develops a unique institutional structure for decentralizing health policy, and Brazil's version (increasingly resembling U.S.-style federalism) is undermined by inequality among municipalities/states and chronic underfunding of health spending relative to its constitutional universal-health-system mandate.
+
+**Methodology/approach:** Theoretical-conceptual literature review and comparative analysis of federalism and fiscal-federalism concepts, using financing/spending data from OECD, WHO, PAHO, Brazil's IBGE, and Brazilian applied-economics research institutes to compare Brazil's decentralized health financing structure against other federalist systems (with direct comparison to U.S. federalism).
+
+**Key findings:** Brazil's health decentralization has produced a "complex web of relationships" between federal, state, and municipal government, similar to U.S. federalism's intergovernmental complexity. However, deep fiscal and resource-utilization inequality among Brazilian subnational units undermines the constitutional guarantee of universal healthcare (SUS). The authors argue that successful decentralization requires: (1) a stable, adequate funding source; (2) increased volume and efficiency of health spending; (3) investment in training local health managers; (4) improved health information systems; and (5) strengthened principles of subnational autonomy balanced with interdependence and defined cooperation patterns within the federation.
+
+**Relevance to the research question:** This is a highly direct Bucket 1 match — it provides a concrete, data-grounded account of how decentralized/federalist governance structures shape health-system performance and equity, explicitly naming "improving information systems" as a precondition for successful decentralization. This gives you a direct conceptual bridge between classic health-federalism theory and your research question's focus on digital health infrastructure: the authors' own policy recommendations anticipate that modernizing information systems is part of what makes decentralized federalist health governance function, which you can connect forward to digital-health/AI adoption as a 21st-century extension of that same need.
+
+**Potential annotation angle (for independent drafting):** Use this source to establish the foundational federalism/decentralization theory for your research question, then use its explicit call for "improved information systems" and "stable sources of funds" as a bridge to argue that digital-health infrastructure investment is a natural extension of decades-old health-federalism challenges — connecting Bucket 1's institutional/governance framing directly to Bucket 2's digital-health adoption evidence (e.g., Alvarado et al. 2022; Venzor Strader et al. 2025) and Bucket 3's incentive-based financing mechanisms (e.g., Fabre & Straub 2023).
+
+**Gap check:** This source completes Bucket 1 — now 3 of 3–4 confirmed peer-reviewed sources (Rotulo et al. 2020; Béland et al. 2024; Leite et al. 2011). **All three buckets are now complete, and you have reached 10 of 10+ required peer-reviewed sources.**
+
+---
+
 ## Tracking Table (Update as Sources Are Added)
 
 | # | Citation (short) | Bucket | Peer-Reviewed? | Status |
@@ -251,24 +378,29 @@
 | 7 | Forrer, Kee, Newcomer, & Boyer (2010) | 3 — Incentive policy/PPP accountability | ✅ Yes | Logged, ready for annotation drafting |
 | 8 | Yang, Hou, & Wang (2013) | 3 — Incentive policy/PPP, transitional economies | ✅ Yes | Logged, ready for annotation drafting |
 | 9 | Kula & Fryatt (2014) | 3 — Incentive policy/PPP, health, South Africa | ✅ Yes | Logged, ready for annotation drafting |
+| 10 | Bakker et al. (2024), IMF Working Paper | 2/3 — AI productivity & policy, LatAm | ⚠️ **No — working paper** | Background only; recheck publication status |
+| 11 | Sierra-Castillo et al. (2026) | 2 — Digital health/AI, Colombia | ⚠️ **No — editorial** | Background/framing only, not assignment-eligible |
+| 12 | Venzor Strader et al. (2025) | 2 — Digital health, Guatemala (direct case) | ✅ Yes | Logged, ready for annotation drafting |
+| 13 | WEF & McKinsey (2026), White Paper | 2 (weak fit) — broad AI/economic competitiveness, LatAm | ⚠️ **No — industry white paper** | Low-priority background only, not health-specific |
+| 14 | Alvarado, Lainfiesta, Paniagua-Avila, & Asturias (2022) | 2 — Digital health, Guatemala (ALMA chatbot) | ✅ Yes | Logged, ready for annotation drafting |
+| 15 | Leite, de Vasconcelos, & Costa Lima (2011) | 1 — Federalism/decentralization, Brazil | ✅ Yes | Logged, ready for annotation drafting |
 
-**Running count toward 10+ requirement: 7 confirmed peer-reviewed** (plus candidates already identified in [ASSIGNMENT_DETAILS_Annotated-Bibliography.md](ASSIGNMENT_DETAILS_Annotated-Bibliography.md) gap analysis from the existing PLCY 700 literature pool, pending re-screening for direct relevance to this specific research question — Alkhwaldi 2023, Sharp 2020, and Beaulieu & Bentahar 2021 are the strongest candidates from that pool).
+**Running count toward 10+ requirement: 10 confirmed peer-reviewed — TARGET MET** (plus candidates already identified in [ASSIGNMENT_DETAILS_Annotated-Bibliography.md](ASSIGNMENT_DETAILS_Annotated-Bibliography.md) gap analysis from the existing PLCY 700 literature pool, available as extra buffer if needed — Alkhwaldi 2023, Sharp 2020, and Beaulieu & Bentahar 2021 are the strongest candidates from that pool).
 
 ---
 
-## Updated Gap Analysis (After Sources 1–9)
+## Updated Gap Analysis (After Sources 1–15)
 
 | Bucket | Target | Confirmed Peer-Reviewed | Still Needed |
 |---|---|---|---|
-| **1. Federalism/decentralization + health policy** | 3–4 | **2** (Rotulo et al. 2020; Béland et al. 2024) | 1–2 more — ideally Guatemala-specific or digital-data-governance angle |
-| **2. Digital health/AI adoption, leapfrogging, LatAm/Mexico/Guatemala** | 3–4 | **1** (Baez, Acra, & Difo 2026) — plus 2 preprints + 1 grey-literature source held in reserve for context only | 2–3 more **peer-reviewed** sources — **still the tightest bucket and top priority** |
-| **3. Incentive-based policy, PPPs, health economics, human capital** | 3–4 | **4** (Fabre & Straub 2023; Forrer et al. 2010; Yang et al. 2013; Kula & Fryatt 2014) | ✅ **Bucket complete** — no further sources strictly needed, though a digital/AI-specific incentive source would strengthen the bridge to Bucket 2 |
-| **Specific claim gap** | — | — | Still need a source for "fragmented nonprofit interventions in emerging-economy healthcare" (flagged in your draft paragraph) |
+| **1. Federalism/decentralization + health policy** | 3–4 | **3** (Rotulo et al. 2020; Béland et al. 2024; Leite et al. 2011) | ✅ **Bucket complete** |
+| **2. Digital health/AI adoption, leapfrogging, LatAm/Mexico/Guatemala** | 3–4 | **3** (Baez, Acra, & Difo 2026; Venzor Strader et al. 2025; Alvarado et al. 2022) | ✅ **Bucket complete** |
+| **3. Incentive-based policy, PPPs, health economics, human capital** | 3–4 | **4** (Fabre & Straub 2023; Forrer et al. 2010; Yang et al. 2013; Kula & Fryatt 2014) | ✅ **Bucket complete** |
+| **Specific claim gap** | — | — | "Fragmented nonprofit interventions" claim is now partially supported by Alvarado et al. (2022, FUNDEGUA) — optional to seek a more direct citation if time allows |
 
-**Total confirmed peer-reviewed sources so far: 7 of 10+ required.**
+**Total confirmed peer-reviewed sources so far: 10 of 10+ required — assignment minimum met across all three buckets.**
 
-### Recommended Next Search Targets (in priority order)
-1. **Peer-reviewed digital health/AI adoption studies specific to Latin America** — this is now the clear #1 priority; your preprints/discussion paper are high quality but not submittable as-is. Try searching the same author groups/topics on PubMed/Scopus directly (preprints are sometimes published within months), or search for published cross-sectional/implementation studies on EHR adoption, telehealth, or AI diagnostics in Mexico, Guatemala, or Latin America broadly
-2. **One more federalism/decentralization + health policy source** — ideally Guatemala-specific or with a digital-data-governance angle, to round out Bucket 1 to 3
-3. **Nonprofit/NGO fragmentation in emerging-economy health delivery** — direct citation for the flagged claim in your draft paragraph
-4. Consider whether one Bucket 3 source (e.g., Yang et al. 2013's institutional-quality framework) could do double duty bridging into Bucket 2 if you write the annotation to emphasize its application to digital-health PPPs specifically
+### Recommended Next Steps
+1. **Core requirement is satisfied** — you have 10 confirmed peer-reviewed sources spanning all three thematic buckets. No further mandatory searching is required.
+2. **Optional buffer:** If you want a safety margin (in case any source gets cut during drafting, or you want stronger alignment on the "fragmented nonprofit interventions" claim), consider one more source — otherwise, shift focus now to drafting the 200–250 word annotations for all 10 confirmed sources.
+3. **Next phase:** Review all 10 sources together, select final ordering/organization for the bibliography, and begin independent drafting of annotation prose (per the academic-integrity constraint, this drafting must be done by you, not the AI).
