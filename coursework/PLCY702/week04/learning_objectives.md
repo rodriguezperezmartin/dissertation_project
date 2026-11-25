@@ -2,7 +2,7 @@
 
 **Course:** PLCY 702: Founding Era and the Constitution (Prof. Erik S. Root)  
 **Module:** Week 4 (Halfway Point)  
-**Status:** 🔄 In progress — readings confirmed (Nov. 17, 2026); study notes complete for all 5 readings + Dr. Ross video; roadmap drafted for Annotated Bibliography assignment
+**Status:** 🔄 In progress — readings confirmed (Nov. 17, 2026); study notes complete for all 5 readings + Dr. Ross video; Annotated Bibliography submitted on time (final version: [assignments/final_annotated_bibliography.md](assignments/final_annotated_bibliography.md), research interest + 10 annotated sources)
 
 ---
 
@@ -118,17 +118,14 @@ The Annotated Bibliography serves dual purposes:
 
 ## Study Notes
 
-_To be populated as readings are assigned and completed._
-
-**Current placeholder structure:**
-- `study_notes/` — Will contain notes on each reading as it is completed (Peace Pact summary, Tocqueville Ch. 5 notes, McClellan chapter notes, Federalist #13 analysis)
+Six study notes are in [study_notes/](study_notes/): the three McClellan chapters, Tocqueville Vol. 1 Pt. 1 Ch. 5, Hendrickson's *Peace Pact*, and Dr. Ross's Week 4 video. Federalist No. 13 has no study note (it is supplementary; see the note above).
 
 ---
 
 ## Quick Links
 
 **Module Materials:**
-- Introduction: [This file — week04/learning_objectives.md](../learning_objectives.md)
+- Introduction: [This file — learning_objectives.md](learning_objectives.md)
 - Prof. Root's guidance email: [professor_introduction_week04.md](assignments/professor_introduction_week04.md)
 - Study notes (5 readings + Dr. Ross video): [study_notes/](study_notes/)
 
@@ -144,7 +141,7 @@ _To be populated as readings are assigned and completed._
 **Course Context:**
 - [../course_overview.md](../course_overview.md) — Full course map
 - [../week03/learning_objectives.md](../week03/learning_objectives.md) — Week 3 (Liberty) for reference on analytical frameworks
-- [../../slow_reading_lists_fletcher_notes.md](../../slow_reading_lists_fletcher_notes.md) — Fletcher's slow reading method
+- [../slow_reading_lists_fletcher_notes.md](../slow_reading_lists_fletcher_notes.md) — Fletcher's slow reading method
 
 ---
 
