@@ -44,15 +44,20 @@ The Module 5 email and overview name the works below. Page ranges and the full n
 
 | # | Author/Work | Pages | Citation | Focus Area | Study Notes |
 |---|---|---|---|---|---|
-| 1 | Fischer, *Albion's Seed* — class structure and division | TBD | Fischer, D. H. (1989). *Albion's seed: Four British folkways in America*. Oxford University Press. | Hierarchy, elites, and the cycle of regimes | TBD |
+| 1 | Fischer, *Albion's Seed* — class structure and division | [Summary](assignments/reading_summary_fischer_rank_ways.md) | Fischer, D. H. (1989). *Albion's seed: Four British folkways in America*. Oxford University Press. | Hierarchy, elites, and the cycle of regimes | TBD |
 | 2 | Crèvecoeur, "What Is an American?" (*Letters from an American Farmer*) | [Summary](assignments/reading_summary_crevecoeur_what_is_an_american.md) | Crèvecoeur, J. H. St. J. de. *Letters from an American farmer*. Edition and year to confirm (the professor's email dates the piece to 1784; the work is usually cited as 1782, so verify the edition used). | Toleration, national identity, and the "new race of men" | TBD |
 | 3 | Jefferson, *A Summary View of the Rights of British America* (1774) | TBD | Jefferson, T. (1774). *A summary view of the rights of British America*. Edition to confirm. | Early statement of rights; charges against the King; slavery | [Summary](assignments/reading_summary_jefferson_summary_view.md) |
 | 4 | Jefferson, *Declaration of Independence* (1776) | Full text | Jefferson, T. (1776). *Declaration of independence*. Edition to confirm; see also the founding.com annotation. | Structure and function of "equality"; anti-slavery passage in the original draft | [Summary](assignments/reading_summary_jefferson_draft_declaration.md) |
-| 5 | Tocqueville, *Democracy in America* — equality and the passions (DeT) | TBD | Tocqueville, A. de. (2000). *Democracy in America* (H. Mansfield & D. Winthrop, Trans.). University of Chicago Press. (Original work published 1835/1840.) | Equality rightly understood versus modern equality; passion for equality | TBD |
+| 5 | Tocqueville, *Democracy in America* — equality and the passions (DeT) | [Summary](assignments/reading_summary_tocqueville_democracy_vol2_part2.md) | Tocqueville, A. de. (2000). *Democracy in America* (H. Mansfield & D. Winthrop, Trans.). University of Chicago Press. (Original work published 1835/1840.) | Equality rightly understood versus modern equality; passion for equality | TBD |
+| 6 | Armitage, *The Declaration of Independence: A Global History* — Bentham's short review (1776) | [Summary](assignments/reading_summary_armitage_bentham_review.md) | Armitage, D. (2007). *The declaration of independence: A global history*. Harvard University Press. | Natural rights versus parliamentary sovereignty; the Declaration as foreign-policy document | TBD |
+| 7 | Dr. Ross, Module 5 video lecture (Equality and American Constitutionalism) | [Transcript](assignments/professor_video_transcript_dr_ross_week05.md) | Ross, J. (n.d.). *Module 5: Equality and American constitutionalism* [Video lecture]. Liberty University Canvas. | Equality of conditions as providential fact; Tocqueville and Jefferson's political equality | — |
+| 8 | Brown, R. D. (2017), "The Declaration of Independence and the Mystery of Equality" (scholarly source, student-found) | [Summary](assignments/reading_summary_brown_declaration_mystery_of_equality.md) | Brown, R. D. (2017). The Declaration of Independence and the mystery of equality. In *Self-evident truths: Contesting equal rights from the Revolution to the Civil War* (pp. 1–27). Yale University Press. | Equality as aspiration; natural rights versus rights of Englishmen; slavery and Jefferson's racial views | TBD |
+| 9 | Boulton, A. O. (1995), "The American Paradox: Jeffersonian Equality and Racial Science" (scholarly source, student-found) | [Summary](assignments/reading_summary_boulton_american_paradox_jeffersonian_equality.md) | Boulton, A. O. (1995). The American paradox: Jeffersonian equality and racial science. *American Quarterly*, *47*(3), 467–492. https://doi.org/10.2307/2713297 | "Equal creation" versus racial science; the "box with a false bottom" of equality | TBD |
+| 10 | Brown, W. J. (1962), "Liberty and the Declaration of Independence" (**not counted** as scholarly: professional bar-association essay) | [Summary](assignments/reading_summary_brown_liberty_declaration_1962.md) | Brown, W. J. (1962). Liberty and the Declaration of Independence. *American Bar Association Journal*, *48*(7), 619–623. https://www.jstor.org/stable/25722039 | Three ideas of equality in liberty: individuality, equal opportunity, consent | — |
 
-**Note on translation:** Week 3 and Week 4 notes cite Tocqueville in the Nolla/Schleifer (Liberty Fund, 2012) edition. Prof. Root's Week 3 wrap-up recommends the Mansfield translation for serious work. Confirm which edition is assigned before the thread is finalized.
+**Translation:** the student chose the Mansfield & Winthrop (2000) translation, as Prof. Root recommended. Week 3 and Week 4 notes cite the Nolla/Schleifer (2012) edition, so those citations need updating before the thread is finalized.
 
-**Remaining readings (Module 5, 9 readings + 1 video):** to be added after checking the Canvas module.
+**Remaining readings:** all assigned readings and the three student-found articles now have summaries. The Dr. Ross video transcript is filed above. Check the Armitage citation and page numbers against the book.
 
 ---
 
@@ -79,7 +84,8 @@ _None yet. Create one study note per reading in `study_notes/` once the reading 
 
 ## Next Steps
 
-- [ ] Confirm the nine readings and the Dr. Ross video against the Canvas Module 5 page; fill in pages and citations in the reading table
+- [x] All seven readings and the Dr. Ross video are summarized or filed (Armitage summary completed; check its citation details)
+- [ ] Confirm the Dr. Ross video date and title against Canvas, and the Armitage publisher and page numbers against the book (publisher is from memory; not in the student's Word file)
 - [ ] Confirm the Crèvecoeur edition and year, the Tocqueville translation, and the Jefferson edition
 - [ ] Read Fischer's assigned class-structure pages and take study notes
 - [ ] Read Crèvecoeur, Jefferson (*Summary View* and Declaration), and Tocqueville (DeT) slowly, using Fletcher's method
